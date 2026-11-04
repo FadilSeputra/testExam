@@ -1,0 +1,517 @@
+const app = {
+    state: {
+        currentTestType: 'aws_saa',
+        questions: [],
+        currentIndex: 0,
+        answers: {},
+        flagged: {},
+        timerInterval: null,
+        timeRemaining: 0,
+        timeUsed: 0,
+        matrixFilter: 'all'
+    },
+
+    config: {
+        logic: { time: 600, count: 15, title: 'Psikotes: Logika & Penalaran' },
+        numeric: { time: 720, count: 15, title: 'Psikotes: Numerik & Deret Angka' },
+        verbal: { time: 600, count: 15, title: 'Psikotes: Verbal & Sinonim' },
+        disc: { time: 0, count: 20, title: 'Psikotes: DISC Profile' },
+        sjt: { time: 900, count: 10, title: 'Psikotes: Situational Judgement (SJT)' },
+        aws_saa: { time: 7800, count: 65, title: 'AWS Certified Solutions Architect (SAA-C03)' },
+        cbt1: { time: 12000, count: 200, title: 'CBT Apoteker: Try Out Ke-1 (200 Soal)' }
+    },
+
+    init() {
+        this.setupKeyboardShortcuts();
+        this.renderDashboardStats();
+        this.showDashboard();
+    },
+
+    showDashboard() {
+        if (this.state.timerInterval) clearInterval(this.state.timerInterval);
+        document.getElementById('dashboardPage').classList.remove('hidden');
+        document.getElementById('mainContainer').classList.add('hidden');
+        document.getElementById('resultScreen').classList.add('hidden');
+        this.renderDashboardStats();
+    },
+
+    renderDashboardStats() {
+        const history = scoring.getHistory();
+        document.getElementById('statTotalExams').innerText = history.length;
+
+        const awsHistory = history.filter(h => h.type === 'aws_saa');
+        if (awsHistory.length > 0) {
+            const avgAws = awsHistory.reduce((acc, curr) => acc + curr.score, 0) / awsHistory.length;
+            document.getElementById('statAvgAwsScore').innerText = `${avgAws.toFixed(1)}%`;
+            
+            const passedAws = awsHistory.filter(h => h.score >= 72).length;
+            document.getElementById('statAwsPassing').innerText = `${passedAws} / ${awsHistory.length}`;
+        } else {
+            document.getElementById('statAvgAwsScore').innerText = '0%';
+            document.getElementById('statAwsPassing').innerText = '0 / 0';
+        }
+
+        const totalAns = history.reduce((acc, curr) => acc + (curr.total || 0), 0);
+        document.getElementById('statTotalAnswered').innerText = totalAns;
+
+        // Render Recent History List
+        const listEl = document.getElementById('dashboardHistoryList');
+        if (history.length === 0) {
+            listEl.innerHTML = '<p class="py-4 text-center text-slate-400 font-mono">Belum ada riwayat tes.</p>';
+            return;
+        }
+
+        const sorted = [...history].sort((a, b) => new Date(b.date) - new Date(a.date)).slice(0, 5);
+        let html = '';
+        sorted.forEach(res => {
+            const date = new Date(res.date).toLocaleDateString('id-ID', {
+                month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit'
+            });
+            const isAws = res.type === 'aws_saa';
+            const isCbt = res.type === 'cbt1' || res.type === 'cbt';
+            let title = `Psikotes: ${res.type.toUpperCase()}`;
+            if (isAws) title = 'AWS Solutions Architect (SAA-C03)';
+            else if (isCbt) title = 'CBT Apoteker (Try Out Ke-1)';
+            const passingScore = isAws ? 72 : (isCbt ? 65 : 70);
+            const isPass = res.score >= passingScore;
+
+            html += `
+                <div class="py-3 flex items-center justify-between">
+                    <div class="flex items-center gap-3">
+                        <div class="w-2 h-2 rounded-full ${isAws ? 'bg-amber-500' : 'bg-blue-500'}"></div>
+                        <div>
+                            <div class="font-semibold text-slate-800 dark:text-slate-200">${title}</div>
+                            <div class="text-[11px] text-slate-400 font-mono">${date} · Waktu: ${Math.floor(res.timeUsed / 60)}m ${res.timeUsed % 60}s</div>
+                        </div>
+                    </div>
+                    <div class="flex items-center gap-3">
+                        <span class="font-mono font-bold text-sm ${isPass ? 'text-emerald-500' : 'text-rose-500'}">${res.score.toFixed(1)}%</span>
+                        <span class="px-2 py-0.5 text-[10px] font-mono rounded ${isPass ? 'bg-emerald-500/10 text-emerald-600' : 'bg-rose-500/10 text-rose-600'}">
+                            ${isPass ? 'PASS' : 'FAIL'}
+                        </span>
+                    </div>
+                </div>
+            `;
+        });
+        listEl.innerHTML = html;
+    },
+
+    startTest(type) {
+        if (!window.QUESTION_BANK || !window.QUESTION_BANK[type]) {
+            alert('Bank soal tidak ditemukan!');
+            return;
+        }
+
+        const conf = this.config[type];
+        const pool = window.QUESTION_BANK[type];
+        
+        const shuffled = [...pool].sort(() => 0.5 - Math.random());
+        this.state.questions = shuffled.slice(0, conf.count);
+        
+        this.state.currentTestType = type;
+        this.state.currentIndex = 0;
+        this.state.answers = {};
+        this.state.flagged = {};
+        this.state.timeRemaining = conf.time;
+        this.state.timeUsed = 0;
+
+        document.getElementById('dashboardPage').classList.add('hidden');
+        document.getElementById('resultScreen').classList.add('hidden');
+        document.getElementById('mainContainer').classList.remove('hidden');
+
+        this.startTimer();
+        this.renderMatrix();
+        this.renderQuestion();
+    },
+
+    startSimulation() {
+        this.startTest('logic');
+    },
+
+    startTimer() {
+        if (this.state.timerInterval) clearInterval(this.state.timerInterval);
+        
+        const conf = this.config[this.state.currentTestType];
+        if (conf.time === 0) {
+            document.getElementById('timerText').innerText = '∞';
+            this.state.timerInterval = setInterval(() => {
+                this.state.timeUsed++;
+                this.updateTimeUsedDisplay();
+            }, 1000);
+            return;
+        }
+
+        this.updateTimerDisplay();
+
+        this.state.timerInterval = setInterval(() => {
+            if (this.state.timeRemaining > 0) {
+                this.state.timeRemaining--;
+                this.state.timeUsed++;
+                this.updateTimerDisplay();
+                this.updateTimeUsedDisplay();
+            } else {
+                clearInterval(this.state.timerInterval);
+                this.submitExam(true);
+            }
+        }, 1000);
+    },
+
+    updateTimerDisplay() {
+        const m = String(Math.floor(this.state.timeRemaining / 60)).padStart(2, '0');
+        const s = String(this.state.timeRemaining % 60).padStart(2, '0');
+        document.getElementById('timerText').innerText = `${m}:${s}`;
+    },
+
+    updateTimeUsedDisplay() {
+        const m = Math.floor(this.state.timeUsed / 60);
+        const s = this.state.timeUsed % 60;
+        document.getElementById('timeUsedText').innerText = `${m}m ${s}s`;
+    },
+
+    setMatrixFilter(filter) {
+        this.state.matrixFilter = filter;
+        ['all', 'flagged', 'unanswered'].forEach(f => {
+            const btn = document.getElementById('filter' + f.charAt(0).toUpperCase() + f.slice(1));
+            if (f === filter) {
+                btn.className = "px-2.5 py-1 rounded-md font-medium bg-slate-900 text-white dark:bg-slate-100 dark:text-slate-900";
+            } else {
+                btn.className = "px-2.5 py-1 rounded-md font-medium bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-400 hover:bg-slate-200";
+            }
+        });
+        this.renderMatrix();
+    },
+
+    renderMatrix() {
+        const matrixEl = document.getElementById('questionMatrix');
+        matrixEl.innerHTML = '';
+
+        this.state.questions.forEach((q, idx) => {
+            const isCurrent = idx === this.state.currentIndex;
+            const isAnswered = this.state.answers[idx] !== undefined;
+            const isFlagged = this.state.flagged[idx] === true;
+
+            if (this.state.matrixFilter === 'flagged' && !isFlagged) return;
+            if (this.state.matrixFilter === 'unanswered' && isAnswered) return;
+
+            let btnClass = "h-9 w-full rounded-lg font-mono text-xs font-semibold flex items-center justify-center transition border relative ";
+
+            if (isCurrent) {
+                btnClass += "ring-2 ring-blue-600 dark:ring-blue-400 border-blue-600 font-bold ";
+            } else {
+                btnClass += "border-slate-200 dark:border-slate-800 ";
+            }
+
+            if (isAnswered) {
+                btnClass += "bg-blue-600 text-white dark:bg-blue-600 border-blue-600 ";
+            } else {
+                btnClass += "bg-white dark:bg-slate-900 text-slate-700 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-800 ";
+            }
+
+            const btn = document.createElement('button');
+            btn.className = btnClass;
+            btn.onclick = () => this.jumpToQuestion(idx);
+            btn.innerText = idx + 1;
+
+            if (isFlagged) {
+                const dot = document.createElement('span');
+                dot.className = "absolute -top-1 -right-1 w-3 h-3 bg-amber-500 rounded-full border-2 border-white dark:border-slate-900";
+                btn.appendChild(dot);
+            }
+
+            matrixEl.appendChild(btn);
+        });
+
+        const answeredCount = Object.keys(this.state.answers).length;
+        document.getElementById('progressStats').innerText = `${answeredCount} / ${this.state.questions.length} Terjawab`;
+        document.getElementById('progressBar').style.width = `${(answeredCount / this.state.questions.length) * 100}%`;
+    },
+
+    renderQuestion() {
+        const q = this.state.questions[this.state.currentIndex];
+        if (!q) return;
+
+        const isMulti = q.isMultiSelect === true || Array.isArray(q.answer) || /Select\s+(TWO|THREE|2|3)/i.test(q.question || '') || /Choose\s+(TWO|THREE|2|3)/i.test(q.question || '');
+        const reqCount = Array.isArray(q.answer) ? q.answer.length : (q.multiCount || 2);
+
+        document.getElementById('questionNumBadge').innerText = `Soal #${this.state.currentIndex + 1}`;
+        document.getElementById('questionCategory').innerHTML = `${this.config[this.state.currentTestType].title} ${isMulti ? `<span class="ml-2 px-2 py-0.5 text-[10px] font-bold font-mono rounded bg-amber-500/10 text-amber-600 dark:text-amber-400 border border-amber-500/20">PILIH ${reqCount} JAWABAN (MULTI-SELECT)</span>` : ''}`;
+        document.getElementById('questionText').innerText = q.question || q.scenario;
+
+        // Flag State
+        const isFlagged = this.state.flagged[this.state.currentIndex] === true;
+        const flagBtn = document.getElementById('flagBtn');
+        if (isFlagged) {
+            flagBtn.className = "flex items-center gap-1.5 px-3 py-1 rounded-lg border text-xs font-semibold bg-amber-50 dark:bg-amber-950/60 border-amber-300 dark:border-amber-700 text-amber-700 dark:text-amber-300";
+            document.getElementById('flagLabel').innerText = "Ditandai Ragu [F]";
+        } else {
+            flagBtn.className = "flex items-center gap-1.5 px-3 py-1 rounded-lg border text-xs font-medium border-slate-200 dark:border-slate-700 text-slate-600 dark:text-slate-400 hover:bg-slate-50 dark:hover:bg-slate-800 transition";
+            document.getElementById('flagLabel').innerText = "Tandai Ragu-ragu [F]";
+        }
+
+        // Render Options
+        const container = document.getElementById('optionsContainer');
+        container.innerHTML = '';
+
+        const selectedAns = this.state.answers[this.state.currentIndex];
+
+        q.options.forEach((opt, idx) => {
+            const isSelected = isMulti 
+                ? (Array.isArray(selectedAns) && selectedAns.includes(idx))
+                : selectedAns === idx;
+
+            const text = typeof opt === 'string' ? opt : (opt.text || JSON.stringify(opt));
+            const letter = String.fromCharCode(65 + idx);
+
+            let cardClass = "w-full p-4 rounded-xl border text-left flex items-start gap-3.5 transition cursor-pointer ";
+            if (isSelected) {
+                cardClass += "border-blue-600 bg-blue-50/60 dark:bg-blue-950/40 dark:border-blue-500 shadow-sm ";
+            } else {
+                cardClass += "border-slate-200 dark:border-slate-800 hover:border-slate-300 dark:hover:border-slate-700 bg-white dark:bg-slate-900 ";
+            }
+
+            const btn = document.createElement('div');
+            btn.className = cardClass;
+            btn.onclick = () => this.selectOption(idx);
+
+            let badgeClass = "w-7 h-7 rounded-lg font-mono text-xs font-bold flex items-center justify-center flex-shrink-0 transition ";
+            if (isSelected) {
+                badgeClass += "bg-blue-600 text-white ";
+            } else {
+                badgeClass += "bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-400 ";
+            }
+
+            const checkboxIndicator = isMulti 
+                ? `<span class="ml-auto w-5 h-5 rounded border ${isSelected ? 'bg-blue-600 border-blue-600 text-white' : 'border-slate-300 dark:border-slate-700'} flex items-center justify-center text-xs">${isSelected ? '✓' : ''}</span>`
+                : '';
+
+            btn.innerHTML = `
+                <span class="${badgeClass}">${letter}</span>
+                <span class="text-sm lg:text-base text-slate-800 dark:text-slate-200 font-medium pt-0.5 leading-snug flex-1">${text}</span>
+                ${checkboxIndicator}
+            `;
+
+            container.appendChild(btn);
+        });
+
+        document.getElementById('prevBtn').disabled = this.state.currentIndex === 0;
+        document.getElementById('prevBtn').style.opacity = this.state.currentIndex === 0 ? "0.5" : "1";
+    },
+
+    selectOption(idx) {
+        const q = this.state.questions[this.state.currentIndex];
+        const isMulti = q.isMultiSelect === true || Array.isArray(q.answer) || /Select\s+(TWO|THREE|2|3)/i.test(q.question || '') || /Choose\s+(TWO|THREE|2|3)/i.test(q.question || '');
+
+        if (isMulti) {
+            const currentAns = this.state.answers[this.state.currentIndex];
+            let ansArr = Array.isArray(currentAns) ? [...currentAns] : [];
+
+            if (ansArr.includes(idx)) {
+                ansArr = ansArr.filter(i => i !== idx);
+            } else {
+                ansArr.push(idx);
+            }
+
+            if (ansArr.length > 0) {
+                this.state.answers[this.state.currentIndex] = ansArr;
+            } else {
+                delete this.state.answers[this.state.currentIndex];
+            }
+        } else {
+            this.state.answers[this.state.currentIndex] = idx;
+        }
+
+        this.renderMatrix();
+        this.renderQuestion();
+    },
+
+    toggleFlag() {
+        this.state.flagged[this.state.currentIndex] = !this.state.flagged[this.state.currentIndex];
+        this.renderMatrix();
+        this.renderQuestion();
+    },
+
+    jumpToQuestion(idx) {
+        this.state.currentIndex = idx;
+        this.renderMatrix();
+        this.renderQuestion();
+    },
+
+    nextQuestion() {
+        if (this.state.currentIndex < this.state.questions.length - 1) {
+            this.state.currentIndex++;
+            this.renderMatrix();
+            this.renderQuestion();
+        }
+    },
+
+    prevQuestion() {
+        if (this.state.currentIndex > 0) {
+            this.state.currentIndex--;
+            this.renderMatrix();
+            this.renderQuestion();
+        }
+    },
+
+    toggleDarkMode() {
+        document.documentElement.classList.toggle('dark');
+    },
+
+    submitExam(isTimeout = false) {
+        if (!isTimeout) {
+            const answered = Object.keys(this.state.answers).length;
+            if (answered < this.state.questions.length) {
+                if (!confirm(`Anda baru menjawab ${answered} dari ${this.state.questions.length} soal. Yakin ingin mengumpulkan?`)) {
+                    return;
+                }
+            }
+        }
+
+        clearInterval(this.state.timerInterval);
+
+        const result = scoring.calculateScore(
+            this.state.currentTestType,
+            this.state.questions,
+            this.state.answers,
+            this.state.timeUsed
+        );
+
+        scoring.saveResult(result);
+
+        const percent = Math.round(result.score);
+        document.getElementById('resultScore').innerText = `${percent}%`;
+        document.getElementById('resultScoreDetail').innerText = `${result.correct || 0} dari ${result.total} Soal Benar`;
+        document.getElementById('resultCorrectCount').innerText = `${result.correct || 0} Soal`;
+        document.getElementById('resultIncorrectCount').innerText = `${(result.total - (result.correct || 0))} Soal`;
+        document.getElementById('resultTotalTime').innerText = `${Math.floor(result.timeUsed / 60)}m ${result.timeUsed % 60}s`;
+        document.getElementById('resultFlaggedCount').innerText = `${Object.keys(this.state.flagged).filter(k => this.state.flagged[k]).length} Soal`;
+        document.getElementById('resultModuleTitle').innerText = this.config[this.state.currentTestType].title;
+
+        const badge = document.getElementById('resultBadge');
+        if (percent >= 72) {
+            badge.className = "px-3 py-1 text-xs font-bold font-mono rounded bg-emerald-100 text-emerald-800 dark:bg-emerald-950 dark:text-emerald-300 border border-emerald-200 dark:border-emerald-800";
+            badge.innerText = "LULUS (PASSING GRADE REACHED)";
+        } else {
+            badge.className = "px-3 py-1 text-xs font-bold font-mono rounded bg-rose-100 text-rose-800 dark:bg-rose-950 dark:text-rose-300 border border-rose-200 dark:border-rose-800";
+            badge.innerText = "BELUM LULUS (BELOW PASSING GRADE)";
+        }
+
+        // Render Explanations
+        this.renderResultExplanations(result);
+
+        document.getElementById('mainContainer').classList.add('hidden');
+        document.getElementById('resultScreen').classList.remove('hidden');
+    },
+
+    formatExplanation(exp) {
+        if (!exp) return 'Pembahasan belum tersedia untuk soal ini.';
+        const clean = String(exp).replace(/\n/g, '<br>');
+        const urlRegex = /(https?:\/\/[^\s<]+)/g;
+        return clean.replace(urlRegex, function(url) {
+            return `<a href="${url}" target="_blank" rel="noopener noreferrer" class="text-blue-500 underline font-semibold hover:text-blue-400 font-mono break-all inline-flex items-center gap-1 mt-1"><span>🔗 ${url}</span></a>`;
+        });
+    },
+
+    formatChoice(optList, choice) {
+        if (choice === undefined || choice === null) return '<span class="text-rose-500 font-bold">Tidak dijawab</span>';
+        if (Array.isArray(choice)) {
+            if (choice.length === 0) return '<span class="text-rose-500 font-bold">Tidak dijawab</span>';
+            return choice.map(i => {
+                const optText = typeof optList[i] === 'string' ? optList[i] : (optList[i].text || JSON.stringify(optList[i]));
+                return `<div class="mt-0.5"><strong class="font-mono text-blue-600 dark:text-blue-400">${String.fromCharCode(65 + i)}.</strong> ${optText}</div>`;
+            }).join('');
+        }
+        const optText = typeof optList[choice] === 'string' ? optList[choice] : (optList[choice].text || JSON.stringify(optList[choice]));
+        return `<div><strong class="font-mono text-blue-600 dark:text-blue-400">${String.fromCharCode(65 + choice)}.</strong> ${optText}</div>`;
+    },
+
+    renderResultExplanations(result) {
+        const container = document.getElementById('resultExplanationsContainer');
+        container.innerHTML = '';
+
+        if (!result.details || result.details.length === 0) {
+            container.innerHTML = '<p class="text-slate-400 font-mono text-xs">Tidak ada pembahasan soal tersedia.</p>';
+            return;
+        }
+
+        let html = '';
+        result.details.forEach((d, idx) => {
+            const isUnanswered = d.userAnswer === undefined || (Array.isArray(d.userAnswer) && d.userAnswer.length === 0);
+            const userChoiceHtml = this.formatChoice(d.options, d.userAnswer);
+            const correctChoiceHtml = this.formatChoice(d.options, d.correctAnswer);
+
+            let statusBadge = '';
+            let cardGlowBorder = '';
+
+            if (d.isCorrect) {
+                statusBadge = `<span class="px-3 py-1 text-xs font-bold font-mono rounded-lg bg-emerald-950/90 text-emerald-300 border border-emerald-800/80 shadow-sm">Soal #${idx + 1} · BENAR</span>`;
+                cardGlowBorder = 'border-emerald-500/40 bg-[#0d1612] dark:bg-[#09140f] text-slate-100 shadow-emerald-950/20';
+            } else if (isUnanswered) {
+                statusBadge = `<span class="px-3 py-1 text-xs font-bold font-mono rounded-lg bg-amber-950/90 text-amber-300 border border-amber-800/80 shadow-sm">Soal #${idx + 1} · TIDAK DIJAWAB</span>`;
+                cardGlowBorder = 'border-amber-500/40 bg-[#16120b] dark:bg-[#151009] text-slate-100 shadow-amber-950/20';
+            } else {
+                statusBadge = `<span class="px-3 py-1 text-xs font-bold font-mono rounded-lg bg-rose-950/90 text-rose-300 border border-rose-800/80 shadow-sm">Soal #${idx + 1} · SALAH ${d.isMultiSelect ? '(Multi-Select)' : ''}</span>`;
+                cardGlowBorder = 'border-rose-900/60 bg-[#140a12] dark:bg-[#130a12] text-slate-100 shadow-rose-950/20';
+            }
+
+            const formattedExp = this.formatExplanation(d.explanation);
+
+            html += `
+                <div class="glowing-shadow-card p-6 rounded-2xl border ${cardGlowBorder} flex flex-col gap-4 shadow-xl relative overflow-hidden transition-all">
+                    <div class="flex items-center justify-between">
+                        ${statusBadge}
+                        ${d.isMultiSelect ? '<span class="text-[10px] font-mono font-bold px-2.5 py-1 rounded-md bg-purple-950/80 text-purple-300 border border-purple-800/60 uppercase tracking-wider">MULTI-SELECT</span>' : ''}
+                    </div>
+
+                    <div class="text-base lg:text-lg font-semibold text-slate-100 leading-relaxed font-sans pt-1">
+                        ${d.question}
+                    </div>
+
+                    <div class="grid grid-cols-1 md:grid-cols-2 gap-3.5 pt-2">
+                        <div class="p-4 rounded-xl bg-[#0f172a]/90 border border-slate-800/80 flex flex-col gap-1.5 shadow-inner">
+                            <span class="text-xs font-medium text-slate-400 uppercase tracking-wider font-mono">Jawaban Anda:</span>
+                            <div class="text-sm font-medium ${d.isCorrect ? 'text-emerald-400' : 'text-rose-400'}">${userChoiceHtml}</div>
+                        </div>
+                        <div class="p-4 rounded-xl bg-[#0f172a]/90 border border-slate-800/80 flex flex-col gap-1.5 shadow-inner">
+                            <span class="text-xs font-medium text-slate-400 uppercase tracking-wider font-mono">Jawaban Benar:</span>
+                            <div class="text-sm font-medium text-emerald-400">${correctChoiceHtml}</div>
+                        </div>
+                    </div>
+
+                    <div class="mt-1 p-5 rounded-xl bg-[#0c1328]/95 border border-blue-900/60 text-xs lg:text-sm text-slate-300 leading-relaxed shadow-md flex flex-col gap-2">
+                        <div class="font-bold text-blue-400 text-sm flex items-center gap-2">
+                            <span>Pembahasan:</span>
+                        </div>
+                        <div class="text-slate-300 font-normal leading-relaxed">${formattedExp}</div>
+                    </div>
+                </div>
+            `;
+        });
+
+        container.innerHTML = html;
+    },
+
+    restartExam() {
+        this.startTest(this.state.currentTestType);
+    },
+
+    setupKeyboardShortcuts() {
+        document.addEventListener('keydown', (e) => {
+            if (document.getElementById('mainContainer').classList.contains('hidden')) return;
+            
+            if (e.key === 'ArrowRight') this.nextQuestion();
+            if (e.key === 'ArrowLeft') this.prevQuestion();
+            if (e.key.toLowerCase() === 'f') this.toggleFlag();
+            
+            const lowerKey = e.key.toLowerCase();
+            if (['a', 'b', 'c', 'd', 'e'].includes(lowerKey)) {
+                const idx = ['a', 'b', 'c', 'd', 'e'].indexOf(lowerKey);
+                this.selectOption(idx);
+            }
+            if (['1', '2', '3', '4', '5'].includes(e.key)) {
+                this.selectOption(parseInt(e.key) - 1);
+            }
+        });
+    }
+};
+
+window.onload = () => app.init();
