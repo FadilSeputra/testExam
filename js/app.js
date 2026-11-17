@@ -18,16 +18,76 @@ const app = {
         disc: { time: 0, count: 20, title: 'Psikotes: DISC Profile' },
         sjt: { time: 900, count: 10, title: 'Psikotes: Situational Judgement (SJT)' },
         aws_saa: { time: 7800, count: 65, title: 'AWS Certified Solutions Architect (SAA-C03)' },
-        cbt1: { time: 12000, count: 200, title: 'CBT Apoteker: Try Out Ke-1 (200 Soal)' }
+        cbt1: { time: 12000, count: 200, title: 'CBT Apoteker: Try Out Ke-1 (200 Soal)' },
+        aws_clf: { time: 5400, count: 65, title: 'AWS Certified Cloud Practitioner (CLF-C02)' }
     },
 
     init() {
+        window.addEventListener('beforeunload', (e) => {
+            if (this.isExamActive()) { this.saveProgress(); e.preventDefault(); e.returnValue = ''; }
+        });
         this.setupKeyboardShortcuts();
         this.renderDashboardStats();
-        this.showDashboard();
+        if (!this.tryResumeProgress()) this.showDashboard();
+    },
+
+    PROGRESS_KEY: 'examInProgress',
+
+    saveProgress() {
+        if (!this.isExamActive()) return;
+        try {
+            const s = this.state;
+            localStorage.setItem(this.PROGRESS_KEY, JSON.stringify({
+                type: s.currentTestType, questions: s.questions, currentIndex: s.currentIndex,
+                answers: s.answers, flagged: s.flagged, timeRemaining: s.timeRemaining,
+                timeUsed: s.timeUsed, savedAt: Date.now()
+            }));
+        } catch (e) { console.warn('Gagal menyimpan progres', e); }
+    },
+
+    clearProgress() {
+        localStorage.removeItem(this.PROGRESS_KEY);
+    },
+
+    tryResumeProgress() {
+        let saved;
+        try { saved = JSON.parse(localStorage.getItem(this.PROGRESS_KEY)); } catch (e) { saved = null; }
+        if (!saved || !saved.questions || !this.config[saved.type]) { this.clearProgress(); return false; }
+        const answered = Object.keys(saved.answers || {}).length;
+        const m = Math.floor(saved.timeRemaining / 60), sec = saved.timeRemaining % 60;
+        const sisa = this.config[saved.type].time === 0 ? 'tanpa batas waktu' : `sisa waktu ${m}m ${sec}s`;
+        if (!confirm(`📝 Ada ujian yang belum selesai:\n${this.config[saved.type].title}\n${answered}/${saved.questions.length} soal terjawab, ${sisa}.\n\nLanjutkan ujian ini?\n(Cancel = hapus progres dan kembali ke dashboard)`)) {
+            this.clearProgress();
+            return false;
+        }
+        Object.assign(this.state, {
+            currentTestType: saved.type, questions: saved.questions, currentIndex: saved.currentIndex || 0,
+            answers: saved.answers || {}, flagged: saved.flagged || {},
+            timeRemaining: saved.timeRemaining, timeUsed: saved.timeUsed || 0
+        });
+        document.getElementById('dashboardPage').classList.add('hidden');
+        document.getElementById('resultScreen').classList.add('hidden');
+        document.getElementById('mainContainer').classList.remove('hidden');
+        this.startTimer();
+        this.renderMatrix();
+        this.renderQuestion();
+        return true;
+    },
+
+    isExamActive() {
+        const el = document.getElementById('mainContainer');
+        return el && !el.classList.contains('hidden');
+    },
+
+    confirmLeaveExam() {
+        if (!this.isExamActive()) return true;
+        const answered = Object.keys(this.state.answers).length;
+        return confirm(`⚠️ Ujian sedang berlangsung (${answered}/${this.state.questions.length} soal terjawab).\n\nJika Anda keluar, progres ujian ini akan HILANG dan tidak disimpan.\n\nYakin ingin meninggalkan ujian?`);
     },
 
     showDashboard() {
+        if (!this.confirmLeaveExam()) return;
+        this.clearProgress();
         if (this.state.timerInterval) clearInterval(this.state.timerInterval);
         document.getElementById('dashboardPage').classList.remove('hidden');
         document.getElementById('mainContainer').classList.add('hidden');
@@ -68,9 +128,11 @@ const app = {
                 month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit'
             });
             const isAws = res.type === 'aws_saa';
+            const isClf = res.type === 'aws_clf';
             const isCbt = res.type === 'cbt1' || res.type === 'cbt';
             let title = `Psikotes: ${res.type.toUpperCase()}`;
             if (isAws) title = 'AWS Solutions Architect (SAA-C03)';
+            else if (isClf) title = 'AWS Cloud Practitioner (CLF-C02)';
             else if (isCbt) title = 'CBT Apoteker (Try Out Ke-1)';
             const passingScore = isAws ? 72 : (isCbt ? 65 : 70);
             const isPass = res.score >= passingScore;
@@ -97,6 +159,8 @@ const app = {
     },
 
     startTest(type) {
+        if (!this.confirmLeaveExam()) return;
+        this.clearProgress();
         if (!window.QUESTION_BANK || !window.QUESTION_BANK[type]) {
             alert('Bank soal tidak ditemukan!');
             return;
@@ -122,6 +186,7 @@ const app = {
         this.startTimer();
         this.renderMatrix();
         this.renderQuestion();
+        this.saveProgress();
     },
 
     startSimulation() {
@@ -163,6 +228,7 @@ const app = {
     },
 
     updateTimeUsedDisplay() {
+        if (this.state.timeUsed % 5 === 0) this.saveProgress();
         const m = Math.floor(this.state.timeUsed / 60);
         const s = this.state.timeUsed % 60;
         document.getElementById('timeUsedText').innerText = `${m}m ${s}s`;
@@ -235,7 +301,7 @@ const app = {
 
         document.getElementById('questionNumBadge').innerText = `Soal #${this.state.currentIndex + 1}`;
         document.getElementById('questionCategory').innerHTML = `${this.config[this.state.currentTestType].title} ${isMulti ? `<span class="ml-2 px-2 py-0.5 text-[10px] font-bold font-mono rounded bg-amber-500/10 text-amber-600 dark:text-amber-400 border border-amber-500/20">PILIH ${reqCount} JAWABAN (MULTI-SELECT)</span>` : ''}`;
-        document.getElementById('questionText').innerText = q.question || q.scenario;
+        document.getElementById('questionText').innerHTML = this.renderRich(q.question || q.scenario);
 
         // Flag State
         const isFlagged = this.state.flagged[this.state.currentIndex] === true;
@@ -298,6 +364,7 @@ const app = {
     },
 
     selectOption(idx) {
+        setTimeout(() => this.saveProgress(), 0);
         const q = this.state.questions[this.state.currentIndex];
         const isMulti = q.isMultiSelect === true || Array.isArray(q.answer) || /Select\s+(TWO|THREE|2|3)/i.test(q.question || '') || /Choose\s+(TWO|THREE|2|3)/i.test(q.question || '');
 
@@ -325,6 +392,7 @@ const app = {
     },
 
     toggleFlag() {
+        setTimeout(() => this.saveProgress(), 0);
         this.state.flagged[this.state.currentIndex] = !this.state.flagged[this.state.currentIndex];
         this.renderMatrix();
         this.renderQuestion();
@@ -337,6 +405,7 @@ const app = {
     },
 
     nextQuestion() {
+        setTimeout(() => this.saveProgress(), 0);
         if (this.state.currentIndex < this.state.questions.length - 1) {
             this.state.currentIndex++;
             this.renderMatrix();
@@ -345,6 +414,7 @@ const app = {
     },
 
     prevQuestion() {
+        setTimeout(() => this.saveProgress(), 0);
         if (this.state.currentIndex > 0) {
             this.state.currentIndex--;
             this.renderMatrix();
@@ -367,6 +437,7 @@ const app = {
         }
 
         clearInterval(this.state.timerInterval);
+        this.clearProgress();
 
         const result = scoring.calculateScore(
             this.state.currentTestType,
@@ -387,7 +458,8 @@ const app = {
         document.getElementById('resultModuleTitle').innerText = this.config[this.state.currentTestType].title;
 
         const badge = document.getElementById('resultBadge');
-        if (percent >= 72) {
+        const passMark = this.state.currentTestType === 'aws_clf' ? 70 : 72;
+        if (percent >= passMark) {
             badge.className = "px-3 py-1 text-xs font-bold font-mono rounded bg-emerald-100 text-emerald-800 dark:bg-emerald-950 dark:text-emerald-300 border border-emerald-200 dark:border-emerald-800";
             badge.innerText = "LULUS (PASSING GRADE REACHED)";
         } else {
@@ -402,9 +474,40 @@ const app = {
         document.getElementById('resultScreen').classList.remove('hidden');
     },
 
+    renderRich(text) {
+        if (text === undefined || text === null) return '';
+        const esc = s => String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+        const lines = String(text).split('\n');
+        let html = '', i = 0;
+        const isRow = l => /^\s*\|.*\|\s*$/.test(l);
+        const isSep = l => /^\s*\|[\s\-:|]+\|\s*$/.test(l);
+        const cells = l => l.trim().replace(/^\||\|$/g,'').split('|').map(c => esc(c.trim()));
+        const textBuf = [];
+        const flush = () => { if (textBuf.length) { html += '<div>' + textBuf.join('<br>') + '</div>'; textBuf.length = 0; } };
+        while (i < lines.length) {
+            if (isRow(lines[i])) {
+                flush();
+                const rows = [];
+                while (i < lines.length && isRow(lines[i])) { rows.push(lines[i]); i++; }
+                let head = null; const body = [];
+                rows.forEach((r, idx) => {
+                    if (isSep(r)) { if (idx === 1 && !head) head = body.shift(); return; }
+                    body.push(cells(r));
+                });
+                const nonEmpty = row => row.some(c => c !== '');
+                let t = '<div class="overflow-x-auto my-3"><table class="border-collapse text-sm font-mono">';
+                if (head && nonEmpty(head)) t += '<thead><tr>' + head.map(c => `<th class="border border-slate-500/60 px-3 py-1.5 bg-slate-500/20 text-left">${c}</th>`).join('') + '</tr></thead>';
+                t += '<tbody>' + body.filter(nonEmpty).map(r => '<tr>' + r.map(c => `<td class="border border-slate-500/60 px-3 py-1.5">${c}</td>`).join('') + '</tr>').join('') + '</tbody></table></div>';
+                html += t;
+            } else { textBuf.push(esc(lines[i])); i++; }
+        }
+        flush();
+        return html;
+    },
+
     formatExplanation(exp) {
         if (!exp) return 'Pembahasan belum tersedia untuk soal ini.';
-        const clean = String(exp).replace(/\n/g, '<br>');
+        const clean = this.renderRich(exp);
         const urlRegex = /(https?:\/\/[^\s<]+)/g;
         return clean.replace(urlRegex, function(url) {
             return `<a href="${url}" target="_blank" rel="noopener noreferrer" class="text-blue-500 underline font-semibold hover:text-blue-400 font-mono break-all inline-flex items-center gap-1 mt-1"><span>🔗 ${url}</span></a>`;
@@ -463,7 +566,7 @@ const app = {
                     </div>
 
                     <div class="text-base lg:text-lg font-semibold text-slate-100 leading-relaxed font-sans pt-1">
-                        ${d.question}
+                        ${this.renderRich(d.question)}
                     </div>
 
                     <div class="grid grid-cols-1 md:grid-cols-2 gap-3.5 pt-2">

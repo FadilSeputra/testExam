@@ -16,7 +16,7 @@ const scoring = {
             timeUsed: timeUsed
         };
 
-        if (['logic', 'numeric', 'verbal', 'aws_saa', 'cbt1', 'cbt'].includes(type)) {
+        if (['logic', 'numeric', 'verbal', 'aws_saa', 'aws_clf', 'cbt1', 'cbt'].includes(type)) {
             let correct = 0;
             const details = [];
             questions.forEach((q, idx) => {

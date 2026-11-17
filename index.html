@@ -59,6 +59,7 @@
         <button onclick="app.startTest('cbt1')" class="px-3 py-1.5 text-xs font-semibold text-emerald-600 dark:text-emerald-400 hover:bg-emerald-500/10 rounded-lg transition border border-emerald-500/20">
           💊 CBT Try Out 1 (200 Q)
         </button>
+        <button onclick="app.startTest('aws_clf')" class="px-3 py-1.5 text-xs font-semibold text-sky-600 dark:text-sky-400 hover:bg-sky-500/10 rounded-lg transition border border-sky-500/20">🌤️ AWS CLF</button>
         <button onclick="app.startTest('aws_saa')" class="px-3 py-1.5 text-xs font-semibold text-amber-600 dark:text-amber-400 hover:bg-amber-500/10 rounded-lg transition border border-amber-500/20">
           ☁️ AWS SAA-C03 (196 Q)
         </button>
@@ -116,7 +117,8 @@
           <button onclick="app.startTest('cbt1'); document.getElementById('mobileMenuSheet').classList.add('hidden');" class="text-left px-3 py-2 rounded-lg hover:bg-slate-800 text-emerald-400 font-semibold">
             💊 CBT Apoteker (200 Soal)
           </button>
-          <button onclick="app.startTest('aws_saa'); document.getElementById('mobileMenuSheet').classList.add('hidden');" class="text-left px-3 py-2 rounded-lg hover:bg-slate-800 text-amber-400 font-semibold">
+          <button onclick="app.startTest('aws_clf'); document.getElementById('mobileMenuSheet').classList.add('hidden');" class="text-left px-3 py-2 rounded-lg hover:bg-slate-800 text-sky-400 font-semibold">🌤️ AWS Cloud Practitioner</button>
+           <button onclick="app.startTest('aws_saa'); document.getElementById('mobileMenuSheet').classList.add('hidden');" class="text-left px-3 py-2 rounded-lg hover:bg-slate-800 text-amber-400 font-semibold">
             ☁️ AWS SAA-C03 (196 Soal)
           </button>
           <button onclick="app.startSimulation(); document.getElementById('mobileMenuSheet').classList.add('hidden');" class="text-left px-3 py-2 rounded-lg hover:bg-slate-800 text-slate-200">
@@ -223,6 +225,22 @@
             <span class="text-emerald-500 font-semibold flex items-center gap-1">
               Mulai Ujian CBT (200 Soal) →
             </span>
+          </div>
+        </div>
+
+        <!-- AWS CLF Card -->
+        <div onclick="app.startTest('aws_clf')" class="md:col-span-3 bg-white dark:bg-slate-900 border-2 border-sky-500/30 hover:border-sky-500 rounded-2xl p-6 shadow-sm transition hover:shadow-md cursor-pointer flex flex-col justify-between gap-6 group">
+          <div class="flex items-start justify-between gap-4">
+            <div class="flex flex-col gap-2">
+              <span class="px-2.5 py-0.5 text-[10px] font-bold font-mono rounded bg-sky-500/10 text-sky-600 dark:text-sky-400 border border-sky-500/20 w-fit">CERTIFICATION PREP</span>
+              <h4 class="text-xl font-bold text-slate-900 dark:text-white group-hover:text-sky-500 transition">AWS Certified Cloud Practitioner (CLF-C02)</h4>
+              <p class="text-xs text-slate-500 dark:text-slate-400 leading-relaxed max-w-xl">Bank Soal 489 Soal. Diambil 65 soal secara acak per sesi dengan passing grade 70% (Waktu: 90 Menit).</p>
+            </div>
+            <div class="h-12 w-12 rounded-xl bg-sky-500/10 text-sky-500 flex items-center justify-center font-bold text-lg flex-shrink-0">🌤️</div>
+          </div>
+          <div class="flex items-center justify-between border-t border-slate-100 dark:border-slate-800 pt-4 text-xs font-mono text-slate-500">
+            <span>65 Soal / Sesi (Dari 489 Soal)</span>
+            <span class="text-sky-500 font-semibold">Mulai Ujian CLF →</span>
           </div>
         </div>
 

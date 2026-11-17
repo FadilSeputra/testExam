@@ -4050,7 +4050,7 @@ window.QUESTION_BANK = {
       ],
       "answer": 2,
       "answerLetter": "C",
-      "explanation": "| Golongan | Obat | Mekanisme | | Efek samping | Cara Minum | |\n| ------------ | ------------ | -------------- | --- | ------------ | -------------- | ----------- |\n| Sulfunilurea | Glibenklamid | Meningkatkan | | BBnaik | Sebelum makan | |\n| | Glimipiride | sekresi insulin | | Hipoglikemia | Atau 1 | jam sebelum |\n| | Gliburid | | | | makan | |\n| | Glipizid | | | | (glibenklamid) | |\n| | Repaglinide | Meningkatkan | | BBnaik | Sebelum makan | |\nGlinid\n| | | sekresi insulin | | Hipoglikemia | | |\n| --------- | --------- | -------------- | ------- | ------------- | --------------- | --- |\n| Biguanide | Metformin | Menurunkan | | Dispepsia | Bersama/sesudah | |\n| | | produksi | glukosa | Diare | makan | |\n| | | hati | dan | Asiosis laktat | | |\nmeningkatkan\nsensitivitas\n| Thiazolidinedione | Pioglitazon | Meningkatkan | | Edema | Kapansaja | |\n| ----------------- | ----------- | --------------- | --- | ------------ | --------- | ------ |\n| | | sensitivitas | | KI | : | |\n| | | terhadap insulin | | Osteoporosis | | |\n| Penhambat | Acarbose | Menghambat | | Flatulen | Bersama | suapan |\n| alfaglukosidase | | absorbsi glukosa | | Tinjalembek | pertama | |\nPenghambat DPP-4 Sitagliptin Meningkatkan Sebah, muntah Kapansaja\n| | Linagliptin | sekresi | insulin dan | | | |\n| --- | ------------ | ---------- | ----------- | --- | --- | --- |\n| | Vildagliptin | menghambat | | | | |\nsekresi glukagon\n| | | (berkaitan | dengan | | | |\n| --- | --- | ---------- | ------ | --- | --- | --- |\ninkritin)\nPenghambat SGLT-2 Dafaglifosin Menghambat Infeksi saluran Kapansaja\n| | Canaglifosin | reabsorbsi | glukosa | kemih genital | | |\n| --- | ------------ | ---------- | ------- | ------------ | --- | --- |\ndi tubulus ginjal\n| AgonisGLP-1 | Exenatide | Glukagon | like | GI | - | |\n| ----------- | ----------- | -------- | ---------- | -------------- | --- | --- |\n| | Semaglutide | peptide | 1 reseptor | Denyut jantung | | |\n| | | agonis | | meningkat | | |\nSumber: PERKENI2019\n| --- | --- | --------------------------------------- | --- | --- | --- | --- |",
+      "explanation": "| Golongan | Obat | Mekanisme | Efek Samping | Cara Minum |\n|---|---|---|---|---|\n| Sulfonilurea | Glibenklamid, Glimepiride, Gliburid, Glipizid | Meningkatkan sekresi insulin | BB naik, hipoglikemia | Sebelum makan atau 1 jam sebelum makan (glibenklamid) |\n| Glinid | Repaglinide | Meningkatkan sekresi insulin | BB naik, hipoglikemia | Sebelum makan |\n| Biguanide | Metformin | Menurunkan produksi glukosa hati dan meningkatkan sensitivitas | Dispepsia, diare, asidosis laktat | Bersama/sesudah makan |\n| Thiazolidinedione | Pioglitazon | Meningkatkan sensitivitas terhadap insulin | Edema; KI: osteoporosis | Kapan saja |\n| Penghambat alfa-glukosidase | Acarbose | Menghambat absorbsi glukosa | Flatulen, tinja lembek | Bersama suapan pertama |\n| Penghambat DPP-4 | Sitagliptin, Linagliptin, Vildagliptin | Meningkatkan sekresi insulin dan menghambat sekresi glukagon (berkaitan dengan inkretin) | Sebah, muntah | Kapan saja |\n| Penghambat SGLT-2 | Dapagliflozin, Canagliflozin | Menghambat reabsorbsi glukosa di tubulus ginjal | Infeksi saluran kemih/genital | Kapan saja |\n| Agonis GLP-1 | Exenatide, Semaglutide | Glucagon-like peptide-1 receptor agonist | GI, denyut jantung meningkat | - |\nSumber: PERKENI 2019",
       "isMultiSelect": false
     },
     {
@@ -4130,7 +4130,7 @@ window.QUESTION_BANK = {
       ],
       "answer": 3,
       "answerLetter": "D",
-      "explanation": "Mgstearate sebagai pelicin antiadherent sehingga dapat digunakan untuk mengatasi hal tersebut.\n| | | PERMASALAHAN | | | PEMBUATAN | SEDIAAN | | TABLET | | | |\n| ------- | --- | ------------ | ------- | --- | --------- | ------- | --- | ------ | ------ | --- | --- |\n| Masalah | | | Kondisi | | | | | | Solusi | | |\nCapping Bagian atas tablet memisah dengan Menambahkan pengikat atau mengganti\n| /Spilitting | bagian utama nya | | | | | | | | | | |\n| ----------- | -------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\nPemisahan tablet menjadi dua Menambahkan pengikat atau mengganti\nLamination\nbagian atau lebih\n| | | | | | | Menambahkan | | lubrikan | atau | menggunakan | |\n| -------- | ------------------------ | --- | --- | --- | --- | ----------- | --- | -------- | ---- | ----------- | --- |\n| Chipping | Rusaknya bagian tepi tablet | | | | | | | | | | |\npengikat kering\n| | | | | | | Suhu dan | waktu | pengeringan | | granul | ditingkatkan |\n| --- | --- | --- | --- | --- | --- | -------- | ----- | ----------- | --- | ------ | ------------ |\nPicking Tablet nempel pada punch sampai diperoleh MC 2-4 %, penambahan Anti-\n| | | | | | | adherent dan | | lubrikan serta mengurangi binder | | | |\n| -------- | ---------------- | --- | --- | --- | --- | ----------- | --------- | ----------------------------- | -------------- | ---------- | ------------ |\n| | | | | | | Suhu dan | waktu | pengeringan | | granul | ditingkatkan |\n| | | | | | | sampai | diperoleh | MC | 2-4 %, | penambahan | Anti- |\n| Sticking | Tablet nempel pada | | | die | | | | | | | |\n| | | | | | | adherent | dan | lubrikan | dan memberikan | | minyak |\nmneralpada permukaan punch\n| | | | | | | Meningkatkan | | lubrikan, | mengurangi | | ukuran dari |\n| ------- | ------------------------ | --- | --- | --- | --- | ------------ | -------- | --------- | ---------- | ----- | ----------- |\n| | | | | | | granul, | mengubah | penguapan | | dari | granulasi, |\n| Binding | Granul nempel di ruang cetak | | | | | | | | | | |\n| | | | | | | menggunakan | | die | yag | telah | dilicinkan, |\nmengempa dengan kelembapan yang rendah\nRetakan kecil dan halus pada Poles permukaan punch dan die, perkecil ukuran\nCracking\npermukaan atas atau bawah tablet granul, tambahkan binder, kurangi jumlah fines\n| | | | | | | Larutkan | zat pewarna | | ke dalam | larutan | pengikat, |\n| --- | --- | --- | --- | --- | --- | -------- | ----------- | --- | -------- | ------- | --------- |\nMotling Warna tablet tidak me rata gunakan pelarut organik (alcohol), kecepatan\npanci penyalut diturunkan.\nKerusakan tablet yang disebabkan Menyesuaikan bentuk cetakan yang akan dibuat\n| | oleh | letak | dari | pencetak | tidak | | | | | | |\n| ---------- | ------- | --------- | ---- | -------- | ----------- | --- | --- | --- | --- | --- | --- |\n| Whiskering | sesuai | dengan | | ruang | cetakan dan | | | | | | |\n| | terjadi | pelelehan | | zat | aktif saat | | | | | | |\npen cetakan pada tekanan tinggi\n| | | | | | | Menambah | tekanan | pada | saat | mencetak | tablet, |\n| --------- | ------ | ----- | --- | ----- | ------------- | ----------- | ------- | -------- | ---- | --------- | ------- |\n| | Tablet | retak | dan | rapuh | sekali, tidak | | | | | | |\n| Crumbling | | | | | | menambahkan | | pengikat | atau | mengganti | dengan |\nterlihat seperti tablet\npengikat yang lebih efektif\nKesan ganda pada permukaan Gunakan alat pengatur anti-turning untuk\nDouble\n| | tablet | yang | menggunakan | | punch | mencegah free rotation | | | | | |\n| --- | ------ | ---- | ----------- | --- | ----- | -------------------- | --- | --- | --- | --- | --- |\nimpression\nberlogo\nSumber: Ansel’sPharmaeutical Dosage Forms&Drug Delivery System 11 thed; Sediaan Farmasi\nPadat (Goeswin Agoes,2012);Aulton’sPharmauceutics: TheDesign&Manufacturing of Medicinine\n5 thed.\n| --- | --- | --- | --- | --- | --------------------------------------- | --- | --- | --- | --- | --- | --- |",
+      "explanation": "Mg stearat sebagai pelicin/antiadherent sehingga dapat digunakan untuk mengatasi hal tersebut.\nPERMASALAHAN PEMBUATAN SEDIAAN TABLET\n| Masalah | Kondisi | Solusi |\n|---|---|---|\n| Capping/Splitting | Bagian atas tablet memisah dengan bagian utamanya | Menambahkan pengikat atau mengganti pengikat |\n| Lamination | Pemisahan tablet menjadi dua bagian atau lebih | Menambahkan pengikat atau mengganti pengikat |\n| Chipping | Rusaknya bagian tepi tablet | Menambahkan lubrikan atau menggunakan pengikat kering |\n| Picking | Tablet menempel pada punch | Suhu dan waktu pengeringan granul ditingkatkan sampai diperoleh MC 2-4%, penambahan anti-adherent dan lubrikan serta mengurangi binder |\n| Sticking | Tablet menempel pada die | Suhu dan waktu pengeringan granul ditingkatkan sampai diperoleh MC 2-4%, penambahan anti-adherent dan lubrikan, dan memberikan minyak mineral pada permukaan punch |\n| Binding | Granul menempel di ruang cetak | Meningkatkan lubrikan, mengurangi ukuran granul, mengubah penguapan dari granulasi, menggunakan die yang telah dilicinkan, mengempa dengan kelembapan yang rendah |\n| Cracking | Retakan kecil dan halus pada permukaan atas atau bawah tablet | Poles permukaan punch dan die, perkecil ukuran granul, tambahkan binder, kurangi jumlah fines |\n| Mottling | Warna tablet tidak merata | Larutkan zat pewarna ke dalam larutan pengikat, gunakan pelarut organik (alkohol), kecepatan panci penyalut diturunkan |\n| Whiskering | Kerusakan tablet karena letak pencetak tidak sesuai dengan ruang cetakan dan terjadi pelelehan zat aktif saat pencetakan pada tekanan tinggi | Menyesuaikan bentuk cetakan yang akan dibuat |\n| Crumbling | Tablet retak dan rapuh sekali, tidak terlihat seperti tablet | Menambah tekanan saat mencetak tablet, menambahkan pengikat atau mengganti dengan pengikat yang lebih efektif |\n| Double impression | Kesan ganda pada permukaan tablet yang menggunakan punch berlogo | Gunakan alat pengatur anti-turning untuk mencegah free rotation |\nSumber: Ansel's Pharmaceutical Dosage Forms & Drug Delivery Systems 11th ed; Sediaan Farmasi Padat (Goeswin Agoes, 2012); Aulton's Pharmaceutics: The Design & Manufacture of Medicines 5th ed.",
       "isMultiSelect": false
     },
     {
@@ -4258,7 +4258,7 @@ window.QUESTION_BANK = {
       ],
       "answer": 1,
       "answerLetter": "B",
-      "explanation": "ISDN memiliki efek samping yang mempengaruhi CNS (Central nervous system) sehingga\n| berdampak pada terjadinya | :lemah, lemas, sakit kepala dan pusing | | | | |\n| ----------------------- | --------------------------------- | --- | --- | --- | --- |\nSumber: Medscape",
+      "explanation": "ISDN memiliki efek samping yang mempengaruhi CNS (Central Nervous System) sehingga berdampak pada terjadinya: lemah, lemas, sakit kepala dan pusing.\nSumber: Medscape",
       "isMultiSelect": false
     },
     {
@@ -4274,7 +4274,7 @@ window.QUESTION_BANK = {
       ],
       "answer": 0,
       "answerLetter": "A",
-      "explanation": "| | Suhu | Kelembapan | Per tukar an udara | | |\n| ------------- | ---- | ---------- | --------------- | ---------- | --------------- |\n| Kelas Sebutan | | | | Keterangan | |\n| | oC | % | perjam | | |\n| | | | Aliranudara satu | Pengolahan | dan pengisian |\n| UnderLAF | | | arah dengan LAF | aseptis. | Pengisian salep |\nA (Laminarair 16-25 45-55 dengan kecepatan mata, bubuk dan suspensi\n| flow) | | | udara | steril | |\n| ----- | --- | --- | ----- | ------ | --- |\n0,36-0,54m/det\n| | | | Aliranudara | Lingkungan | latar belakang |\n| -------- | ----- | ----- | --------------- | ------------------- | ---------------- |\n| | | | turbulen dengan | kelas A | untuk pengolahan |\n| B Steril | 16-25 | 45-55 | | | |\n| | | | per tukar an udara | dan pengisian aseptis | |\nminimal 20 kali\n| | | | | Pembuatan | larutan bila |\n| ------ | ----- | ----- | ------------- | ---------- | ------------- |\n| Steril | 16-25 | 45-55 | Minimal 20 kali | ada resiko | dan pengisian |\nC\nproduknon-aseptis\n| | | | | Pembuatan | obat steril |\n| ------ | ----- | ----- | ------------- | --------- | ----------- |\n| Bersih | 20-27 | 40-60 | Minimal 20 kali | | |\nD\ndengan sterilisasi akhir\n| | | | | Ruangan | pengolahan dan |\n| ------ | ----- | ---------- | -------- | ---------- | --------------- |\n| | | | | pengemasan | primer obat |\n| E Umum | 20-27 | Maksimal 70 | 5-20 kali | | |\n| | | | | non steril | serta pembuatan |\nsalep kecuali salep mata\n| | | | | Pengolahan | bahan |\n| --- | --- | --- | --- | ---------- | ----- |\nE Khusus 20-27 Maksimal 40 5-20 kali higroskopis seperti tablet\neffervescent\nKeterangan\nWhite area istilah yang digunakan untuk KelasA,BdanC\nGreyarea istilah yang digunakan untuk Kelas D\nBlackarea istilah yang digunakan untuk Kelas E\n| --- | --- | --------------------------------------- | --- | --- | --- |",
+      "explanation": "| Kelas | Sebutan | Suhu (°C) | Kelembapan (%) | Pertukaran Udara per Jam | Keterangan |\n|---|---|---|---|---|---|\n| A | Under LAF (Laminar Air Flow) | 16-25 | 45-55 | Aliran udara satu arah dengan LAF, kecepatan 0,36-0,54 m/det | Pengolahan dan pengisian aseptis; pengisian salep mata, bubuk dan suspensi steril |\n| B | Steril | 16-25 | 45-55 | Aliran udara turbulen dengan pertukaran udara minimal 20 kali | Lingkungan latar belakang kelas A untuk pengolahan dan pengisian aseptis |\n| C | Steril | 16-25 | 45-55 | Minimal 20 kali | Pembuatan larutan bila ada risiko dan pengisian produk non-aseptis |\n| D | Bersih | 20-27 | 40-60 | Minimal 20 kali | Pembuatan obat steril dengan sterilisasi akhir |\n| E | Umum | 20-27 | Maksimal 70 | 5-20 kali | Ruangan pengolahan dan pengemasan primer obat non steril serta pembuatan salep kecuali salep mata |\n| E | Khusus | 20-27 | Maksimal 40 | 5-20 kali | Pengolahan bahan higroskopis seperti tablet effervescent |\nKeterangan:\nWhite area: istilah untuk Kelas A, B dan C\nGrey area: istilah untuk Kelas D\nBlack area: istilah untuk Kelas E",
       "isMultiSelect": false
     },
     {
@@ -4434,7 +4434,7 @@ window.QUESTION_BANK = {
       ],
       "answer": 0,
       "answerLetter": "A",
-      "explanation": "1 Suppo 0,5 gram Aminofilin x nilai tukar=0,5x0,86=0,43 gram aminofilin dalam 1 suppo\n| Basissuppo (lemakcoklat)=Beratsuppo–berat | | zataktif (aminofilin) | | |\n| ---------------------------------------- | --- | -------------------- | --- | --- |\n=3 gram–0,43=2,57 gramx 12 suppo=30,84 gram",
+      "explanation": "1 suppo 0,5 gram aminofilin × nilai tukar = 0,5 × 0,86 = 0,43 gram aminofilin dalam 1 suppo\nBasis suppo (lemak coklat) = berat suppo – berat zat aktif (aminofilin)\n= 3 gram – 0,43 = 2,57 gram × 12 suppo = 30,84 gram",
       "isMultiSelect": false
     },
     {
@@ -4466,7 +4466,7 @@ window.QUESTION_BANK = {
       ],
       "answer": 1,
       "answerLetter": "B",
-      "explanation": "| Mekanisme kerja | | | Antibiotik | |\n| -------------- | --- | ------------ | ---------- | ------------- |\n| | | (Betalaktam) | | (Polipeptida) |\nMenghambat sintesis di nd i ng sel\n| | | Penisilin | | Bacitrasin |\n| --- | --- | ------------- | --- | ---------- |\n| | | Cephalosporin | | Vancomysin |\nCarbapenem\nMonobactam\n| Menghambat | sintesis membran | | Polimiksin | |\n| ---------- | ---------------- | --- | ---------- | --- |\nsel\n| Menghambat sintesis protein | | (30S) | | (50S) |\n| ------------------------- | --- | -------------- | --- | ------------- |\n| | | Aminoglikosida | | Klindamisin |\n| | | Tetrasiklin | | Kloramfenikol |\nLinezolid\nMakrolida\n| Antagonis folat | | | Kotrimoksazol e | |\n| -------------- | --- | --- | -------------- | --- |\n(Sulfametoksazol dan Trimetoprim e)\n| | | (DNAGyrase) | | (RNA Polymerase) |\n| --- | --- | ----------- | --- | --------------- |\nMempengaruhi sintesis/\n| metabolisme asam nukleat | | Quinolon | | Rifampisin |\n| ---------------------- | --- | -------- | --- | ---------- |",
+      "explanation": "| Mekanisme Kerja | Antibiotik |\n|---|---|\n| Menghambat sintesis dinding sel | Betalaktam: Penisilin, Cephalosporin, Carbapenem, Monobactam; Polipeptida: Bacitrasin, Vancomycin |\n| Menghambat sintesis membran sel | Polimiksin |\n| Menghambat sintesis protein | 30S: Aminoglikosida, Tetrasiklin; 50S: Klindamisin, Kloramfenikol, Linezolid, Makrolida |\n| Antagonis folat | Kotrimoksazol (Sulfametoksazol dan Trimetoprim) |\n| Mempengaruhi sintesis/metabolisme asam nukleat | DNA Gyrase: Quinolon; RNA Polymerase: Rifampisin |",
       "isMultiSelect": false
     },
     {
@@ -4562,7 +4562,7 @@ window.QUESTION_BANK = {
       ],
       "answer": 1,
       "answerLetter": "B",
-      "explanation": "Permetrin merupakan scabisida yang digunakan untuk mengatasi scabies. Permetrin digunakan\ndengan cara mengoleskan krim pada seluruh tubuh dan dibersihkan setelah 8-24 jam. Untuk anak,\ndioleskan pada tubuh, termasuk wajah, leher, kulit kepala dan telinga. Bila tangan dicuci dengan\nsabun dan air dalam 8 jam setelah pemakaian, krim harus dioleskan ulang. Permetrin cukup\ndiigunakan 1x namun jika 2 minggu setelah penggunaan krim tungau terlihat kembali, maka\n| penggunaan | permetrin | harus diulang | | |\n| ---------- | --------- | ------------- | --- | --- |\n| Sumber: | PIONAS | | | |",
+      "explanation": "Permetrin merupakan skabisida yang digunakan untuk mengatasi scabies. Permetrin digunakan dengan cara mengoleskan krim pada seluruh tubuh dan dibersihkan setelah 8-24 jam. Untuk anak, dioleskan pada tubuh, termasuk wajah, leher, kulit kepala dan telinga. Bila tangan dicuci dengan sabun dan air dalam 8 jam setelah pemakaian, krim harus dioleskan ulang. Permetrin cukup digunakan 1x, namun jika 2 minggu setelah penggunaan krim tungau terlihat kembali, maka penggunaan permetrin harus diulang.\nSumber: PIONAS",
       "isMultiSelect": false
     },
     {
@@ -4578,7 +4578,7 @@ window.QUESTION_BANK = {
       ],
       "answer": 2,
       "answerLetter": "C",
-      "explanation": "KOMPLIKASI HIPERTENSI\n| Indikasi | | | Terapi | |\n| ------------------------ | --- | --- | ------------------------------------------ | -------- |\n| Gagal jantung | | | ACEI/ARB+BB+diuretic+spironolakton | |\n| Post-MI | | | ACEI/ARBdanBB | |\n| CAD | | | ACEI,BB,diuretic, CCB | |\n| Diabetes | | | ACEI/ARB,CCB, | diuretic |\n| CKD | | | ACEI/ARB | |\n| Pencegahan kambuhan stroke | | | ACEI,diuretic | |\n| Ibuhamil | | | Labetolol (firstline),nifedipine, methyldopa | |\nSumber: JNC8",
+      "explanation": "KOMPLIKASI HIPERTENSI\n| Indikasi | Terapi |\n|---|---|\n| Gagal jantung | ACEI/ARB + BB + diuretik + spironolakton |\n| Post-MI | ACEI/ARB dan BB |\n| CAD | ACEI, BB, diuretik, CCB |\n| Diabetes | ACEI/ARB, CCB, diuretik |\n| CKD | ACEI/ARB |\n| Pencegahan kambuhan stroke | ACEI, diuretik |\n| Ibu hamil | Labetalol (first line), nifedipine, methyldopa |\nSumber: JNC 8",
       "isMultiSelect": false
     },
     {
@@ -4594,7 +4594,7 @@ window.QUESTION_BANK = {
       ],
       "answer": 0,
       "answerLetter": "A",
-      "explanation": "Tuberculosis\n| Kategori 1 | | 2 HRZE1+4H3R32 | 2 HRZE | digunakan | 1x sehari | selama | 2 |\n| ----------- | --- | -------------- | ----- | --------- | --------- | ------ | --- |\n| (Kasusbaru) | | 1:Fase intensif | bulan | | | | |\n2:Fase lanjutan\n| | | | 4H3R3 | =digunakan | | 3 xseminggu | |\n| --- | --- | --- | ----- | ---------- | --- | ---------- | --- |\nselama 4 bulan\nKategori 2 2 HRZE1+HRZE2+5H3R3E33 2 HRZE digunakan 1x sehari selama 2\n| (Kasus | lama: | 1:Fase intensif | bulan | | | | |\n| --------- | --------- | -------------- | ----- | --- | --- | --- | --- |\n| kambuhan, | pindahan, | 2:Fasesisipan | | | | | |\nlalai, gagal, kronis) 3:Fase lanjutan HRZE digunakan 1x sehari selama 1\nbulan\n| | | | 5H3R3E3 | digunakan | | 3 xseminggu | |\n| --- | --- | --- | ------- | --------- | --- | ---------- | --- |\nselama 5 bulan\n| TBANAK | | 2HRZ/4HR | 2HRZ | digunakan | 1x sehari | selama | 2 |\n| ------ | --- | -------- | ---- | --------- | --------- | ------ | --- |\nbulan\n| | | | 4HR digunakan | | 1x sehari | selama | 4 |\n| --- | --- | --- | ------------- | --- | --------- | ------ | --- |\nbulan\n| Namaobat | | Efek samping | | Warning | | | |\n| --------- | --- | ------------------------- | ------------------ | ------- | --- | --- | --- |\n| Isoniazid | | Neuritis perifer (kesemutan | Gangguan fungsi hati | | | | |\nPenanganan: Vitamin\nB6/piridoksin\nRifampisin Urine berwarna merah, tidak DM(interaksi dengan sulfunilorea)\nnafsumakan\nPirazinamid Nyeri sendi, meningkatkan Sirosishati/hepatitis kronis\nasamurat\n| Etambutol | | Gangguan penglihatan | Gagal ginjal | | | | |\n| ------------ | --- | ----------------------- | ----------- | --- | --- | --- | --- |\n| Streptomisin | | Gangguan pendengaran dan | Ibuhamil | | | | |\n| | | keseimbangan (ototoksik) | Gagal ginjal | | | | |\nSumber: Permenkes no 67 tahun 2016 tentang penanggulangan TB",
+      "explanation": "Tuberculosis\n| Kategori | Paduan | Keterangan |\n|---|---|---|\n| Kategori 1 (kasus baru) | 2HRZE/4H3R3 | Fase intensif: 2HRZE digunakan 1x sehari selama 2 bulan. Fase lanjutan: 4H3R3 digunakan 3x seminggu selama 4 bulan |\n| Kategori 2 (kasus lama: kambuhan, pindahan, lalai, gagal, kronis) | 2HRZES/HRZE/5H3R3E3 | Fase intensif: 2HRZES 1x sehari selama 2 bulan. Fase sisipan: HRZE 1x sehari selama 1 bulan. Fase lanjutan: 5H3R3E3 3x seminggu selama 5 bulan |\n| TB anak | 2HRZ/4HR | 2HRZ digunakan 1x sehari selama 2 bulan, lalu 4HR digunakan 1x sehari selama 4 bulan |\n\n| Nama Obat | Efek Samping | Warning |\n|---|---|---|\n| Isoniazid | Neuritis perifer (kesemutan); penanganan: vitamin B6/piridoksin | Gangguan fungsi hati |\n| Rifampisin | Urine berwarna merah, tidak nafsu makan | DM (interaksi dengan sulfonilurea) |\n| Pirazinamid | Nyeri sendi, meningkatkan asam urat | Sirosis hati/hepatitis kronis |\n| Etambutol | Gangguan penglihatan | Gagal ginjal |\n| Streptomisin | Gangguan pendengaran dan keseimbangan (ototoksik) | Ibu hamil, gagal ginjal |\nSumber: Permenkes No 67 tahun 2016 tentang Penanggulangan TB",
       "isMultiSelect": false
     },
     {
@@ -5250,7 +5250,7 @@ window.QUESTION_BANK = {
       ],
       "answer": 4,
       "answerLetter": "E",
-      "explanation": "| Tween | =70/100x15 | =10,5 | | |\n| ---------------------------- | ---------- | ------------ | --- | --- |\n| Span | =30/100x5 | =1,5 | | |\n| HLBCampuran=Hlbtween+Hlbspan | | =10,5+1,5=12 | | |",
+      "explanation": "Tween = 70/100 × 15 = 10,5\nSpan = 30/100 × 5 = 1,5\nHLB campuran = HLB tween + HLB span = 10,5 + 1,5 = 12",
       "isMultiSelect": false
     },
     {
@@ -5272,7 +5272,7 @@ window.QUESTION_BANK = {
     {
       "id": "CBT92",
       "number": 92,
-      "question": "Berikut Tabel ABC-VENsuatu Rumah Sakit Pemerintahtahun 2020. A B C V OBATX OBATR OBATH E OBATY OBATS OBATI N OBATZ OBATU OBATJ Karena adanya pandemi Covid 19 dana sedikit berkurang untuk pengadaan obat. Obat apa yang di pertimbangkan untuk diti ad akan pertama kali?",
+      "question": "Berikut Tabel ABC-VEN suatu Rumah Sakit Pemerintah tahun 2020.\n|   | A | B | C |\n|---|---|---|---|\n| V | OBAT X | OBAT R | OBAT H |\n| E | OBAT Y | OBAT S | OBAT I |\n| N | OBAT Z | OBAT U | OBAT J |\nKarena adanya pandemi Covid 19 dana sedikit berkurang untuk pengadaan obat. Obat apa yang dipertimbangkan untuk ditiadakan pertama kali?",
       "options": [
         "OBATH",
         "OBATI",
@@ -5282,7 +5282,7 @@ window.QUESTION_BANK = {
       ],
       "answer": 4,
       "answerLetter": "E",
-      "explanation": "| --- | --- | --------------------------------------- | --- | --- |",
+      "explanation": "",
       "isMultiSelect": false
     },
     {
@@ -5362,7 +5362,7 @@ window.QUESTION_BANK = {
       ],
       "answer": 1,
       "answerLetter": "B",
-      "explanation": "Imunisasi dasar\n| Penyakit | Jumlah | Waktu Pemberian | BUD | Penyimpanan |\n| -------- | ------ | -------------- | --- | ----------- |\nPemberian\n| Hepatitis B | 4 0-24jam, bulanke-2,bulanke-3, | | 4 pekan | 2-80C |\n| ---------- | ------------------------------ | --- | ------ | ----- |\nbulanke-4\n| BCG | 1 | Bulanke-1 | 3jam | 2-80C |\n| ----- | --- | --------------- | ------ | ---------- |\n| Polio | 4 | Bulanke-1,2,3,4 | 2 pekan | -15sd-250C |\nIPV2-80C\n| DPT | 3 | Bulanke-2,3,4 | 4 pekan | 2-80C |\n| --- | --- | ------------- | ------ | ----- |\n2-80C\n| Hib | 3 | Bulanke-2,3,4 | 4 pekan | |\n| ------ | --- | ------------- | ------ | ----- |\n| Campak | 1 | Bulanke-9 | 6jam | 2-80C |\nSumber: Permenkes no 12 tahun 2017 tentang penyelenggaran imunisasi",
+      "explanation": "Imunisasi dasar\n| Penyakit | Jumlah Pemberian | Waktu Pemberian | BUD | Penyimpanan |\n|---|---|---|---|---|\n| Hepatitis B | 4 | 0-24 jam, bulan ke-2, ke-3, ke-4 | 4 pekan | 2-8°C |\n| BCG | 1 | Bulan ke-1 | 3 jam | 2-8°C |\n| Polio | 4 | Bulan ke-1, 2, 3, 4 | 2 pekan | -15 s/d -25°C (IPV: 2-8°C) |\n| DPT | 3 | Bulan ke-2, 3, 4 | 4 pekan | 2-8°C |\n| Hib | 3 | Bulan ke-2, 3, 4 | 4 pekan | 2-8°C |\n| Campak | 1 | Bulan ke-9 | 6 jam | 2-8°C |\nSumber: Permenkes No 12 tahun 2017 tentang Penyelenggaraan Imunisasi",
       "isMultiSelect": false
     },
     {
@@ -5378,7 +5378,7 @@ window.QUESTION_BANK = {
       ],
       "answer": 0,
       "answerLetter": "A",
-      "explanation": "KOMPLIKASI HIPERTENSI\n| Indikasi | | Terapi | | |\n| ------------------------ | --- | ------------------------------------------ | -------- | --- |\n| Gagal jantung | | ACEI/ARB+BB+diuretic+spironolakton | | |\n| Post-MI | | ACEI/ARBdanBB | | |\n| CAD | | ACEI,BB,diuretic, CCB | | |\n| Diabetes | | ACEI/ARB,CCB, | diuretic | |\n| CKD | | ACEI/ARB | | |\n| Pencegahan kambuhan stroke | | ACEI,diuretic | | |\n| Ibuhamil | | Labetolol (firstline),nifedipine, methyldopa | | |\nSumber: JNC8",
+      "explanation": "KOMPLIKASI HIPERTENSI\n| Indikasi | Terapi |\n|---|---|\n| Gagal jantung | ACEI/ARB + BB + diuretik + spironolakton |\n| Post-MI | ACEI/ARB dan BB |\n| CAD | ACEI, BB, diuretik, CCB |\n| Diabetes | ACEI/ARB, CCB, diuretik |\n| CKD | ACEI/ARB |\n| Pencegahan kambuhan stroke | ACEI, diuretik |\n| Ibu hamil | Labetalol (first line), nifedipine, methyldopa |\nSumber: JNC 8",
       "isMultiSelect": false
     },
     {
@@ -5394,7 +5394,7 @@ window.QUESTION_BANK = {
       ],
       "answer": 0,
       "answerLetter": "A",
-      "explanation": "Misoprostol secara off label dapat digunakan untuk induksi persalinan yang bertindak seperti hormon\nprostaglandin alami. Misoprostol bekerja untuk membuat leher rahim menipis atau terbuka, sekaligus\nmerangsang kontraksi persalinan, oleh karena itu dikontraindikasikan untuk pasien hamil yang belum\nwaktu nya persalinan\n| --- | --------------------------------------- | --- | --- | --- |",
+      "explanation": "Misoprostol secara off label dapat digunakan untuk induksi persalinan yang bertindak seperti hormon\nprostaglandin alami. Misoprostol bekerja untuk membuat leher rahim menipis atau terbuka, sekaligus\nmerangsang kontraksi persalinan, oleh karena itu dikontraindikasikan untuk pasien hamil yang belum\nwaktu nya persalinan",
       "isMultiSelect": false
     },
     {
@@ -5864,7 +5864,7 @@ window.QUESTION_BANK = {
     {
       "id": "CBT129",
       "number": 129,
-      "question": "Berikut data keuangan sebuah Apotek swastadi Sumatera Utara Penjualan :1.500.000.000 Pembelian :700.000.000 Per sediaan awal :90.000.000 Retur Pembelian :10.000.000 Biaya Operasional :300.000.000 Akhir Per sediaan :80.000.000 Jikadilihat dari datadiatas, berapa HPP apotek tersebut?",
+      "question": "Berikut data keuangan sebuah Apotek swasta di Sumatera Utara:\n| Keterangan | Jumlah (Rp) |\n|---|---|\n| Penjualan | 1.500.000.000 |\n| Pembelian | 700.000.000 |\n| Persediaan awal | 90.000.000 |\n| Retur pembelian | 10.000.000 |\n| Biaya operasional | 300.000.000 |\n| Persediaan akhir | 80.000.000 |\nJika dilihat dari data di atas, berapa HPP apotek tersebut?",
       "options": [
         "500.000.000",
         "600.000.000",
@@ -5880,7 +5880,7 @@ window.QUESTION_BANK = {
     {
       "id": "CBT130",
       "number": 130,
-      "question": "Seorang apoteker di suatu klinik membuat reorder point pada pengadaan sirup parasetamol untuk bulan Nopember 2022. Data penjualan selama 3 bulan (90 hari kerja) berturut-turut adalah sebagai berikut : Safety stock yang ditetapkan adalah adalah 30 botol dan lead time pengiriman obat adalah 4 hari. Berapakah reorder point yang tepat untuk pengadaan obat tersebut? Bulan Penjualan (Botol) September 2022 180 Oktober 2022 200 Nopember 2022 187",
+      "question": "Seorang apoteker di suatu klinik membuat reorder point pada pengadaan sirup parasetamol untuk bulan Nopember 2022. Data penjualan selama 3 bulan (90 hari kerja) berturut-turut adalah sebagai berikut:\n| Bulan | Penjualan (Botol) |\n|---|---|\n| September 2022 | 180 |\n| Oktober 2022 | 200 |\n| Nopember 2022 | 187 |\nSafety stock yang ditetapkan adalah 30 botol dan lead time pengiriman obat adalah 4 hari. Berapakah reorder point yang tepat untuk pengadaan obat tersebut?",
       "options": [
         "55 botol",
         "56 botol",
@@ -5890,13 +5890,13 @@ window.QUESTION_BANK = {
       ],
       "answer": 0,
       "answerLetter": "A",
-      "explanation": "| Pemakaianrata-rata | | =(180+200+187)/3=187/bulan=6,23/hari | | |\n| ------------------ | --- | ------------------------------------ | --- | --- |\n| ROP | | =(LDxAV)+SS | | |\n=(4x6,23)+30=54,92 botol=55 botol",
+      "explanation": "Pemakaian rata-rata = (180+200+187)/3 = 187/bulan = 6,23/hari\nROP = (LD × AV) + SS\n= (4 × 6,23) + 30 = 54,92 botol ≈ 55 botol",
       "isMultiSelect": false
     },
     {
       "id": "CBT131",
       "number": 131,
-      "question": "Sebuah Industri obat, memiliki data biaya operasional sebagai berikut: Kapasitas Produksi =5.000 Unit Harga jual perunit =Rp. 1.000/unit Biaya tetap =Rp. 1.500.000 Biaya variabel =Rp. 2.500.000 Berapa omset yang ditargetkan agar industri tersebut mencapai BEP?",
+      "question": "Sebuah Industri obat memiliki data biaya operasional sebagai berikut:\n| Keterangan | Nilai |\n|---|---|\n| Kapasitas produksi | 5.000 unit |\n| Harga jual per unit | Rp. 1.000/unit |\n| Biaya tetap | Rp. 1.500.000 |\n| Biaya variabel | Rp. 2.500.000 |\nBerapa omset yang ditargetkan agar industri tersebut mencapai BEP?",
       "options": [
         "Rp. 1.000.000",
         "Rp. 1.500.000",
@@ -5906,7 +5906,7 @@ window.QUESTION_BANK = {
       ],
       "answer": 2,
       "answerLetter": "C",
-      "explanation": "| BEP(rupiah) | =Biaya tetap/1-(biayavariabel/hargajual perunit) | | | |\n| ----------- | ---------------------------------------------- | --- | --- | --- |\n=1.500.000/1-(2.500.00/(1000x5000 unit)\n=Rp.3.000.000",
+      "explanation": "BEP (rupiah) = Biaya tetap / (1 – (biaya variabel / (harga jual per unit × kapasitas)))\n= 1.500.000 / (1 – (2.500.000 / (1.000 × 5.000 unit)))\n= Rp. 3.000.000",
       "isMultiSelect": false
     },
     {
@@ -6242,7 +6242,7 @@ window.QUESTION_BANK = {
       ],
       "answer": 0,
       "answerLetter": "A",
-      "explanation": "Kondisi Isotonis\n| Tf | =0,520 | | |\n| ------------------ | --------------------------------- | --- | --- |\n| Tfmorfin | =0,00150 | | |\n| Nacl yang di perlu kan | =0,52–0,0015=0,5185 | | |\n| Nacl yang ditambakan | =(0,5185/0,52) x0,9=0,897=0,90 gram | | |",
+      "explanation": "Kondisi isotonis:\nΔTf = 0,52°\nΔTf morfin = 0,0015°\nNaCl yang diperlukan = 0,52 – 0,0015 = 0,5185\nNaCl yang ditambahkan = (0,5185/0,52) × 0,9 = 0,897 ≈ 0,90 gram",
       "isMultiSelect": false
     },
     {
@@ -6258,7 +6258,7 @@ window.QUESTION_BANK = {
       ],
       "answer": 1,
       "answerLetter": "B",
-      "explanation": "| 0,9/100ml | =0,09/10ml | =isotonis | |\n| ------------------------ | ---------- | ------------------- | --- |\n| Ampisilin Na | =0,2x0,16 | =0,032 | |\n| Isoniazid | =0,05x0,26 | =0,013 | |\n| Total pen jumlah an (WxE) | | =0,032+0,013=0,045g | |\n| Massa NaCl yang ditambahkan | | =0,090–0,045=0,045g | |\nMassa dekstrosa yang ditambahkan agar isotonis=0,045/0,18gx 1g=0,25",
+      "explanation": "| Keterangan | Perhitungan | Hasil |\n|---|---|---|\n| NaCl 0,9/100 ml | 0,09/10 ml | isotonis |\n| Ampisilin Na | 0,2 × 0,16 | 0,032 |\n| Isoniazid | 0,05 × 0,26 | 0,013 |\n| Total penjumlahan (W × E) | 0,032 + 0,013 | 0,045 g |\n| Massa NaCl yang ditambahkan | 0,090 – 0,045 | 0,045 g |\nMassa dekstrosa yang ditambahkan agar isotonis = 0,045/0,18 g × 1 g = 0,25 g",
       "isMultiSelect": false
     },
     {
@@ -6274,7 +6274,7 @@ window.QUESTION_BANK = {
       ],
       "answer": 1,
       "answerLetter": "B",
-      "explanation": "Kondisi Isotonis\nTf =0,520\nTf =0,0740\n| Nacl yang di perlu kan | =0,52–0,074 | | =0,446 |\n| -------------------- | --------------------- | --- | ------------ |\n| Nacl yang ditambakan | =(0,446/0,52) x0,9 | | =0,77g/100ml |\n| Karna yang ingindibuat | 30 mljadi (30/100) x0,77 | | =0,231g |",
+      "explanation": "Kondisi isotonis:\nΔTf = 0,52°\nΔTf zat aktif = 0,074°\nNaCl yang diperlukan = 0,52 – 0,074 = 0,446\nNaCl yang ditambahkan = (0,446/0,52) × 0,9 = 0,77 g/100 ml\nKarena yang ingin dibuat 30 ml, jadi (30/100) × 0,77 = 0,231 g",
       "isMultiSelect": false
     },
     {
@@ -6322,7 +6322,7 @@ window.QUESTION_BANK = {
       ],
       "answer": 0,
       "answerLetter": "A",
-      "explanation": "FITO TERAPI INDONESIA\nNama\n| | Namalatin | Kandungan | Kegunaan |\n| --- | --------- | --------- | -------- |\nTanaman\nSembiloto Andrographis paniculata Andrografolida Antidiabetes dan malari\nManggis Garcinia mangostana Mangostin/xanthon Aniinflamasi, antioksidan\nPegagan Centella asiatica Asiatikosida/apigenin Anti hipertensi, sintesis kol agen\n| Pasakbumi | Eurycoma longifolia | Eurycomanone | Viagra |\n| --------- | ------------------ | ------------ | --------------- |\n| Seledri | Apiumgraveolens | Apigenin | Anti hipertensi |\n| Mengkudu | Morinda citrifolia | Scopolatine | Hepatoprotektor |\nKumis\n| | Orthosiphon stamineus | Sinensetin | Anti hipertensi |\n| --- | -------------------- | ---------- | -------------- |\nkucing\n| Cabejawa | Piper retrofractum | Piperin | Viagra |\n| -------- | ----------------- | ------- | ------ |\nCurcumlonga Latau Curcuma\n| Kunyit | | Curcominoid | Hepatoprotektor |\n| ------ | --- | ----------- | --------------- |\ndomestica\n| Jambubiji | Psidiumguajava | Quersetin dan tanin | Penambah trombosit |\n| ---------- | -------------- | ----------------- | ----------------- |\n| Lidahbuaya | Aloevera | AloineA | Pencahar |\nMahkota\n| | Phaleria macrocarpa | Phalerin | Antioksidan |\n| --- | -------------------- | -------- | ----------- |\ndewa\n| Meniran | Phylanthiniruri | Filantin/quarsetin | Immunodulator |\n| --------- | ------------------ | ------------------- | ---------------- |\n| Ladahitam | Pipernigrum | Piperin | Parkinson |\n| Jahe | Zingiber officinale | Zingiberin/gingerol | Imun, antimikroba |\n| Tapakdara | Catharanthus roseus | Vinkristin | Antileukimia |\n| Bijipala | Myristica fragrans | Miristin | Imun |\n| Akarmanis | Glycyrrhiza glabra | Glycyrrhizin | Obat batuk |\n| Ginseng | Panaxginseng | Ginsenosida | Antikanker |\n| Ginkgo | Ginkgobiloba | Ginkgolides | Neuroprotektif |\n| Tapakdara | Catharanthus roseus | Vinkristin | Antikanker |\n| Kelembak | Rheumpalmatum | Antrakuinon | Pencahar |\nSumber : Hariana, A. 2013. 262 Tumbuhan Obat dan Khasiatnya. Penerbit Swadaya: Jakarta dan\nlainnya.",
+      "explanation": "FITOTERAPI INDONESIA\n| Nama Tanaman | Nama Latin | Kandungan | Kegunaan |\n|---|---|---|---|\n| Sambiloto | Andrographis paniculata | Andrografolida | Antidiabetes dan malaria |\n| Manggis | Garcinia mangostana | Mangostin/xanthon | Antiinflamasi, antioksidan |\n| Pegagan | Centella asiatica | Asiatikosida/apigenin | Antihipertensi, sintesis kolagen |\n| Pasak bumi | Eurycoma longifolia | Eurycomanone | Viagra (afrodisiak) |\n| Seledri | Apium graveolens | Apigenin | Antihipertensi |\n| Mengkudu | Morinda citrifolia | Scopoletin | Hepatoprotektor |\n| Kumis kucing | Orthosiphon stamineus | Sinensetin | Antihipertensi |\n| Cabe jawa | Piper retrofractum | Piperin | Viagra (afrodisiak) |\n| Kunyit | Curcuma longa L. atau Curcuma domestica | Curcuminoid | Hepatoprotektor |\n| Jambu biji | Psidium guajava | Quersetin dan tanin | Penambah trombosit |\n| Lidah buaya | Aloe vera | Aloin A | Pencahar |\n| Mahkota dewa | Phaleria macrocarpa | Phalerin | Antioksidan |\n| Meniran | Phyllanthus niruri | Filantin/quersetin | Imunomodulator |\n| Lada hitam | Piper nigrum | Piperin | Parkinson |\n| Jahe | Zingiber officinale | Zingiberin/gingerol | Imun, antimikroba |\n| Tapak dara | Catharanthus roseus | Vinkristin | Antileukemia/antikanker |\n| Biji pala | Myristica fragrans | Miristisin | Imun |\n| Akar manis | Glycyrrhiza glabra | Glycyrrhizin | Obat batuk |\n| Ginseng | Panax ginseng | Ginsenosida | Antikanker |\n| Ginkgo | Ginkgo biloba | Ginkgolides | Neuroprotektif |\n| Kelembak | Rheum palmatum | Antrakuinon | Pencahar |\nSumber: Hariana, A. 2013. 262 Tumbuhan Obat dan Khasiatnya. Penerbit Swadaya: Jakarta, dan lainnya.",
       "isMultiSelect": false
     },
     {
@@ -6338,7 +6338,7 @@ window.QUESTION_BANK = {
       ],
       "answer": 1,
       "answerLetter": "B",
-      "explanation": "PERMASALAHAN PEMBUATAN SEDIAAN TABLET\n| Masalah | | Kondisi | | | | Solusi | | | |\n| ------- | --- | ------- | --- | --- | --- | ------ | --- | --- | --- |\nCapping Bagian atas tablet memisah dengan Menambahkan pengikat atau mengganti\n| /Spilitting | bagian utama nya | | | | | | | | |\n| ----------- | -------------- | --- | --- | --- | --- | --- | --- | --- | --- |\nPemisahan tablet menjadi dua bagian atau Menambahkan pengikat atau mengganti\nLamination\nlebih\n| | | | | Menambahkan | | lubrikan | atau | menggunakan | |\n| -------- | ------------------------ | --- | --- | ----------- | --- | -------- | ---- | ----------- | --- |\n| Chipping | Rusaknya bagian tepi tablet | | | | | | | | |\npengikat kering\n| | | | | Suhu dan | waktu | pengeringan | | granul | ditingkatkan |\n| --- | --- | --- | --- | -------- | ----- | ----------- | --- | ------ | ------------ |\nPicking Tablet nempel pada punch sampai diperoleh MC 2-4 %, penambahan Anti-\n| | | | | adherent dan | lubrikan serta mengurangi binder | | | | |\n| -------- | ---------------- | --- | --- | ---------------- | ----------------------------- | ----------- | -------------- | ------ | ------------ |\n| | | | | Suhu dan | waktu | pengeringan | | granul | ditingkatkan |\n| | | | | sampai diperoleh | | MC 2-4 | %, penambahan | | Anti- |\n| Sticking | Tablet nempel pada | die | | | | | | | |\n| | | | | adherent | dan lubrikan | | dan memberikan | | minyak |\nmneralpada permukaan punch\n| | | | | Meningkatkan | lubrikan, | | mengurangi | | ukuran dari |\n| ------- | ------------------------ | --- | --- | ------------ | --------- | --------- | ---------- | ---- | ----------- |\n| | | | | granul, | mengubah | penguapan | | dari | granulasi, |\n| Binding | Granul nempel di ruang cetak | | | | | | | | |\nmenggunakan die yag telah dilicinkan, mengempa\ndengan kelembapan yang rendah\nRetakan kecil dan halus pada permukaan Poles permukaan punch dan die, perkecil ukuran\nCracking\natas atau bawah tablet granul, tambahkan binder, kurangi jumlah fines\n| | | | | Larutkan | zat pewarna | ke | dalam | larutan | pengikat, |\n| --- | --- | --- | --- | -------- | ----------- | --- | ----- | ------- | --------- |\nMotling Warna tablet tidak me rata gunakan pelarut organik (alcohol), kecepatan\npanci penyalut diturunkan.\nKerusakan tablet yang disebabkan oleh Menyesuaikan bentuk cetakan yang akan dibuat\n| | letak dari pencetak | tidak sesuai | dengan | | | | | | |\n| --- | ------------------- | ------------ | ------ | --- | --- | --- | --- | --- | --- |\nWhiskering\n| | ruang cetakan | dan terjadi pelelehan | zat | | | | | | |\n| --- | ------------- | --------------------- | --- | --- | --- | --- | --- | --- | --- |\naktif saat pen cetakan pada tekanan tinggi\n| | | | | Menambah | tekanan | pada | saat | mencetak | tablet, |\n| --- | --- | --- | --- | -------- | ------- | ---- | ---- | -------- | ------- |\nTablet retak dan rapuh sekali, tidak terlihat\n| Crumbling | | | | menambahkan | pengikat | | atau | mengganti | dengan |\n| --------- | --- | --- | --- | ----------- | -------- | --- | ---- | --------- | ------ |\nseperti tablet\npengikat yang lebih efektif\nDouble Kesan ganda pada permukaan tablet yang Gunakan alat pengatur anti-turning untuk\n| impression | menggunakan punch berlogo | | | mencegah free rotation | | | | | |\n| ---------- | ----------------------- | --- | --- | -------------------- | --- | --- | --- | --- | --- |\nSumber: Ansel’sPharmaeutical Dosage Forms&Drug Delivery System 11 thed; Sediaan Farmasi Padat\n(Goeswin Agoes,2012);Aulton’sPharmauceutics: TheDesign&Manufacturing of Medicinine 5 thed.",
+      "explanation": "PERMASALAHAN PEMBUATAN SEDIAAN TABLET\n| Masalah | Kondisi | Solusi |\n|---|---|---|\n| Capping/Splitting | Bagian atas tablet memisah dengan bagian utamanya | Menambahkan pengikat atau mengganti pengikat |\n| Lamination | Pemisahan tablet menjadi dua bagian atau lebih | Menambahkan pengikat atau mengganti pengikat |\n| Chipping | Rusaknya bagian tepi tablet | Menambahkan lubrikan atau menggunakan pengikat kering |\n| Picking | Tablet menempel pada punch | Suhu dan waktu pengeringan granul ditingkatkan sampai diperoleh MC 2-4%, penambahan anti-adherent dan lubrikan serta mengurangi binder |\n| Sticking | Tablet menempel pada die | Suhu dan waktu pengeringan granul ditingkatkan sampai diperoleh MC 2-4%, penambahan anti-adherent dan lubrikan, dan memberikan minyak mineral pada permukaan punch |\n| Binding | Granul menempel di ruang cetak | Meningkatkan lubrikan, mengurangi ukuran granul, mengubah penguapan dari granulasi, menggunakan die yang telah dilicinkan, mengempa dengan kelembapan yang rendah |\n| Cracking | Retakan kecil dan halus pada permukaan atas atau bawah tablet | Poles permukaan punch dan die, perkecil ukuran granul, tambahkan binder, kurangi jumlah fines |\n| Mottling | Warna tablet tidak merata | Larutkan zat pewarna ke dalam larutan pengikat, gunakan pelarut organik (alkohol), kecepatan panci penyalut diturunkan |\n| Whiskering | Kerusakan tablet karena letak pencetak tidak sesuai dengan ruang cetakan dan terjadi pelelehan zat aktif saat pencetakan pada tekanan tinggi | Menyesuaikan bentuk cetakan yang akan dibuat |\n| Crumbling | Tablet retak dan rapuh sekali, tidak terlihat seperti tablet | Menambah tekanan saat mencetak tablet, menambahkan pengikat atau mengganti dengan pengikat yang lebih efektif |\n| Double impression | Kesan ganda pada permukaan tablet yang menggunakan punch berlogo | Gunakan alat pengatur anti-turning untuk mencegah free rotation |\nSumber: Ansel's Pharmaceutical Dosage Forms & Drug Delivery Systems 11th ed; Sediaan Farmasi Padat (Goeswin Agoes, 2012); Aulton's Pharmaceutics: The Design & Manufacture of Medicines 5th ed.",
       "isMultiSelect": false
     },
     {
@@ -6354,7 +6354,7 @@ window.QUESTION_BANK = {
       ],
       "answer": 0,
       "answerLetter": "A",
-      "explanation": "| | | Produk | | | | | Pemberi Izin | | |\n| ----------------------------------------------------- | --- | ------ | --- | --- | --- | --- | ----------- | ---- | --- |\n| Obat, Suplemen, Obat Tradisional, Pangan, Kuasidan Kosmetik | | | | | | | | BPOM | |\nPKRT(Perbekalan Kesehatan Rumah Tangga) dan Alat Kesehatan KEMENKES\nDINKES\nPIRT(Pangan Industri Rumah Tangga)\nKOTA/KAB\n| --- | --- | --------------------------------------- | --- | --- | --- | --- | --- | --- | --- |",
+      "explanation": "| Produk | Pemberi Izin |\n|---|---|\n| Obat, Suplemen, Obat Tradisional, Pangan, Kuasi dan Kosmetik | BPOM |\n| PKRT (Perbekalan Kesehatan Rumah Tangga) dan Alat Kesehatan | KEMENKES |\n| PIRT (Pangan Industri Rumah Tangga) | DINKES KOTA/KAB |",
       "isMultiSelect": false
     },
     {
@@ -6370,13 +6370,13 @@ window.QUESTION_BANK = {
       ],
       "answer": 2,
       "answerLetter": "C",
-      "explanation": "Metode kuantitatif yang digunakan untuk mengetahui jumlah bakteri aerob pada suatu sampel\n| Syarat ALT : ≤ | 106 koloni/g | | | |\n| -------------- | ------------ | --- | --- | --- |\nPilih cawan dari satu tingkat pengenceran dengan jumlah koloni tertinggi yang kurang dari 250\n| ALT = rata-rata | jumlah koloni | x | | |\n| --------------- | ------------- | --- | --- | --- |\n1\n| = ((150+50)/2) | x | | | |\n| -------------- | --- | --- | --- | --- |\nFaktor pengenceran\n| = 100.000 | 1 | | | |\n| --------- | --- | --- | --- | --- |\n103",
+      "explanation": "ALT (Angka Lempeng Total): metode kuantitatif yang digunakan untuk mengetahui jumlah bakteri aerob pada suatu sampel.\nSyarat ALT: ≤ 10⁶ koloni/g\nPilih cawan dari satu tingkat pengenceran dengan jumlah koloni tertinggi yang kurang dari 250.\nALT = rata-rata jumlah koloni × 1/faktor pengenceran\n= ((150+50)/2) × 1/10⁻³\n= 100 × 10³ = 100.000 koloni/g",
       "isMultiSelect": false
     },
     {
       "id": "CBT161",
       "number": 161,
-      "question": "Seorang apoteker di industri farmasi sedang mengembangkan metode analisis tablet pirazinamid menggunakan KCKT.Apoteker melakukan uji ke sesuai an sistem untuk menetapkan metode analisis yang akan digunakan. Hasil dari uji ke sesuai an sistem adalah sebagai berikut: Parameter Tailing Faktor Resolusi factor kapasit as Metode 1 0,92 2,54 5,95 Metode 2 1,13 1,22 4,52 Metode 3 0,99 1,78 1,54 Metode 4 0,88 1,93 1,98 Metode 5 1,02 1,66 1,32 Metode manakah yang dipilih oleh apoteker tersebut?",
+      "question": "Seorang apoteker di industri farmasi sedang mengembangkan metode analisis tablet pirazinamid menggunakan KCKT. Apoteker melakukan uji kesesuaian sistem untuk menetapkan metode analisis yang akan digunakan. Hasil dari uji kesesuaian sistem adalah sebagai berikut:\n| Parameter | Tailing Factor | Faktor Kapasitas | Resolusi |\n|---|---|---|---|\n| Metode 1 | 0,92 | 2,54 | 5,95 |\n| Metode 2 | 1,13 | 1,22 | 4,52 |\n| Metode 3 | 0,99 | 1,78 | 1,54 |\n| Metode 4 | 0,88 | 1,93 | 1,98 |\n| Metode 5 | 1,02 | 1,66 | 1,32 |\nMetode manakah yang dipilih oleh apoteker tersebut?",
       "options": [
         "Metode 1",
         "Metode 2",
@@ -6386,7 +6386,7 @@ window.QUESTION_BANK = {
       ],
       "answer": 0,
       "answerLetter": "A",
-      "explanation": "| | | Parameter | | Syarat |\n| --- | --------------------- | --------- | --- | ------- |\n| | Presisi | | | RSD≤2% |\n| | Resolusi | | | Rs>1,5 |\n| | Tailingfactor | | | Tf≤1 |\n| | Faktor kapasitas | | | k’>2 |\n| | Jumlah lempeng teoritis | | | N>2.000 |\nBerdasarkan syarat pada tabel, maka metode yang dipilih adalah metode 1",
+      "explanation": "| Parameter | Syarat |\n|---|---|\n| Presisi | RSD ≤ 2% |\n| Resolusi | Rs > 1,5 |\n| Tailing factor | Tf ≤ 1 |\n| Faktor kapasitas | k' > 2 |\n| Jumlah lempeng teoritis | N > 2.000 |\nBerdasarkan syarat pada tabel, maka metode yang dipilih adalah metode 1.",
       "isMultiSelect": false
     },
     {
@@ -6418,7 +6418,7 @@ window.QUESTION_BANK = {
       ],
       "answer": 3,
       "answerLetter": "D",
-      "explanation": "FORMULASI SEDIAAN LIQUID\n| Jenis Eksipien | | | Fungsi | | | | Contoh | |\n| ------------- | ---------------- | ------------ | ---------- | ---------- | ----------- | ------------ | --------- | ------- |\n| | Menurunkan | sudut | kontak | antara zat | terdisperse | | | |\n| | dengan zat | pendisperse, | mengganti | udara | dengan | | | |\n| | | | | | | Tween, Span, | Propylene | glycol, |\n| Wetting agent | zat terdisperse, | | memperluas | permukaan | yang | | | |\ngliserin, poloxamer, HPMC\n| | terbasahi | sehingga | dapat meningkatkan | | jumlah zat | | | |\n| --- | --------- | -------- | ------------------ | --- | ---------- | --- | --- | --- |\nterdisperse yang terlarut dalam zaat pendisperse\nKosolven Meningkatkan ke larutan dalam air Propilenglikol, gliserol, etanol, sorbitol\nAnionik: Natriumlaurilsulfat, Natrium\nstearat, Natrium cetyl sulfate, natrium\nmersolate\nMenurunkan tegangan permukaan antara lapisan\nKationik: Benzalkoniumklorida,\ndua senyawa (minyak dan air) yang tidak saling\n| Surfaktan | | | | | | Laurylpyridiniumklorida, Zehiranklorida | | |\n| --------- | --- | --- | --- | --- | --- | -------------------------------------- | --- | --- |\ncampur sehingga sebagian minyak dapat\nNonionik:-Lipofil: Setilalkohol, span\nbercampur dengan sebagianair\n-Hidrofil: Tween\nAmfoter: Albumin, asamamino, lesetin,\nNH4 Kwartener\nMendispersikan partikel tidak larutke dalam\nCMC,Gom, tragakan, povidone,\n| Suspendinagents | pembawadan meningkatkan viskositas sehingga | | | | | | | |\n| --------------- | ---------------------------------------- | --- | --- | --- | --- | --- | --- | --- |\npolisorbat, span\nkecepatan pengendapan di perkecil\nEmulgatoralam: Gomakasia,\ntragakan, gelatin, kuningtelur\nMenurunkan tegangan permukaan dan\nEmulgatorbuatan: Tween\nmendispersikan fase cair yang taktercampurkan\n(30,40,60,80) danspan (20,40,80),\n| Emulgator | (minyak dan air) | | | | | | | |\n| --------- | -------------- | --- | --- | --- | --- | --- | --- | --- |\ntrietanolamin (TEA)\nEmulgator pada dasar nyabagian dari surfaktan\nGom akasia membentuk film\nmultimolekuler\nButylated hydroxyanisole (BHA),\nMencegah kerusakan basis (bautengik) akibat\n| Antioksidan | | | | | | Butylated hydroxytoluene (BHT),propil | | |\n| ----------- | --- | --- | --- | --- | --- | ----------------------------------- | --- | --- |\noksidasi\ngalat dan tokoferol\nNipagin/metilpraben, nipasol/propil\nparaben, kitosan, natrium benzoat,\n| Pengawet/ | Mencegah per tumbuhan bakteri/jamur karena | | | | | | | |\n| --------- | -------------------------------------- | --- | --- | --- | --- | --- | --- | --- |\nasam benzoat, asamsorbat, Amonium\n| preservatif | mengandungair | | | | | | | |\n| ----------- | ------------- | --- | --- | --- | --- | --- | --- | --- |\nkuartener/benzalkoniumklorida,\nklorobutanol, kresol, Formaldehid\nMempertahankanp Hsediaan untuk menjaga\n| Buffer/Dapar | | | | | | Daparsitrat, Daparfosfat | | |\n| ------------ | --- | --- | --- | --- | --- | ----------------------- | --- | --- |\nstabilitas produk\n| | Menurunkan | muatan | zeta ppotensial | pada | sistem | | | |\n| ----------------- | ---------- | --------- | --------------- | ------------ | ------ | -------------------------------- | --- | --- |\n| | suspensi, | membentuk | agregasi | sehingga | tidak | | | |\n| Flocculating agent | | | | | | NaCl, KH2PO4,Garamsitrat dan fosfat | | |\n| | terbentuk | endapan | cake pada | deflocculatd | system | | | |\nsuspension\nAnticapsloking\n| | Untuk mencegah kristalisasi gula ditutup up botol | | | | | Sorbitol, gliserin, PPG | | |\n| --- | ----------------------------------------- | --- | --- | --- | --- | --------------------- | --- | --- |\nagent\nMemberikan ra sama nis, menutupi rasa pahit atau Sorbitol, mannitol, xylitol, glukosa,\nPemanis\n| | rasa tidak enaklainnya | | | | | sukrosa | | |\n| --- | -------------------- | --- | --- | --- | --- | ------- | --- | --- |\nUntuk menutupirasa yang tidak enak, membuat Peppermint, orange, lemon,\nFlavouringagent\n| | obat lebih diterima pasien | | | | | straweberry | | |\n| --- | ----------------------- | --- | --- | --- | --- | ----------- | --- | --- |\nMengikat dan mengendalikan ion logam karena\n| Chelatingagent | | | | | | EDTA | | |\n| -------------- | --- | --- | --- | --- | --- | ---- | --- | --- |\nbisa menghilangkan kesadahan air\nSumber: HOPE8th; martin’s Physical Pharmacy 6 thed &Ansel Pharmaceutical dosage forms and Drug Delivery Systems 10 thed\n| --- | --- | --- | --------------------------------------- | --- | --- | --- | --- | --- |",
+      "explanation": "FORMULASI SEDIAAN LIQUID\n| Jenis Eksipien | Fungsi | Contoh |\n|---|---|---|\n| Wetting agent | Menurunkan sudut kontak antara zat terdispersi dengan zat pendispersi, mengganti udara dengan zat terdispersi, memperluas permukaan yang terbasahi sehingga dapat meningkatkan jumlah zat terdispersi yang terlarut dalam zat pendispersi | Tween, Span, propylene glycol, gliserin, poloxamer, HPMC |\n| Kosolven | Meningkatkan kelarutan dalam air | Propilenglikol, gliserol, etanol, sorbitol |\n| Surfaktan | Menurunkan tegangan permukaan antara lapisan dua senyawa (minyak dan air) yang tidak saling campur sehingga sebagian minyak dapat bercampur dengan sebagian air | Anionik: natrium lauril sulfat, natrium stearat, natrium cetyl sulfate, natrium mersolate. Kationik: benzalkonium klorida, lauryl pyridinium klorida, zephiran klorida. Nonionik: lipofil (setil alkohol, span), hidrofil (tween). Amfoter: albumin, asam amino, lesitin, NH4 kuartener |\n| Suspending agent | Mendispersikan partikel tidak larut ke dalam pembawa dan meningkatkan viskositas sehingga kecepatan pengendapan diperkecil | CMC, gom, tragakan, povidone, polisorbat, span |\n| Emulgator | Menurunkan tegangan permukaan dan mendispersikan fase cair yang tak tercampurkan (minyak dan air). Emulgator pada dasarnya bagian dari surfaktan; gom akasia membentuk film multimolekuler | Emulgator alam: gom akasia, tragakan, gelatin, kuning telur. Emulgator buatan: Tween (20, 40, 60, 80) dan Span (20, 40, 80), trietanolamin (TEA) |\n| Antioksidan | Mencegah kerusakan basis (bau tengik) akibat oksidasi | Butylated hydroxyanisole (BHA), butylated hydroxytoluene (BHT), propil galat, tokoferol |\n| Pengawet/preservatif | Mencegah pertumbuhan bakteri/jamur karena mengandung air | Nipagin/metilparaben, nipasol/propilparaben, kitosan, natrium benzoat, asam benzoat, asam sorbat, amonium kuartener/benzalkonium klorida, klorobutanol, kresol, formaldehid |\n| Buffer/dapar | Mempertahankan pH sediaan untuk menjaga stabilitas produk | Dapar sitrat, dapar fosfat |\n| Flocculating agent | Menurunkan muatan zeta potensial pada sistem suspensi, membentuk agregasi sehingga tidak terbentuk endapan cake pada deflocculated system suspension | NaCl, KH2PO4, garam sitrat dan fosfat |\n| Anticaplocking agent | Untuk mencegah kristalisasi gula di tutup botol | Sorbitol, gliserin, PPG |\n| Pemanis | Memberikan rasa manis, menutupi rasa pahit atau rasa tidak enak lainnya | Sorbitol, mannitol, xylitol, glukosa, sukrosa |\n| Flavouring agent | Untuk menutupi rasa yang tidak enak, membuat obat lebih diterima pasien | Peppermint, orange, lemon, strawberry |\n| Chelating agent | Mengikat dan mengendalikan ion logam karena bisa menghilangkan kesadahan air | EDTA |\nSumber: HOPE 8th; Martin's Physical Pharmacy 6th ed & Ansel's Pharmaceutical Dosage Forms and Drug Delivery Systems 10th ed",
       "isMultiSelect": false
     },
     {
@@ -6978,7 +6978,7 @@ window.QUESTION_BANK = {
       ],
       "answer": 1,
       "answerLetter": "B",
-      "explanation": "| | | | | INFEKSI SALURAN | | KEMIH | | | |\n| ------------------------------ | --- | --- | --- | -------------- | -------------- | ----- | --- | --- | --- |\n| Gejala Infeksi Saluran Kemih (ISK) | | | | | Gejala tambahan | | | | |\n-Disuria (Sakit saat buang air kecil) Demam, nyeri perut, leukosit dalam urin\n-Poliuria (Sering buang air kecil)\n-Pyuria (ditemukan leukosit pada urine)\n| | Kondisi | | Penyakit | | | Tatalaksana | | | Lama terapi |\n| --- | ------- | --- | -------- | --- | ------- | ----------- | --- | --- | ---------- |\n| | | | | | Dewasa: | | | | 7 hari |\nCiprofloksasin\n| | | | ISKAtas/ | | Seftriakson | | | | |\n| --- | --- | --- | -------- | --- | ----------- | --- | --- | --- | --- |\nAda gejala tambahan\n| | | | Pyulonefritis | | Anak: | | | | 7 hari |\n| --- | --- | --- | ------------- | --- | ----- | --- | --- | --- | ----- |\nSefotaksim\nGentamisin\n| Tidak ada gejala | | | | | Kotrimoksazol e | | | | 5 hari |\n| -------------- | --- | --- | --------- | --- | -------------- | --- | --- | --- | ----- |\n| | | | ISKBawah/ | | Cystitis | | | | |\n| tambahan | | | | | Ciprofloksasin | | | | |\nIbuhamil: Amoksisilin-klauvulanat, sefalosporin, Nitrofurantoin sebagai alternatif tapi hin dari\n(trimester 3)\nAnak: Kotrimoksazol e selama 5 hari, sebagai alternatif dapat diberikan ampisilin, amoksisilin dan\nsefaleksin\nUji nitrit dapat digunakan untuk mendeteksia dan ya bakteri pereduksi nitrat di dalam urin\nSumber: PMK28 Tahun 2021 tentang Pedoman Penggunaan Antibiotik",
+      "explanation": "INFEKSI SALURAN KEMIH\n| Gejala ISK | Gejala Tambahan |\n|---|---|\n| Disuria (sakit saat buang air kecil), poliuria (sering buang air kecil), piuria (ditemukan leukosit pada urine) | Demam, nyeri perut, leukosit dalam urin |\n\n| Kondisi | Penyakit | Tatalaksana | Lama Terapi |\n|---|---|---|---|\n| Ada gejala tambahan | ISK atas/pielonefritis | Dewasa: ciprofloksasin, seftriakson | 7 hari |\n| Ada gejala tambahan | ISK atas/pielonefritis | Anak: sefotaksim, gentamisin | 7 hari |\n| Tidak ada gejala tambahan | ISK bawah/cystitis | Kotrimoksazol, ciprofloksasin | 5 hari |\nIbu hamil: amoksisilin-klavulanat, sefalosporin; nitrofurantoin sebagai alternatif tapi hindari pada trimester 3.\nAnak: kotrimoksazol selama 5 hari; sebagai alternatif dapat diberikan ampisilin, amoksisilin dan sefaleksin.\nUji nitrit dapat digunakan untuk mendeteksi adanya bakteri pereduksi nitrat di dalam urin.\nSumber: PMK 28 Tahun 2021 tentang Pedoman Penggunaan Antibiotik",
       "isMultiSelect": false
     },
     {
@@ -6994,7 +6994,7 @@ window.QUESTION_BANK = {
       ],
       "answer": 0,
       "answerLetter": "A",
-      "explanation": "INFEKSI SALURAN PENCERNAAN\n| | Bakteri | | | Dewasa | | | | Anak | |\n| --- | ------- | --- | --- | ------ | --- | --- | --- | ---- | --- |\n| | | | 1st | | 2nd | | 1st | | 2nd |\nEtamoeba\nhistolitica\n| | | Metronidazole | | | Vankomisin | | Metronidazole | | Vankomisin |\n| --- | --- | ------------- | --- | --- | ---------- | --- | ------------- | --- | ---------- |\nClostridium\nofficiale\n| | E.Coli | Ciprofloxacin | | | Azitromisin | | Azitromisin | | Ceftriakson |\n| --- | ------ | ------------- | --- | --- | ----------- | --- | ----------- | --- | ----------- |\nVibriochlolera Kotrimoksazol e Ciprofloksasin Kotrimoksazol e Eritromisin\n| | | atau tetrasiklin | | | atau | | | | |\n| --- | --- | --------------- | --- | --- | ---- | --- | --- | --- | --- |\neritromisin\nShigella Kotrimoksazol e Ciprofloksasin Azitromisin Ceftriakson\nSalmonella non Kotrimoksazol e Ciprofloksasin Ceftriakson Azitromisin\nthypoid\nCampylobacter Doksisikilin Siprofloksasin Eritromisin Quinolon\n| | jejui | | | | Eritromisin | | | | Tetrasiklin |\n| --- | -------------- | ------------------------------- | --- | --- | ----------- | --- | --- | --- | ----------- |\n| | Travelersdiare | Norfloksasin atau siproflokasisin | | | | | - | | - |\nSumber: Dipiro 10 thdan PMKNo28 Tahun 2021 tentang Penggunaan Antibiotik\n| --- | --- | --- | --- | --------------------------------------- | --- | --- | --- | --- | --- |",
+      "explanation": "INFEKSI SALURAN PENCERNAAN\n| Bakteri | Dewasa 1st | Dewasa 2nd | Anak 1st | Anak 2nd |\n|---|---|---|---|---|\n| Entamoeba histolytica, Clostridium difficile | Metronidazole | Vankomisin | Metronidazole | Vankomisin |\n| E. coli | Ciprofloxacin | Azitromisin | Azitromisin | Ceftriakson |\n| Vibrio cholerae | Kotrimoksazol | Ciprofloksasin atau tetrasiklin | Kotrimoksazol atau eritromisin | Eritromisin |\n| Shigella | Kotrimoksazol | Ciprofloksasin | Azitromisin | Ceftriakson |\n| Salmonella non-typhoid | Kotrimoksazol | Ciprofloksasin | Ceftriakson | Azitromisin |\n| Campylobacter jejuni | Doksisiklin, eritromisin | Siprofloksasin | Eritromisin | Quinolon, tetrasiklin |\n| Travelers' diarrhea | Norfloksasin atau siprofloksasin | - | - | - |\nSumber: Dipiro 10th dan PMK No 28 Tahun 2021 tentang Penggunaan Antibiotik",
       "isMultiSelect": false
     },
     {
@@ -7011,6 +7011,7746 @@ window.QUESTION_BANK = {
       "answer": 4,
       "answerLetter": "E",
       "explanation": "SELALU KELUAR DIUKAI\nSumber: PMK No 12 tahun 2017 tentang Penyelenggaraan Imunisasi",
+      "isMultiSelect": false
+    }
+  ],
+  "aws_clf": [
+    {
+      "id": "CLF1",
+      "number": 1,
+      "question": "Under the shared responsibility model, which of the following is the customer responsible for?",
+      "options": [
+        "Ensuring that disk drives are wiped after use.",
+        "Ensuring that firmware is updated on hardware devices.",
+        "Ensuring that data is encrypted at rest.",
+        "Ensuring that network cables are category six or higher."
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "Pelanggan bertanggung jawab atas keamanan data di cloud, termasuk enkripsi data at rest. Menghapus disk, memperbarui firmware, dan kabel jaringan adalah bagian infrastruktur fisik yang menjadi tanggung jawab AWS.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF2",
+      "number": 2,
+      "question": "The use of what AWS feature or service allows companies to track and categorize spending on a detailed level?",
+      "options": [
+        "Cost allocation tags",
+        "Consolidated billing",
+        "AWS Budgets",
+        "AWS Marketplace"
+      ],
+      "answer": 0,
+      "answerLetter": "A",
+      "explanation": "Cost allocation tags memungkinkan pelabelan resource sehingga biaya dapat dilacak dan dikategorikan secara detail. Consolidated billing hanya menggabungkan tagihan, AWS Budgets untuk menetapkan anggaran/alert, dan AWS Marketplace adalah katalog software.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF3",
+      "number": 3,
+      "question": "Which service stores objects, provides real-time access to those objects, and offers versioning and lifecycle capabilities?",
+      "options": [
+        "Amazon Glacier",
+        "AWS Storage Gateway",
+        "Amazon S3",
+        "Amazon EBS"
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "Amazon S3 adalah object storage dengan akses real-time, versioning, dan lifecycle policy. Amazon Glacier untuk arsip (tidak real-time), AWS Storage Gateway adalah penghubung hybrid, dan Amazon EBS adalah block storage.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF4",
+      "number": 4,
+      "question": "What AWS team assists customers with accelerating cloud adoption through paid engagements in any of several specialty practice areas?",
+      "options": [
+        "AWS Enterprise Support",
+        "AWS Solutions Architects",
+        "AWS Professional Services",
+        "AWS Account Managers"
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "AWS Professional Services adalah tim berbayar yang membantu percepatan adopsi cloud di berbagai area praktik. Enterprise Support adalah paket dukungan, Solutions Architects dan Account Managers bukan engagement berbayar khusus.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF5",
+      "number": 5,
+      "question": "A customer would like to design and build a new workload on AWS Cloud but does not have the AWS-related software technical expertise in-house. Which of the following AWS programs can a customer take advantage of to achieve that outcome?",
+      "options": [
+        "AWS Partner Network Technology Partners",
+        "AWS Marketplace",
+        "AWS Partner Network Consulting Partners",
+        "AWS Service Catalog"
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "APN Consulting Partners membantu merancang, membangun, dan memigrasikan workload bagi pelanggan yang kurang keahlian. Technology Partners menyediakan software, Marketplace adalah katalog, dan Service Catalog mengelola produk yang disetujui.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF6",
+      "number": 6,
+      "question": "Distributing workloads across multiple Availability Zones supports which cloud architecture design principle?",
+      "options": [
+        "Implement automation.",
+        "Design for agility.",
+        "Design for failure.",
+        "Implement elasticity."
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "Menyebar workload ke beberapa Availability Zone berarti mengantisipasi kegagalan (design for failure). Opsi lain (automation, agility, elasticity) tidak secara langsung terkait dengan redundansi antar AZ.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF7",
+      "number": 7,
+      "question": "Which AWS services can host a Microsoft SQL Server database? (Choose two.)",
+      "options": [
+        "Amazon EC2",
+        "Amazon Relational Database Service (Amazon RDS)",
+        "Amazon Aurora",
+        "Amazon Redshift",
+        "Amazon S3"
+      ],
+      "answer": [
+        0,
+        1
+      ],
+      "answerLetter": "A,B",
+      "explanation": "Microsoft SQL Server dapat dijalankan di Amazon EC2 (instalasi sendiri) dan Amazon RDS (managed). Aurora hanya mendukung MySQL/PostgreSQL, Redshift adalah data warehouse, dan S3 adalah object storage.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF8",
+      "number": 8,
+      "question": "Which of the following inspects AWS environments to find opportunities that can save money for users and also improve system performance?",
+      "options": [
+        "AWS Cost Explorer",
+        "AWS Trusted Advisor",
+        "Consolidated billing",
+        "Detailed billing"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "AWS Trusted Advisor memeriksa lingkungan AWS dan memberi rekomendasi penghematan biaya, performa, keamanan, dan fault tolerance. Cost Explorer hanya menganalisis biaya, sedangkan consolidated/detailed billing hanya terkait penagihan.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF9",
+      "number": 9,
+      "question": "Which of the following Amazon EC2 pricing models allow customers to use existing server-bound software licenses?",
+      "options": [
+        "Spot Instances",
+        "Reserved Instances",
+        "Dedicated Hosts",
+        "On-Demand Instances"
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "Dedicated Hosts memberikan server fisik khusus sehingga lisensi software berbasis socket/core/server yang sudah dimiliki dapat dipakai. Spot, Reserved, dan On-Demand berjalan di hardware bersama.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF10",
+      "number": 10,
+      "question": "Which AWS characteristics make AWS cost effective for a workload with dynamic user demand? (Choose two.)",
+      "options": [
+        "High availability",
+        "Shared security model",
+        "Elasticity",
+        "Pay-as-you-go pricing",
+        "Reliability"
+      ],
+      "answer": [
+        2,
+        3
+      ],
+      "answerLetter": "C,D",
+      "explanation": "Elasticity memungkinkan kapasitas naik-turun sesuai permintaan, dan pay-as-you-go hanya menagih penggunaan aktual, sehingga hemat untuk demand dinamis. High availability, shared security model, dan reliability tidak terkait langsung dengan efisiensi biaya.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF11",
+      "number": 11,
+      "question": "Which service enables risk auditing by continuously monitoring and logging account activity, including user actions in the AWS Management Console and AWS SDKs?",
+      "options": [
+        "Amazon CloudWatch",
+        "AWS CloudTrail",
+        "AWS Config",
+        "AWS Health"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "AWS CloudTrail mencatat aktivitas akun dan panggilan API (Console, SDK, CLI) untuk audit. CloudWatch memantau metrik, AWS Config melacak konfigurasi resource, dan AWS Health menampilkan status layanan.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF12",
+      "number": 12,
+      "question": "Which of the following are characteristics of Amazon S3? (Choose two.)",
+      "options": [
+        "A global file system",
+        "An object store",
+        "A local file store",
+        "A network file system",
+        "A durable storage system"
+      ],
+      "answer": [
+        1,
+        4
+      ],
+      "answerLetter": "B,E",
+      "explanation": "Amazon S3 adalah object store dan sistem penyimpanan yang durable (11 nines). S3 bukan file system global, lokal, maupun network file system.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF13",
+      "number": 13,
+      "question": "Which services can be used across hybrid AWS Cloud architectures? (Choose two.)",
+      "options": [
+        "Amazon Route 53",
+        "Virtual Private Gateway",
+        "Classic Load Balancer",
+        "Auto Scaling",
+        "Amazon CloudWatch default metrics"
+      ],
+      "answer": [
+        0,
+        1
+      ],
+      "answerLetter": "A,B",
+      "explanation": "Amazon Route 53 (DNS) dan Virtual Private Gateway (koneksi VPN) dapat dipakai di arsitektur hybrid antara on-premises dan AWS. Classic Load Balancer, Auto Scaling, dan metrik default CloudWatch terbatas pada resource AWS.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF14",
+      "number": 14,
+      "question": "What costs are included when comparing AWS Total Cost of Ownership (TCO) with on-premises TCO?",
+      "options": [
+        "Project management",
+        "Antivirus software licensing",
+        "Data center security",
+        "Software development"
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "Biaya data center seperti keamanan fisik termasuk dalam perbandingan TCO on-premises dengan AWS. Project management, lisensi antivirus, dan software development tidak berubah karena pindah ke AWS sehingga tidak dihitung.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF15",
+      "number": 15,
+      "question": "A company is considering using AWS for a self-hosted database that requires a nightly shutdown for maintenance and cost-saving purposes. Which service should the company use?",
+      "options": [
+        "Amazon Redshift",
+        "Amazon DynamoDB",
+        "Amazon Elastic Compute Cloud (Amazon EC2) with Amazon EC2 instance store",
+        "Amazon EC2 with Amazon Elastic Block Store (Amazon EBS)"
+      ],
+      "answer": 3,
+      "answerLetter": "D",
+      "explanation": "Amazon EC2 dengan EBS menyimpan data tetap persisten saat instance dimatikan, cocok untuk shutdown malam hari. Instance store kehilangan data saat stop, sedangkan Redshift dan DynamoDB bukan database self-hosted.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF16",
+      "number": 16,
+      "question": "Which of the following is a correct relationship between regions, Availability Zones, and edge locations?",
+      "options": [
+        "Data centers contain regions.",
+        "Regions contain Availability Zones.",
+        "Availability Zones contain edge locations.",
+        "Edge locations contain regions."
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "Region berisi beberapa Availability Zone. Data center berada di dalam AZ, dan edge locations terpisah dari region, sehingga opsi lain terbalik atau salah.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF17",
+      "number": 17,
+      "question": "Which AWS tools assist with estimating costs? (Choose three.)",
+      "options": [
+        "Detailed billing report",
+        "Cost allocation tags",
+        "AWS Simple Monthly Calculator",
+        "AWS Total Cost of Ownership (TCO) Calculator",
+        "Cost Estimator"
+      ],
+      "answer": [
+        1,
+        2,
+        3
+      ],
+      "answerLetter": "B,C,D",
+      "explanation": "Cost allocation tags, AWS Simple Monthly Calculator, dan TCO Calculator membantu memperkirakan/menganalisis biaya. Detailed billing report hanya laporan biaya aktual, dan Cost Estimator bukan tool AWS yang valid.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF18",
+      "number": 18,
+      "question": "Which of the following are advantages of AWS consolidated billing? (Choose two.)",
+      "options": [
+        "The ability to receive one bill for multiple accounts",
+        "Service limits increasing by default in all accounts",
+        "A fixed discount on the monthly bill",
+        "Potential volume discounts, as usage in all accounts is combined",
+        "The automatic extension of the master account's AWS support plan to all accounts"
+      ],
+      "answer": [
+        0,
+        3
+      ],
+      "answerLetter": "A,D",
+      "explanation": "Consolidated billing memberi satu tagihan untuk banyak akun dan potensi volume discount karena penggunaan digabung. Tidak ada diskon tetap, limit layanan tidak otomatis naik, dan support plan tidak otomatis diperluas ke akun lain.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF19",
+      "number": 19,
+      "question": "Which of the following Reserved Instance (RI) pricing models provides the highest average savings compared to On-Demand pricing?",
+      "options": [
+        "One-year, No Upfront, Standard RI pricing",
+        "One-year, All Upfront, Convertible RI pricing",
+        "Three-year, All Upfront, Standard RI pricing",
+        "Three-year, No Upfront, Convertible RI pricing"
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "Standard RI tiga tahun dengan All Upfront memberi diskon terbesar dibanding On-Demand. Durasi lebih pendek, tipe Convertible, atau No Upfront memberi penghematan lebih kecil.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF20",
+      "number": 20,
+      "question": "Compared with costs in traditional and virtualized data centers, AWS has:",
+      "options": [
+        "greater variable costs and greater upfront costs.",
+        "fixed usage costs and lower upfront costs.",
+        "lower variable costs and greater upfront costs.",
+        "lower variable costs and lower upfront costs."
+      ],
+      "answer": 3,
+      "answerLetter": "D",
+      "explanation": "AWS menawarkan biaya variabel lebih rendah (skala ekonomi, pay-as-you-go) dan tanpa biaya awal besar karena tidak perlu membeli hardware. Opsi lain salah karena menyebut biaya upfront besar atau biaya tetap.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF21",
+      "number": 21,
+      "question": "A characteristic of edge locations is that they:",
+      "options": [
+        "host Amazon EC2 instances closer to users.",
+        "help lower latency and improve performance for users.",
+        "cache frequently changing data without reaching the origin server.",
+        "refresh data changes daily."
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "Edge locations (CloudFront) membantu menurunkan latensi dan meningkatkan performa dengan menyajikan konten dari lokasi dekat pengguna. Edge tidak menjalankan EC2, tidak cocok untuk data yang sering berubah tanpa origin, dan refresh tidak harian tetap.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF22",
+      "number": 22,
+      "question": "Which of the following can limit Amazon Storage Service (Amazon S3) bucket access to specific users?",
+      "options": [
+        "A public and private key-pair",
+        "Amazon Inspector",
+        "AWS Identity and Access Management (IAM) policies",
+        "Security Groups"
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "IAM policies mengontrol pengguna mana yang boleh mengakses bucket S3. Key pair untuk SSH, Amazon Inspector untuk scan kerentanan, dan Security Groups untuk instance, bukan S3.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF23",
+      "number": 23,
+      "question": "Which of the following security-related actions are available at no cost?",
+      "options": [
+        "Calling AWS Support",
+        "Contacting AWS Professional Services to request a workshop",
+        "Accessing forums, blogs, and whitepapers",
+        "Attending AWS classes at a local university"
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "Forum, blog, dan whitepaper AWS dapat diakses gratis. Dukungan AWS Support, workshop Professional Services, dan kelas pelatihan umumnya berbayar.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF24",
+      "number": 24,
+      "question": "Which of the Reserved Instance (RI) pricing models can change the attributes of the RI as long as the exchange results in the creation of RIs of equal or greater value?",
+      "options": [
+        "Dedicated RIs",
+        "Scheduled RIs",
+        "Convertible RIs",
+        "Standard RIs"
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "Convertible RI dapat ditukar ke atribut lain selama nilai RI baru sama atau lebih besar. Standard RI tidak fleksibel, sedangkan Dedicated dan Scheduled RI bukan model yang sesuai.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF25",
+      "number": 25,
+      "question": "Which AWS feature will reduce the customer's total cost of ownership (TCO)?",
+      "options": [
+        "Shared responsibility security model",
+        "Single tenancy",
+        "Elastic computing",
+        "Encryption"
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "Elastic computing memungkinkan kapasitas disesuaikan dengan kebutuhan sehingga tidak membayar kelebihan kapasitas, menurunkan TCO. Shared responsibility, single tenancy, dan encryption tidak langsung menurunkan biaya.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF26",
+      "number": 26,
+      "question": "Which of the following services will automatically scale with an expected increase in web traffic?",
+      "options": [
+        "AWS CodePipeline",
+        "Elastic Load Balancing",
+        "Amazon EBS",
+        "AWS Direct Connect"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "Elastic Load Balancing otomatis menyesuaikan kapasitas dengan kenaikan traffic. CodePipeline adalah CI/CD, EBS volume berukuran tetap, dan Direct Connect adalah koneksi khusus berkapasitas tetap.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF27",
+      "number": 27,
+      "question": "Where are AWS compliance documents, such as an SOC 1 report, located?",
+      "options": [
+        "Amazon Inspector",
+        "AWS CloudTrail",
+        "AWS Artifact",
+        "AWS Certificate Manager"
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "AWS Artifact adalah portal untuk mengunduh laporan kepatuhan seperti SOC 1. Inspector, CloudTrail, dan Certificate Manager memiliki fungsi lain (scan, audit log, sertifikat SSL/TLS).",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF28",
+      "number": 28,
+      "question": "Under the AWS shared responsibility model, which of the following activities are the customer's responsibility? (Choose two.)",
+      "options": [
+        "Patching operating system components for Amazon Relational Database Server (Amazon RDS)",
+        "Encrypting data on the client-side",
+        "Training the data center staff",
+        "Configuring Network Access Control Lists (ACL)",
+        "Maintaining environmental controls within a data center"
+      ],
+      "answer": [
+        1,
+        3
+      ],
+      "answerLetter": "B,D",
+      "explanation": "Pelanggan bertanggung jawab atas enkripsi data sisi klien dan konfigurasi Network ACL (security in the cloud). Patching OS RDS, pelatihan staf, dan kontrol lingkungan data center adalah tanggung jawab AWS.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF29",
+      "number": 29,
+      "question": "Which is a recommended pattern for designing a highly available architecture on AWS?",
+      "options": [
+        "Ensure that components have low-latency network connectivity.",
+        "Run enough Amazon EC2 instances to operate at peak load.",
+        "Ensure that the application is designed to accommodate failure of any single component.",
+        "Use a monolithic application that handles all operations."
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "Arsitektur highly available harus dirancang agar tetap berjalan meski satu komponen gagal. Latensi rendah, kapasitas puncak, atau aplikasi monolitik tidak menjamin ketersediaan tinggi.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF30",
+      "number": 30,
+      "question": "According to best practices, how should an application be designed to run in the AWS Cloud?",
+      "options": [
+        "Use tightly coupled components.",
+        "Use loosely coupled components.",
+        "Use infrequently coupled components.",
+        "Use frequently coupled components."
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "Best practice AWS adalah loosely coupled components sehingga kegagalan satu komponen tidak menjatuhkan yang lain dan mudah diskalakan. Tightly coupled merupakan anti-pattern, sedangkan opsi lain bukan prinsip yang dikenal.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF31",
+      "number": 31,
+      "question": "AWS supports which of the following methods to add security to Identity and Access Management (IAM) users? (Choose two.)",
+      "options": [
+        "Implementing Amazon Rekognition",
+        "Using AWS Shield-protected resources",
+        "Blocking access with Security Groups",
+        "Using Multi-Factor Authentication (MFA)",
+        "Enforcing password strength and expiration"
+      ],
+      "answer": [
+        3,
+        4
+      ],
+      "answerLetter": "D,E",
+      "explanation": "MFA dan kebijakan password (kekuatan dan masa berlaku) menambah keamanan pengguna IAM. Rekognition adalah analisis gambar, Shield melindungi dari DDoS, dan Security Groups mengatur traffic instance, bukan pengguna IAM.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF32",
+      "number": 32,
+      "question": "Which AWS services should be used for read/write of constantly changing data? (Choose two.)",
+      "options": [
+        "Amazon Glacier",
+        "Amazon RDS",
+        "AWS Snowball",
+        "Amazon Redshift",
+        "Amazon EFS"
+      ],
+      "answer": [
+        1,
+        4
+      ],
+      "answerLetter": "B,E",
+      "explanation": "Amazon RDS dan Amazon EFS cocok untuk read/write data yang terus berubah. Glacier untuk arsip, Snowball untuk transfer data, dan Redshift untuk analitik data warehouse.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF33",
+      "number": 33,
+      "question": "What is one of the advantages of the Amazon Relational Database Service (Amazon RDS)?",
+      "options": [
+        "It simplifies relational database administration tasks.",
+        "It provides 99.99999999999% reliability and durability.",
+        "It automatically scales databases for loads.",
+        "It enabled users to dynamically adjust CPU and RAM resources."
+      ],
+      "answer": 0,
+      "answerLetter": "A",
+      "explanation": "Amazon RDS menyederhanakan administrasi database relasional (provisioning, patching, backup). Durabilitas 11 nines milik S3, RDS tidak otomatis menskalakan semua beban, dan CPU/RAM tidak dapat disesuaikan secara dinamis.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF34",
+      "number": 34,
+      "question": "A customer needs to run a MySQL database that easily scales. Which AWS service should they use?",
+      "options": [
+        "Amazon Aurora",
+        "Amazon Redshift",
+        "Amazon DynamoDB",
+        "Amazon ElastiCache"
+      ],
+      "answer": 0,
+      "answerLetter": "A",
+      "explanation": "Amazon Aurora kompatibel dengan MySQL dan mudah diskalakan. Redshift adalah data warehouse, DynamoDB NoSQL, dan ElastiCache adalah in-memory cache.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF35",
+      "number": 35,
+      "question": "Which of the following components of the AWS Global Infrastructure consists of one or more discrete data centers interconnected through low latency links?",
+      "options": [
+        "Availability Zone",
+        "Edge location",
+        "Region",
+        "Private networking"
+      ],
+      "answer": 0,
+      "answerLetter": "A",
+      "explanation": "Availability Zone terdiri dari satu atau lebih data center yang terhubung dengan link latensi rendah. Region berisi banyak AZ, sedangkan edge location untuk caching konten.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF36",
+      "number": 36,
+      "question": "Which of the following is a shared control between the customer and AWS?",
+      "options": [
+        "Providing a key for Amazon S3 client-side encryption",
+        "Configuration of an Amazon EC2 instance",
+        "Environmental controls of physical AWS data centers",
+        "Awareness and training"
+      ],
+      "answer": 3,
+      "answerLetter": "D",
+      "explanation": "Awareness and training adalah shared control: AWS melatih stafnya dan pelanggan melatih stafnya. Kunci enkripsi klien dan konfigurasi EC2 adalah tanggung jawab pelanggan, kontrol lingkungan data center milik AWS.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF37",
+      "number": 37,
+      "question": "How many Availability Zones should compute resources be provisioned across to achieve high availability?",
+      "options": [
+        "A minimum of one",
+        "A minimum of two",
+        "A minimum of three",
+        "A minimum of four or more"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "Minimal dua Availability Zone diperlukan agar tetap tersedia jika satu AZ gagal. Satu AZ merupakan single point of failure; tiga atau lebih bukan syarat minimum.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF38",
+      "number": 38,
+      "question": "One of the advantages to moving infrastructure from an on-premises data center to the AWS Cloud is:",
+      "options": [
+        "it allows the business to eliminate IT bills.",
+        "it allows the business to put a server in each customer's data center.",
+        "it allows the business to focus on business activities.",
+        "it allows the business to leave servers unpatched."
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "Pindah ke cloud memungkinkan bisnis fokus pada aktivitas bisnis alih-alih mengelola infrastruktur. Tagihan IT tidak hilang, server tidak ditaruh di tiap pelanggan, dan patching OS tetap tanggung jawab pelanggan.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF39",
+      "number": 39,
+      "question": "What is the lowest-cost, durable storage option for retaining database backups for immediate retrieval?",
+      "options": [
+        "Amazon S3",
+        "Amazon Glacier",
+        "Amazon EBS",
+        "Amazon EC2 Instance Store"
+      ],
+      "answer": 0,
+      "answerLetter": "A",
+      "explanation": "Amazon S3 murah, durable, dan data dapat diambil segera. Glacier lebih murah tetapi retrieval tidak langsung, sedangkan EBS dan Instance Store lebih mahal atau tidak durable.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF40",
+      "number": 40,
+      "question": "Which AWS IAM feature allows developers to access AWS services through the AWS CLI?",
+      "options": [
+        "API keys",
+        "Access keys",
+        "User names/Passwords",
+        "SSH keys"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "Access keys (access key ID dan secret access key) dipakai untuk autentikasi AWS CLI. API keys, username/password (untuk Console), dan SSH keys (untuk instance) tidak sesuai.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF41",
+      "number": 41,
+      "question": "Which of the following is a fast and reliable NoSQL database service?",
+      "options": [
+        "Amazon Redshift",
+        "Amazon RDS",
+        "Amazon DynamoDB",
+        "Amazon S3"
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "Amazon DynamoDB adalah layanan database NoSQL yang cepat dan andal. Redshift adalah data warehouse, RDS relasional, dan S3 object storage.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF42",
+      "number": 42,
+      "question": "What is an example of agility in the AWS Cloud?",
+      "options": [
+        "Access to multiple instance types",
+        "Access to managed services",
+        "Using Consolidated Billing to produce one bill",
+        "Decreased acquisition time for new compute resources"
+      ],
+      "answer": 3,
+      "answerLetter": "D",
+      "explanation": "Agility berarti waktu perolehan resource komputasi baru yang jauh lebih singkat. Beragam instance type, managed services, dan consolidated billing tidak menggambarkan kecepatan tersebut.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF43",
+      "number": 43,
+      "question": "Which service should a customer use to consolidate and centrally manage multiple AWS accounts?",
+      "options": [
+        "AWS IAM",
+        "AWS Organizations",
+        "AWS Schema Conversion Tool",
+        "AWS Config"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "AWS Organizations mengelola dan mengonsolidasi banyak akun AWS secara terpusat. IAM mengelola akses, Schema Conversion Tool untuk migrasi database, dan AWS Config melacak konfigurasi.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF44",
+      "number": 44,
+      "question": "What approach to transcoding a large number of individual video files adheres to AWS architecture principles?",
+      "options": [
+        "Using many instances in parallel",
+        "Using a single large instance during off-peak hours",
+        "Using dedicated hardware",
+        "Using a large GPU instance type"
+      ],
+      "answer": 0,
+      "answerLetter": "A",
+      "explanation": "Menggunakan banyak instance secara paralel sesuai prinsip scalability dan horizontal scaling AWS. Satu instance besar, dedicated hardware, atau GPU besar tidak elastis dan kurang efisien.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF45",
+      "number": 45,
+      "question": "For which auditing process does AWS have sole responsibility?",
+      "options": [
+        "AWS IAM policies",
+        "Physical security",
+        "Amazon S3 bucket policies",
+        "AWS CloudTrail Logs"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "Keamanan fisik data center sepenuhnya tanggung jawab AWS. IAM policies, S3 bucket policies, dan CloudTrail logs dikonfigurasi dan diaudit oleh pelanggan.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF46",
+      "number": 46,
+      "question": "Which feature of the AWS Cloud will support an international company's requirement for low latency to all of its customers?",
+      "options": [
+        "Fault tolerance",
+        "Global reach",
+        "Pay-as-you-go pricing",
+        "High availability"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "Global reach (infrastruktur global dengan banyak region dan edge location) memungkinkan latensi rendah bagi pelanggan internasional. Fault tolerance, pay-as-you-go, dan high availability tidak terkait latensi.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF47",
+      "number": 47,
+      "question": "Which of the following is the customer's responsibility under the AWS shared responsibility model?",
+      "options": [
+        "Patching underlying infrastructure",
+        "Physical security",
+        "Patching Amazon EC2 instances",
+        "Patching network infrastructure"
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "Patching instance Amazon EC2 (OS dan aplikasi) adalah tanggung jawab pelanggan. Infrastruktur dasar, keamanan fisik, dan jaringan di-patch/dikelola AWS.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF48",
+      "number": 48,
+      "question": "A customer is using multiple AWS accounts with separate billing. How can the customer take advantage of volume discounts with minimal impact to the AWS resources?",
+      "options": [
+        "Create one global AWS acount and move all AWS resources to tha account.",
+        "Sign up for three years of Reserved Instance pricing up front.",
+        "Use the consolidated billing feature from AWS Organizations.",
+        "Sign up for the AWS Enterprise support plan to get volume discounts."
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "Consolidated billing di AWS Organizations menggabungkan penggunaan akun untuk volume discount tanpa memindahkan resource. Satu akun global memerlukan migrasi, RI tiga tahun tidak relevan, dan Enterprise support tidak memberi volume discount.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF49",
+      "number": 49,
+      "question": "Which of the following are features of Amazon CloudWatch Logs? (Choose two.)",
+      "options": [
+        "Summaries by Amazon Simple Notification Service (Amazon SNS)",
+        "Free Amazon Elasticsearch Service analytics",
+        "Provided at no charge",
+        "Real-time monitoring",
+        "Adjustable retention"
+      ],
+      "answer": [
+        3,
+        4
+      ],
+      "answerLetter": "D,E",
+      "explanation": "CloudWatch Logs mendukung real-time monitoring dan retensi log yang dapat diatur. Layanan ini tidak gratis sepenuhnya, tidak menyertakan analitik Elasticsearch gratis, dan ringkasan SNS bukan fitur utamanya.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF50",
+      "number": 50,
+      "question": "Which of the following is an AWS managed Domain Name System (DNS) web service?",
+      "options": [
+        "Amazon Route 53",
+        "Amazon Neptune",
+        "Amazon SageMaker",
+        "Amazon Lightsail"
+      ],
+      "answer": 0,
+      "answerLetter": "A",
+      "explanation": "Amazon Route 53 adalah layanan DNS terkelola AWS yang menerjemahkan nama domain ke alamat IP. Amazon Neptune adalah database graph, Amazon SageMaker untuk machine learning, dan Amazon Lightsail untuk VPS sederhana; semuanya bukan layanan DNS.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF51",
+      "number": 51,
+      "question": "A customer is deploying a new application and needs to choose an AWS Region. Which of the following factors could influence the customer's decision? (Choose two.)",
+      "options": [
+        "Reduced latency to users",
+        "The application's presentation in the local language",
+        "Data sovereignty compliance",
+        "Cooling costs in hotter climates",
+        "Proximity to the customer's office for on-site visits"
+      ],
+      "answer": [
+        0,
+        2
+      ],
+      "answerLetter": "A,C",
+      "explanation": "Latensi ke pengguna (A) dan kepatuhan kedaulatan data (C) adalah faktor utama pemilihan Region. Bahasa tampilan aplikasi, biaya pendinginan (ditanggung AWS), dan kedekatan dengan kantor pelanggan tidak relevan dalam memilih Region.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF52",
+      "number": 52,
+      "question": "Which storage service can be used as a low-cost option for hosting static websites?",
+      "options": [
+        "Amazon Glacier",
+        "Amazon DynamoDB",
+        "Amazon Elastic File System (Amazon EFS)",
+        "Amazon Simple Storage Service (Amazon S3)"
+      ],
+      "answer": 3,
+      "answerLetter": "D",
+      "explanation": "Amazon S3 dapat meng-host website statis dengan biaya rendah. Amazon Glacier untuk arsip, DynamoDB adalah database NoSQL, dan Amazon EFS adalah file system untuk instance, bukan hosting website statis.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF53",
+      "number": 53,
+      "question": "Which Amazon EC2 instance pricing model can provide discounts of up to 90%?",
+      "options": [
+        "Reserved Instances",
+        "On-Demand",
+        "Dedicated Hosts",
+        "Spot Instances"
+      ],
+      "answer": 3,
+      "answerLetter": "D",
+      "explanation": "Spot Instances memanfaatkan kapasitas EC2 cadangan dengan diskon hingga 90% dibanding On-Demand. Reserved Instances dan Dedicated Hosts diskonnya lebih kecil, sedangkan On-Demand adalah harga penuh.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF54",
+      "number": 54,
+      "question": "What is the AWS customer responsible for according to the AWS shared responsibility model?",
+      "options": [
+        "Physical access controls",
+        "Data encryption",
+        "Secure disposal of storage devices",
+        "Environmental risk management"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "Dalam shared responsibility model, pelanggan bertanggung jawab atas keamanan di cloud, termasuk enkripsi data. Akses fisik, pembuangan perangkat penyimpanan, dan manajemen risiko lingkungan adalah tanggung jawab AWS.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF55",
+      "number": 55,
+      "question": "Which of the following AWS Cloud services can be used to run a customer-managed relational database?",
+      "options": [
+        "Amazon EC2",
+        "Amazon Route 53",
+        "Amazon ElastiCache",
+        "Amazon DynamoDB"
+      ],
+      "answer": 0,
+      "answerLetter": "A",
+      "explanation": "Amazon EC2 memungkinkan pelanggan menginstal dan mengelola sendiri database relasional di instance. Route 53 adalah DNS, ElastiCache adalah cache in-memory, dan DynamoDB adalah database NoSQL terkelola.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF56",
+      "number": 56,
+      "question": "A company is looking for a scalable data warehouse solution. Which of the following AWS solutions would meet the company's needs?",
+      "options": [
+        "Amazon Simple Storage Service (Amazon S3)",
+        "Amazon DynamoDB",
+        "Amazon Kinesis",
+        "Amazon Redshift"
+      ],
+      "answer": 3,
+      "answerLetter": "D",
+      "explanation": "Amazon Redshift adalah data warehouse terkelola yang skalabel. S3 adalah penyimpanan objek, DynamoDB database NoSQL, dan Kinesis untuk streaming data, bukan data warehouse.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF57",
+      "number": 57,
+      "question": "Which statement best describes Elastic Load Balancing?",
+      "options": [
+        "It translates a domain name into an IP address using DNS.",
+        "It distributes incoming application traffic across one or more Amazon EC2 instances.",
+        "It collects metrics on connected Amazon EC2 instances.",
+        "It automatically adjusts the number of Amazon EC2 instances to support incoming traffic."
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "Elastic Load Balancing mendistribusikan trafik aplikasi masuk ke beberapa target seperti instance EC2. Opsi lain menggambarkan Route 53 (DNS), CloudWatch (metrik), dan Auto Scaling (penyesuaian jumlah instance).",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF58",
+      "number": 58,
+      "question": "Which of the following are valid ways for a customer to interact with AWS services? (Choose two.)",
+      "options": [
+        "Command line interface",
+        "On-premises",
+        "Software Development Kits",
+        "Software-as-a-service",
+        "Hybrid"
+      ],
+      "answer": [
+        0,
+        2
+      ],
+      "answerLetter": "A,C",
+      "explanation": "AWS dapat diakses melalui command line interface (AWS CLI) dan Software Development Kits (SDK). On-premises, SaaS, dan hybrid adalah model deployment/layanan, bukan cara berinteraksi dengan layanan AWS.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF59",
+      "number": 59,
+      "question": "The AWS Cloud's multiple Regions are an example of:",
+      "options": [
+        "agility.",
+        "global infrastructure.",
+        "elasticity.",
+        "pay-as-you-go pricing."
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "Banyak Region AWS di seluruh dunia merupakan contoh global infrastructure. Agility, elasticity, dan pay-as-you-go pricing adalah manfaat cloud lain yang tidak terkait langsung dengan banyaknya Region.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF60",
+      "number": 60,
+      "question": "Which of the following AWS services can be used to serve large amounts of online video content with the lowest possible latency? (Choose two.)",
+      "options": [
+        "AWS Storage Gateway",
+        "Amazon S3",
+        "Amazon Elastic File System (EFS)",
+        "Amazon Glacier",
+        "Amazom CloudFront"
+      ],
+      "answer": [
+        1,
+        4
+      ],
+      "answerLetter": "B,E",
+      "explanation": "Amazon S3 menyimpan konten video dan Amazon CloudFront (CDN) mengirimkannya dengan latensi rendah lewat edge location. Storage Gateway, EFS, dan Glacier tidak dirancang untuk distribusi konten latensi rendah.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF61",
+      "number": 61,
+      "question": "Web servers running on Amazon EC2 access a legacy application running in a corporate data center. What term would describe this model?",
+      "options": [
+        "Cloud-native",
+        "Partner network",
+        "Hybrid architecture",
+        "Infrastructure as a service"
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "Arsitektur yang menghubungkan resource di cloud dengan data center on-premises disebut hybrid architecture. Cloud-native berarti sepenuhnya di cloud, sedangkan Partner network dan IaaS tidak menggambarkan model ini.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF62",
+      "number": 62,
+      "question": "What is the benefit of using AWS managed services, such as Amazon ElastiCache and Amazon Relational Database Service (Amazon RDS)?",
+      "options": [
+        "They require the customer to monitor and replace failing instances.",
+        "They have better performance than customer-managed services.",
+        "They simplify patching and updating underlying OSs.",
+        "They do not require the customer to optimize instance type or size selections."
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "Layanan terkelola seperti RDS dan ElastiCache menyederhanakan patching dan pembaruan OS karena dilakukan AWS. Opsi lain salah: pelanggan tidak perlu memonitor/mengganti instance yang gagal, performa tidak otomatis lebih baik, dan pemilihan ukuran instance tetap perlu dilakukan.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF63",
+      "number": 63,
+      "question": "Which service provides a virtually unlimited amount of online highly durable object storage?",
+      "options": [
+        "Amazon Redshift",
+        "Amazon Elastic File System (Amazon EFS)",
+        "Amazon Elastic Container Service (Amazon ECS)",
+        "Amazon S3"
+      ],
+      "answer": 3,
+      "answerLetter": "D",
+      "explanation": "Amazon S3 menyediakan penyimpanan objek yang hampir tak terbatas dengan durabilitas tinggi. Redshift adalah data warehouse, EFS adalah file storage, dan ECS adalah layanan orkestrasi container.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF64",
+      "number": 64,
+      "question": "Which of the following Identity and Access Management (IAM) entities is associated with an access key ID and secret access key when using AWS Command Line Interface (AWS CLI)?",
+      "options": [
+        "IAM group",
+        "IAM user",
+        "IAM role",
+        "IAM policy"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "IAM user memiliki kredensial jangka panjang berupa access key ID dan secret access key untuk AWS CLI. Group hanya mengelompokkan user, role memakai kredensial sementara, dan policy hanya dokumen izin.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF65",
+      "number": 65,
+      "question": "Which of the following security-related services does AWS offer? (Choose two.)",
+      "options": [
+        "Multi-factor authentication physical tokens",
+        "AWS Trusted Advisor security checks",
+        "Data encryption",
+        "Automated penetration testing",
+        "Amazon S3 copyrighted content detection"
+      ],
+      "answer": [
+        1,
+        2
+      ],
+      "answerLetter": "B,C",
+      "explanation": "AWS Trusted Advisor menyediakan pemeriksaan keamanan, dan AWS menyediakan fitur enkripsi data. MFA token fisik bukan layanan AWS, pentest otomatis tidak ditawarkan, dan deteksi konten berhak cipta di S3 tidak ada.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF66",
+      "number": 66,
+      "question": "Which AWS managed service is used to host databases?",
+      "options": [
+        "AWS Batch",
+        "AWS Artifact",
+        "AWS Data Pipeline",
+        "Amazon RDS"
+      ],
+      "answer": 3,
+      "answerLetter": "D",
+      "explanation": "Amazon RDS adalah layanan terkelola untuk meng-host database relasional. AWS Batch untuk batch computing, AWS Artifact untuk laporan kepatuhan, dan AWS Data Pipeline untuk pemindahan data.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF67",
+      "number": 67,
+      "question": "Which AWS service provides a simple and scalable shared file storage solution for use with Linux- based AWS and on-premises servers?",
+      "options": [
+        "Amazon S3",
+        "Amazon Glacier",
+        "Amazon EBS",
+        "Amazon EFS"
+      ],
+      "answer": 3,
+      "answerLetter": "D",
+      "explanation": "Amazon EFS menyediakan file storage bersama yang sederhana dan skalabel untuk server Linux di AWS maupun on-premises. S3 dan Glacier adalah object storage, sedangkan EBS adalah block storage untuk satu instance.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF68",
+      "number": 68,
+      "question": "When architecting cloud applications, which of the following are a key design principle?",
+      "options": [
+        "Use the largest instance possible",
+        "Provision capacity for peak load",
+        "Use the Scrum development process",
+        "Implement elasticity"
+      ],
+      "answer": 3,
+      "answerLetter": "D",
+      "explanation": "Menerapkan elasticity (menyesuaikan kapasitas sesuai beban) adalah prinsip desain utama cloud. Instance terbesar, provisioning untuk beban puncak, dan Scrum bukan prinsip desain arsitektur cloud.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF69",
+      "number": 69,
+      "question": "Which AWS service should be used for long-term, low-cost storage of data backups?",
+      "options": [
+        "Amazon RDS",
+        "Amazon Glacier",
+        "AWS Snowball",
+        "AWS EBS"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "Amazon Glacier dirancang untuk arsip dan backup jangka panjang dengan biaya sangat rendah. RDS adalah database, Snowball untuk transfer data fisik, dan EBS lebih mahal serta untuk block storage aktif.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF70",
+      "number": 70,
+      "question": "Under the shared responsibility model, which of the following is a shared control between a customer and AWS?",
+      "options": [
+        "Physical controls",
+        "Patch management",
+        "Zone security",
+        "Data center auditing"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "Patch management adalah shared control: AWS menambal infrastruktur, pelanggan menambal OS dan aplikasinya. Physical controls, zone security, dan data center auditing adalah tanggung jawab AWS.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF71",
+      "number": 71,
+      "question": "Which AWS service allows companies to connect an Amazon VPC to an on-premises data center?",
+      "options": [
+        "AWS VPN",
+        "Amazon Redshift",
+        "API Gateway",
+        "Amazon Connect"
+      ],
+      "answer": 3,
+      "answerLetter": "D",
+      "explanation": "Sesuai kunci jawaban yang diberikan (D), Amazon Connect dipilih; namun perlu dicatat bahwa secara umum koneksi VPC ke data center on-premises dilakukan dengan AWS VPN atau AWS Direct Connect. Redshift adalah data warehouse dan API Gateway untuk mengelola API.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF72",
+      "number": 72,
+      "question": "A company wants to reduce the physical compute footprint that developers use to run code. Which service would meet that need by enabling serverless architectures?",
+      "options": [
+        "Amazon Elastic Compute Cloud (Amazon EC2)",
+        "AWS Lambda",
+        "Amazon DynamoDB",
+        "AWS CodeCommit"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "AWS Lambda menjalankan kode tanpa mengelola server (serverless), sehingga mengurangi footprint komputasi fisik. EC2 memerlukan pengelolaan server, DynamoDB adalah database, dan CodeCommit adalah repositori kode.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF73",
+      "number": 73,
+      "question": "Which AWS service provides alerts when an AWS event may impact a company's AWS resources?",
+      "options": [
+        "AWS Personal Health Dashboard",
+        "AWS Service Health Dashboard",
+        "AWS Trusted Advisor",
+        "AWS Infrastructure Event Management"
+      ],
+      "answer": 0,
+      "answerLetter": "A",
+      "explanation": "AWS Personal Health Dashboard memberi peringatan dan panduan yang dipersonalisasi ketika event AWS dapat memengaruhi resource pelanggan. Service Health Dashboard hanya menampilkan status umum, Trusted Advisor memberi rekomendasi best practice, dan Infrastructure Event Management adalah layanan dukungan.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF74",
+      "number": 74,
+      "question": "Which of the following are categories of AWS Trusted Advisor? (Choose two.)",
+      "options": [
+        "Fault Tolerance",
+        "Instance Usage",
+        "Infrastructure",
+        "Performance",
+        "Storage Capacity"
+      ],
+      "answer": [
+        0,
+        3
+      ],
+      "answerLetter": "A,D",
+      "explanation": "Fault Tolerance dan Performance adalah kategori AWS Trusted Advisor (selain Cost Optimization, Security, dan Service Limits). Instance Usage, Infrastructure, dan Storage Capacity bukan kategorinya.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF75",
+      "number": 75,
+      "question": "Which task is AWS responsible for in the shared responsibility model for security and compliance?",
+      "options": [
+        "Granting access to individuals and services",
+        "Encrypting data in transit",
+        "Updating Amazon EC2 host firmware",
+        "Updating operating systems"
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "AWS bertanggung jawab atas keamanan cloud, termasuk memperbarui firmware host EC2. Mengatur akses, enkripsi data in transit, dan update OS tamu adalah tanggung jawab pelanggan.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF76",
+      "number": 76,
+      "question": "Where should a company go to search software listings from independent software vendors to find, test, buy and deploy software that runs on AWS?",
+      "options": [
+        "AWS Marketplace",
+        "Amazon Lumberyard",
+        "AWS Artifact",
+        "Amazon CloudSearch"
+      ],
+      "answer": 0,
+      "answerLetter": "A",
+      "explanation": "AWS Marketplace adalah katalog digital untuk menemukan, menguji, membeli, dan men-deploy software dari ISV. Lumberyard adalah game engine, AWS Artifact untuk laporan kepatuhan, dan CloudSearch untuk pencarian.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF77",
+      "number": 77,
+      "question": "Which of the following is a benefit of using the AWS Cloud?",
+      "options": [
+        "Permissive security removes the administrative burden.",
+        "Ability to focus on revenue-generating activities.",
+        "Control over cloud network hardware.",
+        "Choice of specific cloud hardware vendors."
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "Dengan AWS, perusahaan dapat fokus pada aktivitas yang menghasilkan pendapatan karena beban infrastruktur dikurangi. Keamanan longgar bukan manfaat, dan pelanggan tidak mengontrol hardware jaringan atau memilih vendor hardware.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF78",
+      "number": 78,
+      "question": "When performing a cost analysis that supports physical isolation of a customer workload, which compute hosting model should be accounted for in the Total Cost of Ownership (TCO)?",
+      "options": [
+        "Dedicated Hosts",
+        "Reserved Instances",
+        "On-Demand Instances",
+        "No Upfront Reserved Instances"
+      ],
+      "answer": 0,
+      "answerLetter": "A",
+      "explanation": "Dedicated Hosts menyediakan server fisik khusus untuk satu pelanggan sehingga mendukung isolasi fisik dan perlu diperhitungkan di TCO. Reserved, On-Demand, dan No Upfront Reserved Instances adalah model penagihan pada hardware bersama.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF79",
+      "number": 79,
+      "question": "Which AWS service provides the ability to manage infrastructure as code?",
+      "options": [
+        "AWS CodePipeline",
+        "AWS CodeDeploy",
+        "AWS Direct Connect",
+        "AWS CloudFormation"
+      ],
+      "answer": 3,
+      "answerLetter": "D",
+      "explanation": "AWS CloudFormation memungkinkan pengelolaan infrastruktur sebagai kode lewat template. CodePipeline dan CodeDeploy untuk CI/CD, sedangkan Direct Connect adalah koneksi jaringan khusus.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF80",
+      "number": 80,
+      "question": "If a customer needs to audit the change management of AWS resources, which of the following AWS services should the customer use?",
+      "options": [
+        "AWS Config",
+        "AWS Trusted Advisor",
+        "Amazon CloudWatch",
+        "Amazon Inspector"
+      ],
+      "answer": 0,
+      "answerLetter": "A",
+      "explanation": "AWS Config mencatat dan mengaudit perubahan konfigurasi resource AWS. Trusted Advisor memberi rekomendasi, CloudWatch memonitor metrik, dan Inspector menilai kerentanan.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF81",
+      "number": 81,
+      "question": "What is Amazon CloudWatch?",
+      "options": [
+        "A code repository with customizable build and team commit features.",
+        "A metrics repository with customizable notification thresholds and channels.",
+        "A security configuration repository with threat analytics.",
+        "A rule repository of a web application firewall with automated vulnerability prevention features."
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "Amazon CloudWatch adalah repositori metrik dengan alarm yang dapat diatur ambang batas dan saluran notifikasinya. Opsi lain menggambarkan CodeCommit/CodeBuild, layanan analitik ancaman, dan AWS WAF.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF82",
+      "number": 82,
+      "question": "Which service allows a company with multiple AWS accounts to combine its usage to obtain volume discounts?",
+      "options": [
+        "AWS Server Migration Service",
+        "AWS Organizations",
+        "AWS Budgets",
+        "AWS Trusted Advisor"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "AWS Organizations (consolidated billing) menggabungkan penggunaan banyak akun untuk mendapatkan diskon volume. Server Migration Service untuk migrasi, Budgets untuk anggaran, dan Trusted Advisor untuk rekomendasi.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF83",
+      "number": 83,
+      "question": "Which of the following services could be used to deploy an application to servers running on- premises? (Choose two.)",
+      "options": [
+        "AWS Elastic Beanstalk",
+        "AWS OpsWorks",
+        "AWS CodeDeploy",
+        "AWS Batch",
+        "AWS X-Ray"
+      ],
+      "answer": [
+        0,
+        2
+      ],
+      "answerLetter": "A,C",
+      "explanation": "AWS Elastic Beanstalk dan AWS CodeDeploy, sesuai kunci jawaban, adalah opsi yang dipilih; CodeDeploy memang dapat men-deploy ke server on-premises. AWS Batch dan AWS X-Ray bukan layanan deployment aplikasi.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF84",
+      "number": 84,
+      "question": "Which Amazon EC2 pricing model adjusts based on supply and demand of EC2 instances?",
+      "options": [
+        "On-Demand Instances",
+        "Reserved Instances",
+        "Spot Instances",
+        "Convertible Reserved Instances"
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "Spot Instances memiliki harga yang berubah sesuai supply dan demand kapasitas EC2. On-Demand dan Reserved (termasuk Convertible) memiliki harga tetap.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF85",
+      "number": 85,
+      "question": "Which design principles for cloud architecture are recommended when re-architecting a large monolithic application? (Choose two.)",
+      "options": [
+        "Use manual monitoring.",
+        "Use fixed servers.",
+        "Implement loose coupling.",
+        "Rely on individual components.",
+        "Design for scalability."
+      ],
+      "answer": [
+        2,
+        4
+      ],
+      "answerLetter": "C,E",
+      "explanation": "Loose coupling dan desain untuk scalability adalah prinsip saat merancang ulang aplikasi monolitik. Monitoring manual, server tetap, dan ketergantungan pada komponen individual bertentangan dengan praktik cloud.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF86",
+      "number": 86,
+      "question": "Which is the MINIMUM AWS Support plan that allows for one-hour target response time for support cases?",
+      "options": [
+        "Enterprise",
+        "Business",
+        "Developer",
+        "Basic"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "Business support plan adalah yang paling rendah dengan target respons satu jam untuk kasus production system down. Developer dan Basic tidak memilikinya, sedangkan Enterprise lebih tinggi (bukan minimum).",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF87",
+      "number": 87,
+      "question": "Where can AWS compliance and certification reports be downloaded?",
+      "options": [
+        "AWS Artifact",
+        "AWS Concierge",
+        "AWS Certificate Manager",
+        "AWS Trusted Advisor"
+      ],
+      "answer": 0,
+      "answerLetter": "A",
+      "explanation": "AWS Artifact adalah portal untuk mengunduh laporan kepatuhan dan sertifikasi AWS. Certificate Manager mengelola sertifikat SSL/TLS, sedangkan Concierge dan Trusted Advisor bukan sumber laporan tersebut.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF88",
+      "number": 88,
+      "question": "Which AWS service provides a customized view of the health of specific AWS services that power a customer's workloads running on AWS?",
+      "options": [
+        "AWS Service Health Dashboard",
+        "AWS X-Ray",
+        "AWS Personal Health Dashboard",
+        "Amazon CloudWatch"
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "AWS Personal Health Dashboard menampilkan kesehatan layanan AWS yang berdampak pada workload pelanggan secara personal. Service Health Dashboard bersifat umum, X-Ray untuk tracing, dan CloudWatch untuk metrik.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF89",
+      "number": 89,
+      "question": "Which of the following is an advantage of consolidated billing on AWS?",
+      "options": [
+        "Volume pricing qualification",
+        "Shared access permissions",
+        "Multiple bills per account",
+        "Eliminates the need for tagging"
+      ],
+      "answer": 0,
+      "answerLetter": "A",
+      "explanation": "Consolidated billing menggabungkan penggunaan semua akun sehingga memenuhi syarat volume pricing. Ia tidak membagi izin akses, justru memberi satu tagihan, dan tidak menghilangkan kebutuhan tagging.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF90",
+      "number": 90,
+      "question": "Which of the following steps should be taken by a customer when conducting penetration testing on AWS?",
+      "options": [
+        "Conduct penetration testing using Amazon Inspector, and then notify AWS support.",
+        "Request and wait for approval from the customer's internal security team, and then conduct testing.",
+        "Notify AWS support, and then conduct testing immediately.",
+        "Request and wait for approval from AWS support, and then conduct testing."
+      ],
+      "answer": 3,
+      "answerLetter": "D",
+      "explanation": "Sesuai kunci jawaban (D), pelanggan meminta dan menunggu persetujuan dari AWS Support sebelum melakukan penetration testing. Opsi lain salah karena hanya memberi notifikasi, memakai Inspector, atau hanya meminta persetujuan internal.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF91",
+      "number": 91,
+      "question": "Which of the following AWS features enables a user to launch a pre-configured Amazon Elastic Compute Cloud (Amazon EC2) instance?",
+      "options": [
+        "Amazon Elastic Block Store (Amazon EBS)",
+        "Amazon Machine Image",
+        "Amazon EC2 Systems Manager",
+        "Amazon AppStream 2.0"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "Amazon Machine Image (AMI) adalah template pre-configured untuk meluncurkan instance EC2. EBS adalah block storage, Systems Manager untuk manajemen operasional, dan AppStream 2.0 untuk streaming aplikasi.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF92",
+      "number": 92,
+      "question": "How would an AWS customer easily apply common access controls to a large set of users?",
+      "options": [
+        "Apply an IAM policy to an IAM group.",
+        "Apply an IAM policy to an IAM role.",
+        "Apply the same IAM policy to all IAM users with access to the same workload.",
+        "Apply an IAM policy to an Amazon Cognito user pool."
+      ],
+      "answer": 0,
+      "answerLetter": "A",
+      "explanation": "Menerapkan IAM policy ke IAM group adalah cara termudah menerapkan akses yang sama untuk banyak user. Role untuk kredensial sementara, menempelkan policy ke tiap user kurang efisien, dan Cognito untuk pengguna aplikasi.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF93",
+      "number": 93,
+      "question": "What technology enables compute capacity to adjust as loads change?",
+      "options": [
+        "Load balancing",
+        "Automatic failover",
+        "Round robin",
+        "Auto Scaling"
+      ],
+      "answer": 3,
+      "answerLetter": "D",
+      "explanation": "Auto Scaling menyesuaikan kapasitas komputasi secara otomatis mengikuti perubahan beban. Load balancing hanya mendistribusikan trafik, failover untuk ketersediaan, dan round robin adalah metode distribusi.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF94",
+      "number": 94,
+      "question": "Which AWS services are defined as global instead of regional? (Choose two.)",
+      "options": [
+        "Amazon Route 53",
+        "Amazon EC2",
+        "Amazon S3",
+        "Amazon CloudFront",
+        "Amazon DynamoDB"
+      ],
+      "answer": [
+        0,
+        3
+      ],
+      "answerLetter": "A,D",
+      "explanation": "Amazon Route 53 dan Amazon CloudFront adalah layanan global. EC2, S3 (bucket berada di Region), dan DynamoDB adalah layanan regional.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF95",
+      "number": 95,
+      "question": "Which AWS service would you use to obtain compliance reports and certificates?",
+      "options": [
+        "AWS Artifact",
+        "AWS Lambda",
+        "Amazon Inspector",
+        "AWS Certificate Manager"
+      ],
+      "answer": 0,
+      "answerLetter": "A",
+      "explanation": "AWS Artifact menyediakan akses ke laporan kepatuhan dan sertifikat AWS. Lambda untuk komputasi, Inspector untuk penilaian kerentanan, dan Certificate Manager untuk sertifikat SSL/TLS.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF96",
+      "number": 96,
+      "question": "Under the shared responsibility model, which of the following tasks are the responsibility of the AWS customer? (Choose two.)",
+      "options": [
+        "Ensuring that application data is encrypted at rest",
+        "Ensuring that AWS NTP servers are set to the correct time",
+        "Ensuring that users have received security training in the use of AWS services",
+        "Ensuring that access to data centers is restricted",
+        "Ensuring that hardware is disposed of properly"
+      ],
+      "answer": [
+        0,
+        2
+      ],
+      "answerLetter": "A,C",
+      "explanation": "Pelanggan bertanggung jawab mengenkripsi data aplikasi dan melatih penggunanya soal keamanan. NTP server, akses data center, dan pembuangan hardware adalah tanggung jawab AWS.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF97",
+      "number": 97,
+      "question": "Which AWS service can be used to manually launch instances based on resource requirements?",
+      "options": [
+        "Amazon EBS",
+        "Amazon S3",
+        "Amazon EC2",
+        "Amazon ECS"
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "Amazon EC2 memungkinkan peluncuran instance secara manual sesuai kebutuhan resource. EBS dan S3 adalah penyimpanan, sedangkan ECS adalah orkestrasi container.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF98",
+      "number": 98,
+      "question": "A company is migrating an application that is running non-interruptible workloads for a three-year time frame. Which pricing construct would provide the MOST cost-effective solution?",
+      "options": [
+        "Amazon EC2 Spot Instances",
+        "Amazon EC2 Dedicated Instances",
+        "Amazon EC2 On-Demand Instances",
+        "Amazon EC2 Reserved Instances"
+      ],
+      "answer": 3,
+      "answerLetter": "D",
+      "explanation": "Reserved Instances memberi diskon besar untuk komitmen 1 atau 3 tahun, paling hemat untuk workload yang tidak boleh terinterupsi. Spot dapat diinterupsi, sedangkan On-Demand dan Dedicated Instances lebih mahal.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF99",
+      "number": 99,
+      "question": "The financial benefits of using AWS are: (Choose two.)",
+      "options": [
+        "reduced Total Cost of Ownership (TCO).",
+        "increased capital expenditure (capex).",
+        "reduced operational expenditure (opex).",
+        "deferred payment plans for startups.",
+        "business credit lines for stratups."
+      ],
+      "answer": [
+        0,
+        2
+      ],
+      "answerLetter": "A,C",
+      "explanation": "TCO yang lebih rendah dan opex yang berkurang adalah manfaat finansial AWS karena tidak perlu membeli dan mengelola infrastruktur sendiri. Capex justru dikurangi, bukan ditingkatkan. Paket pembayaran tertunda dan kredit bisnis bukan manfaat finansial standar AWS.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF100",
+      "number": 100,
+      "question": "Which AWS Cost Management tool allows you to view the most granular data about your AWS bill?",
+      "options": [
+        "AWS Cost Explorer",
+        "AWS Budgets",
+        "AWS Cost and Usage report",
+        "AWS Billing dashboard"
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "AWS Cost and Usage Report menyediakan data paling rinci (per jam/per resource) tentang tagihan AWS. Cost Explorer hanya untuk visualisasi dan analisis tingkat tinggi, AWS Budgets untuk anggaran dan peringatan, dan Billing dashboard hanya ringkasan.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF101",
+      "number": 101,
+      "question": "Which of the following can an AWS customer use to launch a new Amazon Relational Database Service (Amazon RDS) cluster?   (Choose two)",
+      "options": [
+        "AWS Concierge",
+        "AWS CloudFormation",
+        "Amazon Simple Storage Service (Amazon S3)",
+        "Amazon EC2 Auto Scaling",
+        "AWS Management Console"
+      ],
+      "answer": [
+        1,
+        4
+      ],
+      "answerLetter": "B,E",
+      "explanation": "RDS cluster dapat dibuat lewat AWS CloudFormation (infrastructure as code) dan AWS Management Console. AWS Concierge bukan layanan peluncuran database, S3 adalah penyimpanan objek, dan EC2 Auto Scaling mengatur jumlah instance EC2, bukan RDS.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF102",
+      "number": 102,
+      "question": "Which of the following is an AWS Cloud architecture design principle?",
+      "options": [
+        "Implement single points of failure.",
+        "Implement loose coupling.",
+        "Implement monolithic design.",
+        "Implement vertical scaling."
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "Loose coupling membuat komponen independen sehingga kegagalan satu bagian tidak menjatuhkan seluruh sistem. Single point of failure, desain monolitik, dan vertical scaling bertentangan dengan prinsip arsitektur cloud yang tangguh dan skalabel.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF103",
+      "number": 103,
+      "question": "Which of the following security measures protect access to an AWS account? (Choose two.)",
+      "options": [
+        "Enable AWS CloudTrail.",
+        "Grant least privilege access to IAM users.",
+        "Create one IAM user and share with many developers and users.",
+        "Enable Amazon CloudFront.",
+        "Activate multi-factor authentication (MFA) for privileged users."
+      ],
+      "answer": [
+        1,
+        4
+      ],
+      "answerLetter": "B,E",
+      "explanation": "Prinsip least privilege dan MFA untuk pengguna istimewa melindungi akses ke akun AWS. CloudTrail hanya mencatat aktivitas (audit), berbagi satu IAM user adalah praktik buruk, dan CloudFront adalah layanan CDN, bukan kontrol akses akun.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF104",
+      "number": 104,
+      "question": "Which service provides a hybrid storage service that enables on-premises applications to seamlessly use cloud storage?",
+      "options": [
+        "Amazon Glacier",
+        "AWS Snowball",
+        "AWS Storage Gateway",
+        "Amazon Elastic Block Storage (Amazon EBS)"
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "AWS Storage Gateway menghubungkan aplikasi on-premises dengan penyimpanan cloud secara hibrida. Glacier untuk arsip, Snowball untuk transfer data fisik skala besar, dan EBS adalah block storage untuk EC2.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF105",
+      "number": 105,
+      "question": "Which of the following services falls under the responsibility of the customer to maintain operating system configuration, security patching, and networking?",
+      "options": [
+        "Amazon RDS",
+        "Amazon EC2",
+        "Amazon ElastiCache",
+        "AWS Fargate"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "Pada Amazon EC2 pelanggan bertanggung jawab atas konfigurasi OS, patching keamanan, dan jaringan. RDS, ElastiCache, dan Fargate adalah layanan terkelola sehingga AWS mengurus OS dan patching.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF106",
+      "number": 106,
+      "question": "Which of the following is an important architectural design principle when designing cloud applications?",
+      "options": [
+        "Use multiple Availability Zones.",
+        "Use tightly coupled components.",
+        "Use open source software.",
+        "Provision extra capacity."
+      ],
+      "answer": 0,
+      "answerLetter": "A",
+      "explanation": "Menggunakan beberapa Availability Zones meningkatkan ketersediaan dan ketahanan aplikasi. Komponen yang tightly coupled mengurangi ketahanan, open source bukan prinsip arsitektur, dan menyediakan kapasitas ekstra tidak efisien dibanding elastisitas.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF107",
+      "number": 107,
+      "question": "Which AWS support plan includes a dedicated Technical Account Manager?",
+      "options": [
+        "Developer",
+        "Enterprise",
+        "Business",
+        "Basic"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "Technical Account Manager (TAM) khusus hanya tersedia pada paket Enterprise. Basic, Developer, dan Business tidak menyertakan TAM khusus.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF108",
+      "number": 108,
+      "question": "Amazon Relational Database Service (Amazon RDS) offers which of the following benefits over traditional database management?",
+      "options": [
+        "AWS manages the data stored in Amazon RDS tables.",
+        "AWS manages the maintenance of the operating system.",
+        "AWS automatically scales up instance types on demand.",
+        "AWS manages the database type."
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "Dengan RDS, AWS mengelola pemeliharaan sistem operasi (patching dan sebagainya). Data tetap tanggung jawab pelanggan, RDS tidak otomatis menaikkan tipe instance, dan pelanggan sendiri yang memilih tipe database engine.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF109",
+      "number": 109,
+      "question": "Which service is best for storing common database query results, which helps to alleviate database access load?",
+      "options": [
+        "Amazon Machine Learning",
+        "Amazon SQS",
+        "Amazon ElastiCache",
+        "Amazon EC2 Instance Store"
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "Amazon ElastiCache menyimpan hasil query yang sering diakses di memori sehingga beban database berkurang. Amazon Machine Learning untuk ML, SQS untuk antrean pesan, dan Instance Store adalah penyimpanan sementara pada EC2.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF110",
+      "number": 110,
+      "question": "Which of the following is a component of the shared responsibility model managed entirely by AWS?",
+      "options": [
+        "Patching operating system software",
+        "Encrypting data",
+        "Enforcing multi-factor authentication",
+        "Auditing physical data center assets"
+      ],
+      "answer": 3,
+      "answerLetter": "D",
+      "explanation": "Audit aset fisik data center sepenuhnya tanggung jawab AWS (security of the cloud). Patching OS, enkripsi data, dan penegakan MFA merupakan tanggung jawab pelanggan.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF111",
+      "number": 111,
+      "question": "Which options does AWS make available for customers who want to learn about security in the cloud in an instructor-led setting? (Choose two.)",
+      "options": [
+        "AWS Trusted Advisor",
+        "AWS Online Tech Talks",
+        "AWS Blog",
+        "AWS Forums",
+        "AWS Classroom Training"
+      ],
+      "answer": [
+        1,
+        4
+      ],
+      "answerLetter": "B,E",
+      "explanation": "AWS Online Tech Talks dan AWS Classroom Training menawarkan pembelajaran yang dipandu instruktur. Trusted Advisor adalah alat rekomendasi, sedangkan Blog dan Forums hanya sumber bacaan/diskusi, bukan pelatihan instruktur.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF112",
+      "number": 112,
+      "question": "Which of the following features can be configured through the Amazon Virtual Private Cloud (Amazon VPC) Dashboard? (Choose two.)",
+      "options": [
+        "Amazon CloudFront distributions",
+        "Amazon Route 53",
+        "Security Groups",
+        "Subnets",
+        "Elastic Load Balancing"
+      ],
+      "answer": [
+        2,
+        3
+      ],
+      "answerLetter": "C,D",
+      "explanation": "Security Groups dan Subnets dikonfigurasi lewat Amazon VPC Dashboard. CloudFront, Route 53, dan Elastic Load Balancing memiliki konsol/dashboard sendiri di luar VPC.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF113",
+      "number": 113,
+      "question": "If each department within a company has its own AWS account, what is one way to enable consolidated billing?",
+      "options": [
+        "Use AWS Budgets on each account to pay only to budget.",
+        "Contact AWS Support for a monthly bill.",
+        "Create an AWS Organization from the payer account and invite the other accounts to join.",
+        "Put all invoices into one Amazon Simple Storage Service (Amazon S3) bucket, load data into Amazon Redshift, and then run a billing report."
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "Consolidated billing dilakukan dengan membuat AWS Organizations dari akun pembayar lalu mengundang akun lain. Budgets hanya memantau anggaran, AWS Support tidak menerbitkan tagihan gabungan, dan solusi S3+Redshift tidak praktis.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF114",
+      "number": 114,
+      "question": "How do customers benefit from Amazon's massive economies of scale?",
+      "options": [
+        "Periodic price reductions as the result of Amazon's operational efficiencies",
+        "New Amazon EC2 instance types providing the latest hardware",
+        "The ability to scale up and down when needed",
+        "Increased reliability in the underlying hardware of Amazon EC2 instances"
+      ],
+      "answer": 0,
+      "answerLetter": "A",
+      "explanation": "Skala ekonomi besar Amazon menghasilkan penurunan harga berkala bagi pelanggan. Instance baru, elastisitas, dan keandalan hardware adalah manfaat lain, bukan hasil langsung dari economies of scale.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF115",
+      "number": 115,
+      "question": "Which AWS services can be used to gather information about AWS account activity? (Choose two.)",
+      "options": [
+        "Amazon CloudFront",
+        "AWS Cloud9",
+        "AWS CloudTrail",
+        "AWS CloudHSM",
+        "Amazon CloudWatch"
+      ],
+      "answer": [
+        2,
+        4
+      ],
+      "answerLetter": "C,E",
+      "explanation": "AWS CloudTrail mencatat panggilan API/aktivitas akun, dan Amazon CloudWatch memantau log dan metrik. CloudFront adalah CDN, Cloud9 adalah IDE, dan CloudHSM adalah modul keamanan perangkat keras untuk kunci kriptografi.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF116",
+      "number": 116,
+      "question": "Which of the following common IT tasks can AWS cover to free up company IT resources? (Choose two.)",
+      "options": [
+        "Patching databases software",
+        "Testing application releases",
+        "Backing up databases",
+        "Creating database schema",
+        "Running penetration tests"
+      ],
+      "answer": [
+        0,
+        2
+      ],
+      "answerLetter": "A,C",
+      "explanation": "AWS dapat menangani patching software database (misalnya di RDS) dan backup database. Pengujian rilis aplikasi, pembuatan skema database, dan penetration test tetap pekerjaan pelanggan.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF117",
+      "number": 117,
+      "question": "In which scenario should Amazon EC2 Spot Instances be used?",
+      "options": [
+        "A company wants to move its main website to AWS from an on-premises web server.",
+        "A company has a number of application services whose Service Level Agreement (SLA) requires 99.999% uptime.",
+        "A company's heavily used legacy database is currently running on-premises.",
+        "A company has a number of infrequent, interruptible jobs that are currently using On-Demand Instances."
+      ],
+      "answer": 3,
+      "answerLetter": "D",
+      "explanation": "Spot Instances cocok untuk pekerjaan yang jarang dan dapat diinterupsi karena murah namun bisa dihentikan sewaktu-waktu. Website utama, SLA 99,999%, dan database legacy butuh ketersediaan stabil sehingga tidak cocok.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF118",
+      "number": 118,
+      "question": "Which AWS feature should a customer leverage to achieve high availability of an application?",
+      "options": [
+        "AWS Direct Connect",
+        "Availability Zones",
+        "Data centers",
+        "Amazon Virtual Private Cloud (Amazon VPC)"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "Availability Zones memungkinkan aplikasi tetap berjalan jika satu lokasi gagal sehingga mencapai high availability. Direct Connect adalah koneksi jaringan, data center bukan fitur yang dipilih langsung, dan VPC adalah jaringan virtual.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF119",
+      "number": 119,
+      "question": "Which is the minimum AWS Support plan that includes Infrastructure Event Management without additional costs?",
+      "options": [
+        "Enterprise",
+        "Business",
+        "Developer",
+        "Basic"
+      ],
+      "answer": 0,
+      "answerLetter": "A",
+      "explanation": "Infrastructure Event Management tanpa biaya tambahan hanya tersedia pada paket Enterprise. Pada Business, fitur ini berbayar tambahan; Developer dan Basic tidak menyediakannya.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF120",
+      "number": 120,
+      "question": "Which AWS service can serve a static website?",
+      "options": [
+        "Amazon S3",
+        "Amazon Route 53",
+        "Amazon QuickSight",
+        "AWS X-Ray"
+      ],
+      "answer": 0,
+      "answerLetter": "A",
+      "explanation": "Amazon S3 dapat meng-host website statis. Route 53 adalah DNS, QuickSight adalah BI, dan X-Ray untuk tracing aplikasi.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF121",
+      "number": 121,
+      "question": "How does AWS shorten the time to provision IT resources?",
+      "options": [
+        "It supplies an online IT ticketing platform for resource requests.",
+        "It supports automatic code validation services.",
+        "It provides the ability to programmatically provision existing resources.",
+        "It automates the resource request process from a company's IT vendor list."
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "AWS memungkinkan provisioning resource secara programatik melalui API, CLI, atau template sehingga cepat. Tiket IT, validasi kode otomatis, dan daftar vendor IT bukan cara AWS mempercepat provisioning.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF122",
+      "number": 122,
+      "question": "What can AWS edge locations be used for? (Choose two.)",
+      "options": [
+        "Hosting applications",
+        "Delivering content closer to users",
+        "Running NoSQL database caching services",
+        "Reducing traffic on the server by caching responses",
+        "Sending notification messages to end users"
+      ],
+      "answer": [
+        1,
+        3
+      ],
+      "answerLetter": "B,D",
+      "explanation": "Edge locations dipakai CloudFront untuk mengirim konten lebih dekat ke pengguna dan men-cache respons sehingga mengurangi beban server. Hosting aplikasi, caching NoSQL, dan notifikasi (SNS) bukan fungsi edge location.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF123",
+      "number": 123,
+      "question": "Which of the following can limit Amazon Simple Storage Service (Amazon S3) bucket access to specific users?",
+      "options": [
+        "A public and private key-pair",
+        "Amazon Inspector",
+        "AWS Identity and Access Management (IAM) policies",
+        "Security Groups"
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "IAM policies dapat membatasi akses bucket S3 untuk pengguna tertentu. Key pair untuk SSH ke EC2, Inspector untuk penilaian kerentanan, dan Security Groups hanya untuk instance, bukan S3.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF124",
+      "number": 124,
+      "question": "A solution that is able to support growth in users, traffic, or data size with no drop in performance aligns with which cloud architecture principle?",
+      "options": [
+        "Think parallel",
+        "Implement elasticity",
+        "Decouple your components",
+        "Design for failure"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "Elasticity berarti sistem dapat tumbuh atau menyusut mengikuti beban tanpa penurunan performa. Think parallel, decouple, dan design for failure adalah prinsip lain dengan tujuan berbeda.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF125",
+      "number": 125,
+      "question": "A company will be moving from an on-premises data center to the AWS Cloud. What would be one financial difference after the move?",
+      "options": [
+        "Moving from variable operational expense (opex) to upfront capital expense (capex).",
+        "Moving from upfront capital expense (capex) to variable capital expense (capex).",
+        "Moving from upfront capital expense (capex) to variable operational expense (opex).",
+        "Elimination of upfront capital expense (capex) and elimination of variable operational expense (opex)."
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "Pindah ke cloud mengubah pengeluaran modal di muka (capex) menjadi biaya operasional variabel (opex) sesuai pemakaian. Opsi lain membalik arah, atau salah menyebut capex variabel/penghapusan semua biaya.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF126",
+      "number": 126,
+      "question": "How should a customer forecast the future costs for running a new web application?",
+      "options": [
+        "Amazon Aurora Backtrack",
+        "Amazon CloudWatch Billing Alarms",
+        "AWS Simple Monthly Calculator",
+        "AWS Cost and Usage report"
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "AWS Simple Monthly Calculator (kini AWS Pricing Calculator) digunakan untuk memperkirakan biaya di masa depan. Aurora Backtrack adalah fitur pemulihan data, CloudWatch Billing Alarms memberi peringatan biaya aktual, dan Cost and Usage Report melaporkan biaya yang sudah terjadi.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF127",
+      "number": 127,
+      "question": "Which is the MINIMUM AWS Support plan that provides technical support through phone calls?",
+      "options": [
+        "Enterprise",
+        "Business",
+        "Developer",
+        "Basic"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "Dukungan telepon tersedia mulai paket Business. Basic tidak punya dukungan teknis dan Developer hanya via email; Enterprise juga memiliki telepon tetapi bukan yang minimum.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF128",
+      "number": 128,
+      "question": "Which of the following tasks is the responsibility of AWS?",
+      "options": [
+        "Encrypting client-side data",
+        "Configuring AWS Identity and Access Management (IAM) roles",
+        "Securing the Amazon EC2 hypervisor",
+        "Setting user password policies"
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "Mengamankan hypervisor Amazon EC2 adalah tanggung jawab AWS (security of the cloud). Enkripsi sisi klien, IAM roles, dan kebijakan password pengguna adalah tanggung jawab pelanggan.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF129",
+      "number": 129,
+      "question": "One benefit of On-Demand Amazon Elastic Compute Cloud (Amazon EC2) pricing is:",
+      "options": [
+        "the ability to bid for a lower hourly cost.",
+        "paying a daily rate regardless of time used.",
+        "paying only for time used.",
+        "pre-paying for instances and paying a lower hourly rate."
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "On-Demand EC2 membuat pelanggan membayar hanya untuk waktu yang digunakan tanpa komitmen. Bidding adalah Spot, tarif harian tetap tidak ada, dan prabayar dengan tarif lebih rendah adalah Reserved Instances.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF130",
+      "number": 130,
+      "question": "An administrator needs to rapidly deploy a popular IT solution and start using it immediately. Where can the administrator find assistance?",
+      "options": [
+        "AWS Well-Architected Framework documentation",
+        "Amazon CloudFront",
+        "AWS CodeCommit",
+        "AWS Quick Start reference deployments"
+      ],
+      "answer": 3,
+      "answerLetter": "D",
+      "explanation": "AWS Quick Start reference deployments menyediakan deployment otomatis solusi populer yang siap pakai. Well-Architected adalah panduan praktik terbaik, CloudFront adalah CDN, dan CodeCommit adalah repositori kode.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF131",
+      "number": 131,
+      "question": "Which of the following services is in the category of AWS serverless platform?",
+      "options": [
+        "Amazon EMR",
+        "Elastic Load Balancing",
+        "AWS Lambda",
+        "AWS Mobile Hub"
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "AWS Lambda adalah komputasi serverless tanpa pengelolaan server. EMR dan Elastic Load Balancing berjalan di atas server/instance yang dikelola, dan Mobile Hub bukan layanan serverless inti.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF132",
+      "number": 132,
+      "question": "Which services are parts of the AWS serverless platform?",
+      "options": [
+        "Amazon EC2, Amazon S3, Amazon Athena",
+        "Amazon Kinesis, Amazon SQS, Amazon EMR",
+        "AWS Step Functions, Amazon DynamoDB, Amazon SNS",
+        "Amazon Athena, Amazon Cognito, Amazon EC2"
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "AWS Step Functions, Amazon DynamoDB, dan Amazon SNS semuanya layanan serverless. Opsi lain memasukkan Amazon EC2 atau EMR yang memerlukan pengelolaan server/cluster.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF133",
+      "number": 133,
+      "question": "According to the AWS shared responsibility model, what is the sole responsibility of AWS?",
+      "options": [
+        "Application security",
+        "Edge location management",
+        "Patch management",
+        "Client-side data"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "Pengelolaan edge location adalah tanggung jawab penuh AWS sebagai bagian infrastruktur global. Keamanan aplikasi, patch management, dan data sisi klien merupakan tanggung jawab pelanggan (patch dibagi sesuai layanan).",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF134",
+      "number": 134,
+      "question": "Which AWS IAM feature is used to associate a set of permissions with multiple users?",
+      "options": [
+        "Multi-factor authentication",
+        "Groups",
+        "Password policies",
+        "Access keys"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "IAM Groups mengaitkan satu set permission ke banyak pengguna sekaligus. MFA, password policies, dan access keys berkaitan dengan autentikasi, bukan pengelompokan permission.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF135",
+      "number": 135,
+      "question": "Which of the following are benefits of the AWS Cloud? (Choose two.)",
+      "options": [
+        "Unlimited uptime",
+        "Elasticity",
+        "Agility",
+        "Colocation",
+        "Capital expenses"
+      ],
+      "answer": [
+        1,
+        2
+      ],
+      "answerLetter": "B,C",
+      "explanation": "Elasticity dan agility adalah manfaat AWS Cloud. Uptime tidak pernah tak terbatas, colocation bukan manfaat cloud, dan capital expenses justru dikurangi oleh cloud.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF136",
+      "number": 136,
+      "question": "Which of the following can a customer use to enable single sign-on (SSO) to the AWS Console?",
+      "options": [
+        "Amazon Connect",
+        "AWS Directory Service",
+        "Amazon Pinpoint",
+        "Amazon Rekognition"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "AWS Directory Service dapat diintegrasikan dengan direktori perusahaan untuk SSO ke AWS Console. Amazon Connect (contact center), Pinpoint (pemasaran), dan Rekognition (analisis gambar) tidak terkait SSO.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF137",
+      "number": 137,
+      "question": "What are the multiple, isolated locations within an AWS Region that are connected by low-latency networks called?",
+      "options": [
+        "AWS Direct Connects",
+        "Amazon VPCs",
+        "Edge locations",
+        "Availability Zones"
+      ],
+      "answer": 3,
+      "answerLetter": "D",
+      "explanation": "Availability Zones adalah lokasi terisolasi di dalam sebuah Region yang terhubung dengan jaringan latensi rendah. Direct Connect adalah koneksi khusus, VPC jaringan virtual, dan edge location untuk content delivery.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF138",
+      "number": 138,
+      "question": "Which of the following benefits does the AWS Compliance program provide to AWS customers? (Choose two.)",
+      "options": [
+        "It verifies that hosted workloads are automatically compliant with the controls of supported compliance frameworks.",
+        "AWS is responsible for the maintenance of common compliance framework documentation.",
+        "It assures customers that AWS is maintaining physical security and data protection.",
+        "It ensures the use of compliance frameworks that are being used by other cloud providers.",
+        "It will adopt new compliance frameworks as they become relevant to customer workloads."
+      ],
+      "answer": [
+        1,
+        2
+      ],
+      "answerLetter": "B,C",
+      "explanation": "AWS memelihara dokumentasi framework kepatuhan dan menjamin keamanan fisik serta perlindungan data. Program ini tidak otomatis membuat workload pelanggan patuh, tidak mengikuti framework penyedia lain, dan tidak menjanjikan adopsi semua framework baru.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF139",
+      "number": 139,
+      "question": "Which of the following services provides on-demand access to AWS compliance reports?",
+      "options": [
+        "AWS IAM",
+        "AWS Artifact",
+        "Amazon GuardDuty",
+        "AWS KMS"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "AWS Artifact menyediakan akses sesuai permintaan ke laporan kepatuhan AWS. IAM untuk akses, GuardDuty untuk deteksi ancaman, dan KMS untuk manajemen kunci enkripsi.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF140",
+      "number": 140,
+      "question": "As part of the AWS shared responsibility model, which of the following operational controls do users fully inherit from AWS?",
+      "options": [
+        "Security management of data center",
+        "Patch management",
+        "Configuration management",
+        "User and access management"
+      ],
+      "answer": 0,
+      "answerLetter": "A",
+      "explanation": "Keamanan data center (fisik) sepenuhnya diwarisi pelanggan dari AWS. Patch management, configuration management, dan user/access management tetap melibatkan tanggung jawab pelanggan.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF141",
+      "number": 141,
+      "question": "When comparing AWS Cloud with on-premises Total Cost of Ownership, which expenses must be considered? (Choose two.)",
+      "options": [
+        "Software development",
+        "Project management",
+        "Storage hardware",
+        "Physical servers",
+        "Antivirus software license"
+      ],
+      "answer": [
+        2,
+        3
+      ],
+      "answerLetter": "C,D",
+      "explanation": "Perangkat keras storage dan server fisik adalah biaya infrastruktur on-premises yang harus dihitung dalam TCO. Pengembangan software, manajemen proyek, dan lisensi antivirus tidak spesifik membedakan cloud vs on-premises.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF142",
+      "number": 142,
+      "question": "Under the shared responsibility model, which of the following tasks are the responsibility of the customer? (Choose two.)",
+      "options": [
+        "Maintaining the underlying Amazon EC2 hardware.",
+        "Managing the VPC network access control lists.",
+        "Encrypting data in transit and at rest.",
+        "Replacing failed hard disk drives.",
+        "Deploying hardware in different Availability Zones."
+      ],
+      "answer": [
+        1,
+        2
+      ],
+      "answerLetter": "B,C",
+      "explanation": "Pelanggan mengelola network ACL pada VPC dan mengenkripsi data in transit maupun at rest. Pemeliharaan hardware EC2, penggantian disk, dan infrastruktur Availability Zones adalah tanggung jawab AWS.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF143",
+      "number": 143,
+      "question": "Which scenarios represent the concept of elasticity on AWS? (Choose two.)",
+      "options": [
+        "Scaling the number of Amazon EC2 instances based on traffic.",
+        "Resizing Amazon RDS instances as business needs change.",
+        "Automatically directing traffic to less-utilized Amazon EC2 instances.",
+        "Using AWS compliance documents to accelerate the compliance process.",
+        "Having the ability to create and govern environments using code."
+      ],
+      "answer": [
+        0,
+        1
+      ],
+      "answerLetter": "A,B",
+      "explanation": "Elasticity berarti menyesuaikan kapasitas mengikuti kebutuhan, seperti scaling EC2 berdasarkan traffic dan mengubah ukuran RDS. Mengarahkan traffic adalah load balancing, dokumen compliance bukan elastisitas, dan environment as code adalah infrastructure as code.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF144",
+      "number": 144,
+      "question": "When is it beneficial for a company to use a Spot Instance?",
+      "options": [
+        "When there is flexibility in when an application needs to run.",
+        "When there are mission-critical workloads.",
+        "When dedicated capacity is needed.",
+        "When an instance should not be stopped."
+      ],
+      "answer": 0,
+      "answerLetter": "A",
+      "explanation": "Spot Instance menguntungkan bila waktu eksekusi fleksibel karena dapat diinterupsi. Workload kritis, kapasitas khusus, dan instance yang tak boleh berhenti lebih cocok On-Demand, Reserved, atau Dedicated.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF145",
+      "number": 145,
+      "question": "A company is considering moving its on-premises data center to AWS. What factors should be included in doing a Total Cost of Ownership (TCO) analysis? (Choose two.)",
+      "options": [
+        "Amazon EC2 instance availability",
+        "Power consumption of the data center",
+        "Labor costs to replace old servers",
+        "Application developer time",
+        "Database engine capacity"
+      ],
+      "answer": [
+        1,
+        2
+      ],
+      "answerLetter": "B,C",
+      "explanation": "Konsumsi listrik data center dan biaya tenaga kerja mengganti server lama adalah komponen TCO on-premises. Ketersediaan instance EC2, waktu developer, dan kapasitas database engine bukan faktor TCO yang relevan.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF146",
+      "number": 146,
+      "question": "How does AWS charge for AWS Lambda?",
+      "options": [
+        "Users bid on the maximum price they are willing to pay per hour.",
+        "Users choose a 1-, 3- or 5-year upfront payment term.",
+        "Users pay for the required permanent storage on a file system or in a database.",
+        "Users pay based on the number of requests and consumed compute resources."
+      ],
+      "answer": 3,
+      "answerLetter": "D",
+      "explanation": "AWS Lambda ditagih berdasarkan jumlah request dan sumber daya komputasi (durasi dan memori) yang dipakai. Bidding adalah Spot, komitmen 1/3/5 tahun untuk Reserved, dan storage permanen bukan dasar tagihan Lambda.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF147",
+      "number": 147,
+      "question": "What function do security groups serve related to Amazon Elastic Compute Cloud (Amazon EC2) instance security?",
+      "options": [
+        "Act as a virtual firewall for the Amazon EC2 instance.",
+        "Secure AWS user accounts with AWS Identity and Access Management (IAM) policies.",
+        "Provide DDoS protection with AWS Shield.",
+        "Use Amazon CloudFront to protect the Amazon EC2 instance."
+      ],
+      "answer": 0,
+      "answerLetter": "A",
+      "explanation": "Security group bertindak sebagai firewall virtual untuk instance EC2 yang mengontrol traffic masuk dan keluar. IAM policies, AWS Shield, dan CloudFront adalah layanan terpisah dengan fungsi berbeda.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF148",
+      "number": 148,
+      "question": "Which disaster recovery scenario offers the lowest probability of down time?",
+      "options": [
+        "Backup and restore",
+        "Pilot light",
+        "Warm standby",
+        "Multi-site active-active"
+      ],
+      "answer": 3,
+      "answerLetter": "D",
+      "explanation": "Multi-site active-active menjalankan beban kerja penuh di beberapa lokasi secara bersamaan, sehingga downtime hampir nol. Backup and restore, pilot light, dan warm standby memerlukan waktu pemulihan atau scale-up sehingga downtime-nya lebih lama.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF149",
+      "number": 149,
+      "question": "What will help a company perform a cost benefit analysis of migrating to the AWS Cloud?",
+      "options": [
+        "Cost Explorer",
+        "AWS Total Cost of Ownership (TCO) Calculator",
+        "AWS Simple Monthly Calculator",
+        "AWS Trusted Advisor"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "AWS Total Cost of Ownership (TCO) Calculator dipakai untuk membandingkan biaya on-premises dengan AWS dan menganalisis manfaat biaya migrasi. Cost Explorer menganalisis biaya yang sudah ada di AWS, Simple Monthly Calculator hanya memperkirakan biaya layanan AWS, dan Trusted Advisor memberi rekomendasi best practice.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF150",
+      "number": 150,
+      "question": "Which of the following provides the ability to share the cost benefits of Reserved Instances across AWS accounts?",
+      "options": [
+        "AWS Cost Explorer between AWS accounts",
+        "Linked accounts and consolidated billing",
+        "Amazon Elastic Compute Cloud (Amazon EC2) Reserved Instance Utilization Report",
+        "Amazon EC2 Instance Usage Report between AWS accounts"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "Linked accounts dengan consolidated billing (AWS Organizations) memungkinkan manfaat harga Reserved Instances dibagi antar akun. Cost Explorer dan laporan EC2 hanya menampilkan data penggunaan, bukan membagikan manfaat harga.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF151",
+      "number": 151,
+      "question": "A company has multiple AWS accounts and wants to simplify and consolidate its billing process. Which AWS service will achieve this?",
+      "options": [
+        "AWS Cost and Usage Reports",
+        "AWS Organizations",
+        "AWS Cost Explorer",
+        "AWS Budgets"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "AWS Organizations menyediakan consolidated billing untuk banyak akun dalam satu tagihan. Cost and Usage Reports, Cost Explorer, dan Budgets hanya untuk pelaporan, analisis, dan peringatan biaya, bukan untuk mengonsolidasikan tagihan.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF152",
+      "number": 152,
+      "question": "A company is designing an application hosted in a single AWS Region serving end-users spread across the world. The company wants to provide the end-users low latency access to the application data. Which of the following services will help fulfill this requirement?",
+      "options": [
+        "Amazon CloudFront",
+        "AWS Direct Connect",
+        "Amazon Route 53 global DNS",
+        "Amazon Simple Storage Service (Amazon S3) transfer acceleration"
+      ],
+      "answer": 0,
+      "answerLetter": "A",
+      "explanation": "Amazon CloudFront meng-cache konten di edge locations di seluruh dunia sehingga latensi pengguna global rendah. Direct Connect adalah koneksi privat on-premises, Route 53 hanya DNS, dan S3 Transfer Acceleration khusus mempercepat upload ke S3.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF153",
+      "number": 153,
+      "question": "Which of the following deployment models enables customers to fully trade their capital IT expenses for operational expenses?",
+      "options": [
+        "On-premises",
+        "Hybrid",
+        "Cloud",
+        "Platform as a service"
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "Cloud mengubah belanja modal (CapEx) menjadi belanja operasional (OpEx) karena bayar sesuai pemakaian tanpa membeli hardware. On-premises sepenuhnya CapEx, hybrid masih sebagian on-premises, dan PaaS adalah model layanan, bukan model deployment.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF154",
+      "number": 154,
+      "question": "How is asset management on AWS easier than asset management in a physical data center?",
+      "options": [
+        "AWS provides a Configuration Management Database that users can maintain.",
+        "AWS performs infrastructure discovery scans on the customer's behalf.",
+        "Amazon EC2 automatically generates an asset report and places it in the customer's specified Amazon S3 bucket.",
+        "Users can gather asset metadata reliably with a few API calls."
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "Di AWS, infrastruktur dapat ditemukan dan diinventarisasi lewat layanan AWS atas nama pelanggan, tanpa pemindaian fisik manual seperti di data center. Opsi lain tidak menggambarkan fitur nyata AWS, seperti CMDB yang disediakan atau laporan aset EC2 otomatis ke S3.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF155",
+      "number": 155,
+      "question": "What feature of Amazon RDS helps to create globally redundant databases?",
+      "options": [
+        "Snapshots",
+        "Automatic patching and updating",
+        "Cross-Region read replicas",
+        "Provisioned IOPS"
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "Cross-Region read replicas pada Amazon RDS mereplikasi data ke Region lain sehingga database redundan secara global. Snapshots adalah backup, automatic patching untuk pemeliharaan, dan Provisioned IOPS untuk performa I/O.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF156",
+      "number": 156,
+      "question": "Using AWS Identity and Access Management (IAM) to grant access only to the resources needed to perform a task is a concept known as:",
+      "options": [
+        "restricted access.",
+        "as-needed access.",
+        "least privilege access.",
+        "token access."
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "Memberi akses hanya ke sumber daya yang dibutuhkan untuk suatu tugas disebut least privilege access, prinsip dasar IAM. Istilah restricted access, as-needed access, dan token access bukan istilah standar AWS untuk konsep ini.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF157",
+      "number": 157,
+      "question": "Which methods can be used to identify AWS costs by departments? (Choose two.)",
+      "options": [
+        "Enable multi-factor authentication for the AWS account root user.",
+        "Create separate accounts for each department.",
+        "Use Reserved Instances whenever possible.",
+        "Use tags to associate each instance with a particular department.",
+        "Pay bills using purchase orders."
+      ],
+      "answer": [
+        1,
+        3
+      ],
+      "answerLetter": "B,D",
+      "explanation": "Akun terpisah per departemen dan tag yang dikaitkan ke resource memungkinkan biaya dilacak per departemen. MFA untuk root adalah soal keamanan, Reserved Instances soal diskon, dan purchase order soal metode pembayaran; semuanya tidak mengidentifikasi biaya per departemen.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF158",
+      "number": 158,
+      "question": "Under the AWS shared responsibility model, customer responsibilities include which one of the following?",
+      "options": [
+        "Securing the hardware, software, facilities, and networks that run all products and services.",
+        "Providing certificates, reports, and other documentation directly to AWS customers under NDA.",
+        "Configuring the operating system, network, and firewall.",
+        "Obtaining industry certifications and independent third-party attestations."
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "Pelanggan bertanggung jawab atas keamanan di dalam cloud, termasuk konfigurasi sistem operasi, jaringan, dan firewall. Mengamankan hardware dan fasilitas, menyediakan dokumen kepatuhan, serta memperoleh sertifikasi industri adalah tanggung jawab AWS.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF159",
+      "number": 159,
+      "question": "Which managed AWS service provides real-time guidance on AWS security best practices?",
+      "options": [
+        "AWS X-Ray",
+        "AWS Trusted Advisor",
+        "Amazon CloudWatch",
+        "AWS Systems Manager"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "AWS Trusted Advisor memeriksa akun dan memberi panduan real-time tentang best practice, termasuk keamanan. AWS X-Ray untuk tracing aplikasi, Amazon CloudWatch untuk monitoring metrik dan log, dan AWS Systems Manager untuk manajemen operasional.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF160",
+      "number": 160,
+      "question": "Which feature adds elasticity to Amazon EC2 instances to handle the changing demand for workloads?",
+      "options": [
+        "Resource groups",
+        "Lifecycle policies",
+        "Application Load Balancer",
+        "Amazon EC2 Auto Scaling"
+      ],
+      "answer": 3,
+      "answerLetter": "D",
+      "explanation": "Amazon EC2 Auto Scaling menambah atau mengurangi jumlah instance secara otomatis sesuai permintaan, sehingga memberi elastisitas. Resource groups dan lifecycle policies tidak menskalakan instance, sedangkan Application Load Balancer hanya mendistribusikan traffic.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF161",
+      "number": 161,
+      "question": "Under the AWS shared responsibility model, customers are responsible for which aspects of security in the cloud? (Choose two.)",
+      "options": [
+        "Virtualization Management",
+        "Hardware management",
+        "Encryption management",
+        "Facilities management",
+        "Firewall management"
+      ],
+      "answer": [
+        2,
+        4
+      ],
+      "answerLetter": "C,E",
+      "explanation": "Dalam model tanggung jawab bersama, pelanggan mengelola enkripsi data dan konfigurasi firewall (misalnya security group). Virtualization, hardware, dan fasilitas adalah tanggung jawab AWS.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF162",
+      "number": 162,
+      "question": "Which AWS hybrid storage service enables your on-premises applications to seamlessly use AWS Cloud storage through standard file-storage protocols?",
+      "options": [
+        "AWS Direct Connect",
+        "AWS Snowball",
+        "AWS Storage Gateway",
+        "AWS Snowball Edge"
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "AWS Storage Gateway menghubungkan aplikasi on-premises ke penyimpanan AWS lewat protokol file standar seperti NFS atau SMB. AWS Direct Connect hanya koneksi jaringan, sedangkan AWS Snowball dan Snowball Edge adalah perangkat transfer data fisik.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF163",
+      "number": 163,
+      "question": "What is a responsibility of AWS in the shared responsibility model?",
+      "options": [
+        "Updating the network ACLs to block traffic to vulnerable ports.",
+        "Patching operating systems running on Amazon EC2 instances.",
+        "Updating the firmware on the underlying EC2 hosts.",
+        "Updating the security group rules to block traffic to the vulnerable ports."
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "AWS bertanggung jawab atas infrastruktur dasar, termasuk firmware pada host EC2 yang mendasarinya. Network ACL, patching OS di instance EC2, dan aturan security group adalah tanggung jawab pelanggan.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF164",
+      "number": 164,
+      "question": "Which architectural principle is used when deploying an Amazon Relational Database Service (Amazon RDS) instance in Multiple Availability Zone mode?",
+      "options": [
+        "Implement loose coupling.",
+        "Design for failure.",
+        "Automate everything that can be automated.",
+        "Use services, not servers."
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "Multi-AZ pada Amazon RDS menyiapkan standby di Availability Zone lain agar layanan tetap berjalan saat terjadi kegagalan, yaitu prinsip design for failure. Opsi lain (loose coupling, otomatisasi, services not servers) tidak menggambarkan tujuan Multi-AZ.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF165",
+      "number": 165,
+      "question": "What does it mean to grant least privilege to AWS IAM users?",
+      "options": [
+        "It is granting permissions to a single user only.",
+        "It is granting permissions using AWS IAM policies only.",
+        "It is granting AdministratorAccess policy permissions to trustworthy users.",
+        "It is granting only the permissions required to perform a given task."
+      ],
+      "answer": 3,
+      "answerLetter": "D",
+      "explanation": "Least privilege berarti hanya memberi izin yang diperlukan untuk menyelesaikan tugas tertentu. Opsi lain keliru: tidak terbatas pada satu user atau IAM policy saja, dan AdministratorAccess justru memberi izin berlebihan.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF166",
+      "number": 166,
+      "question": "What is a benefit of loose coupling as a principle of cloud architecture design?",
+      "options": [
+        "It facilitates low-latency request handling.",
+        "It allows applications to have dependent workflows.",
+        "It prevents cascading failures between different components.",
+        "It allows companies to focus on their physical data center operations."
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "Loose coupling membuat komponen saling independen sehingga kegagalan satu komponen tidak menyebar ke komponen lain (cascading failure). Ia bukan tentang latensi, tidak menciptakan alur kerja yang saling bergantung, dan tidak terkait operasi data center fisik.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF167",
+      "number": 167,
+      "question": "A director has been tasked with investigating hybrid cloud architecture. The company currently accesses AWS over the public internet. Which service will facilitate private hybrid connectivity?",
+      "options": [
+        "Amazon Virtual Private Cloud (Amazon VPC) NAT Gateway",
+        "AWS Direct Connect",
+        "Amazon Simple Storage Service (Amazon S3) Transfer Acceleration",
+        "AWS Web Application Firewall (AWS WAF)"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "AWS Direct Connect menyediakan koneksi jaringan privat khusus antara on-premises dan AWS tanpa melalui internet publik. NAT Gateway, S3 Transfer Acceleration, dan AWS WAF tidak menyediakan konektivitas hybrid privat.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF168",
+      "number": 168,
+      "question": "A company's web application currently has tight dependencies on underlying components, so when one component fails the entire web application fails. Applying which AWS Cloud design principle will address the current design issue?",
+      "options": [
+        "Implementing elasticity, enabling the application to scale up or scale down as demand changes.",
+        "Enabling several EC2 instances to run in parallel to achieve better performance.",
+        "Focusing on decoupling components by isolating them and ensuring individual components can function when other components fail.",
+        "Doubling EC2 computing resources to increase system fault tolerance."
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "Decoupling komponen sehingga masing-masing tetap berfungsi saat komponen lain gagal mengatasi masalah ketergantungan erat. Elastisitas, menjalankan instance paralel, atau menggandakan resource EC2 tidak menghilangkan ketergantungan antar komponen.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF169",
+      "number": 169,
+      "question": "How can a customer increase security to AWS account logons? (Choose two.)",
+      "options": [
+        "Configure AWS Certificate Manager",
+        "Enable Multi-Factor Authentication (MFA)",
+        "Use Amazon Cognito to manage access",
+        "Configure a strong password policy",
+        "Enable AWS Organizations"
+      ],
+      "answer": [
+        1,
+        3
+      ],
+      "answerLetter": "B,D",
+      "explanation": "MFA dan kebijakan password yang kuat langsung meningkatkan keamanan logon akun AWS. AWS Certificate Manager mengelola sertifikat TLS, Amazon Cognito untuk pengguna aplikasi, dan AWS Organizations untuk manajemen multi-akun.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF170",
+      "number": 170,
+      "question": "What AWS service would be used to centrally manage AWS access across multiple accounts?",
+      "options": [
+        "AWS Service Catalog",
+        "AWS Config",
+        "AWS Trusted Advisor",
+        "AWS Organizations"
+      ],
+      "answer": 3,
+      "answerLetter": "D",
+      "explanation": "AWS Organizations mengelola akses dan kebijakan (service control policies) secara terpusat di banyak akun. AWS Service Catalog mengelola produk yang disetujui, AWS Config melacak konfigurasi, dan Trusted Advisor memberi rekomendasi.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF171",
+      "number": 171,
+      "question": "Which AWS service can a customer use to set up an alert notification when the account is approaching a particular dollar amount?",
+      "options": [
+        "AWS Cost and Usage reports",
+        "AWS Budgets",
+        "AWS Cost Explorer",
+        "AWS Trusted Advisor"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "AWS Budgets dapat membuat alert saat biaya aktual atau perkiraan mendekati jumlah dolar tertentu. Cost and Usage Reports dan Cost Explorer untuk analisis, sedangkan Trusted Advisor tidak menyediakan alert anggaran.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF172",
+      "number": 172,
+      "question": "What can users access from AWS Artifact?",
+      "options": [
+        "AWS security and compliance documents",
+        "A download of configuration management details for all AWS resources    103",
+        "Training materials for AWS services",
+        "A security assessment of the applications deployed in the AWS Cloud"
+      ],
+      "answer": 0,
+      "answerLetter": "A",
+      "explanation": "AWS Artifact adalah portal self-service untuk dokumen keamanan dan kepatuhan AWS (laporan audit, sertifikasi). Ia bukan untuk detail konfigurasi resource, materi pelatihan, atau penilaian keamanan aplikasi pelanggan.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF173",
+      "number": 173,
+      "question": "What is the MINIMUM AWS Support plan that provides designated Technical Account Managers?",
+      "options": [
+        "Enterprise",
+        "Business",
+        "Developer",
+        "Basic"
+      ],
+      "answer": 0,
+      "answerLetter": "A",
+      "explanation": "Technical Account Manager (TAM) yang ditunjuk tersedia mulai dari paket Enterprise Support. Basic, Developer, dan Business tidak menyediakan TAM khusus.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF174",
+      "number": 174,
+      "question": "Which of the following is an AWS Well-Architected Framework design principle related to reliability?",
+      "options": [
+        "Deployment to a single Availability Zone",
+        "Ability to recover from failure",
+        "Design for cost optimization",
+        "Perform operations as code"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "Kemampuan pulih dari kegagalan adalah prinsip desain pada pilar Reliability. Deployment ke satu AZ justru mengurangi keandalan, cost optimization adalah pilar lain, dan operations as code termasuk Operational Excellence.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF175",
+      "number": 175,
+      "question": "Which type of AWS storage is ephemeral and is deleted when an instance is stopped or terminated?",
+      "options": [
+        "Amazon EBS",
+        "Amazon EC2 instance store",
+        "Amazon EFS",
+        "Amazon S3"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "Amazon EC2 instance store bersifat sementara (ephemeral) dan datanya hilang saat instance di-stop atau di-terminate. Amazon EBS, Amazon EFS, dan Amazon S3 adalah penyimpanan persisten.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF176",
+      "number": 176,
+      "question": "What is an advantage of using the AWS Cloud over a traditional on-premises solution?",
+      "options": [
+        "Users do not have to guess about future capacity needs.",
+        "Users can utilize existing hardware contracts for purchases.",
+        "Users can fix costs no matter what their traffic is.",
+        "Users can avoid audits by using reports from AWS."
+      ],
+      "answer": 0,
+      "answerLetter": "A",
+      "explanation": "Di AWS pengguna tidak perlu menebak kebutuhan kapasitas di masa depan karena resource bisa diskalakan sesuai kebutuhan. Opsi lain tidak benar: kontrak hardware lama tidak relevan, biaya tidak tetap, dan audit tetap diperlukan.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF177",
+      "number": 177,
+      "question": "Which of the following is an AWS-managed compute service?",
+      "options": [
+        "Amazon SWF",
+        "Amazon EC2",
+        "AWS Lambda",
+        "Amazon Aurora"
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "AWS Lambda adalah layanan compute terkelola (serverless) tanpa perlu mengelola server. Amazon EC2 mengharuskan pelanggan mengelola OS, Amazon SWF adalah layanan workflow, dan Amazon Aurora adalah database.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF178",
+      "number": 178,
+      "question": "Which of the following is an important architectural principle when designing cloud applications?",
+      "options": [
+        "Store data and backups in the same region.",
+        "Design tightly coupled system components.",
+        "Avoid multi-threading.",
+        "Design for failure."
+      ],
+      "answer": 3,
+      "answerLetter": "D",
+      "explanation": "Design for failure berarti merancang arsitektur agar tetap tahan saat komponen gagal. Menyimpan data dan backup di region yang sama, membuat komponen tightly coupled, atau menghindari multi-threading bukan praktik terbaik.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF179",
+      "number": 179,
+      "question": "Which mechanism allows developers to access AWS services from application code?",
+      "options": [
+        "AWS Software Development Kit",
+        "AWS Management Console",
+        "AWS CodePipeline",
+        "AWS Config"
+      ],
+      "answer": 0,
+      "answerLetter": "A",
+      "explanation": "AWS SDK memungkinkan developer memanggil layanan AWS dari kode aplikasi. AWS Management Console adalah antarmuka web, AWS CodePipeline untuk CI/CD, dan AWS Config untuk melacak konfigurasi.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF180",
+      "number": 180,
+      "question": "Which Amazon EC2 pricing model is the MOST cost efficient for an uninterruptible workload that runs once a year for 24 hours?",
+      "options": [
+        "On-Demand Instances",
+        "Reserved Instances",
+        "Spot Instances",
+        "Dedicated Instances"
+      ],
+      "answer": 0,
+      "answerLetter": "A",
+      "explanation": "Untuk beban kerja yang berjalan 24 jam setahun dan tidak boleh terputus, On-Demand paling hemat karena tanpa komitmen. Reserved Instances memerlukan komitmen 1-3 tahun, Spot bisa terinterupsi, dan Dedicated lebih mahal.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF181",
+      "number": 181,
+      "question": "Which of the following services is a MySQL-compatible database that automatically grows storage as needed?",
+      "options": [
+        "Amazon Elastic Compute Cloud (Amazon EC2)",
+        "Amazon Relational Database Service (Amazon RDS) for MySQL",
+        "Amazon Lightsail",
+        "Amazon Aurora"
+      ],
+      "answer": 3,
+      "answerLetter": "D",
+      "explanation": "Amazon Aurora kompatibel dengan MySQL dan storage-nya tumbuh otomatis sesuai kebutuhan. RDS for MySQL memerlukan pengaturan storage, EC2 adalah compute, dan Lightsail adalah layanan server virtual sederhana.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF182",
+      "number": 182,
+      "question": "Which Amazon Virtual Private Cloud (Amazon VPC) feature enables users to connect two VPCs together?",
+      "options": [
+        "Amazon VPC endpoints",
+        "Amazon Elastic Compute Cloud (Amazon EC2) ClassicLink",
+        "Amazon VPC peering",
+        "AWS Direct Connect"
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "Amazon VPC peering menghubungkan dua VPC secara privat. VPC endpoints menghubungkan ke layanan AWS, ClassicLink untuk EC2-Classic, dan Direct Connect menghubungkan on-premises ke AWS.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF183",
+      "number": 183,
+      "question": "Which service's PRIMARY purpose is software version control?",
+      "options": [
+        "Amazon CodeStar",
+        "AWS Command Line Interface (AWS CLI)",
+        "Amazon Cognito",
+        "AWS CodeCommit"
+      ],
+      "answer": 3,
+      "answerLetter": "D",
+      "explanation": "AWS CodeCommit adalah layanan source control terkelola berbasis Git. Amazon CodeStar mengelola proyek pengembangan, AWS CLI adalah alat baris perintah, dan Amazon Cognito untuk identitas pengguna.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF184",
+      "number": 184,
+      "question": "A company is considering migrating its applications to AWS. The company wants to compare the cost of running the workload on-premises to running the equivalent workload on the AWS platform. Which tool can be used to perform this comparison?",
+      "options": [
+        "AWS Simple Monthly Calculator",
+        "AWS Total Cost of Ownership (TCO) Calculator",
+        "AWS Billing and Cost Management console",
+        "Cost Explorer"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "AWS TCO Calculator membandingkan biaya menjalankan beban kerja on-premises dengan di AWS. Simple Monthly Calculator hanya memperkirakan biaya AWS, sedangkan Billing console dan Cost Explorer menampilkan biaya AWS yang sudah ada.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF185",
+      "number": 185,
+      "question": "Which AWS service provides a secure, fast, and cost-effective way to migrate or transport exabyte-scale datasets into AWS?",
+      "options": [
+        "AWS Batch",
+        "AWS Snowball",
+        "AWS Migration Hub",
+        "AWS Snowmobile"
+      ],
+      "answer": 3,
+      "answerLetter": "D",
+      "explanation": "AWS Snowmobile adalah truk berisi storage untuk memindahkan data skala exabyte ke AWS. AWS Snowball hanya untuk skala petabyte, AWS Batch untuk job komputasi batch, dan AWS Migration Hub untuk melacak migrasi.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF186",
+      "number": 186,
+      "question": "Which of the following BEST describe the AWS pricing model? (Choose two.)",
+      "options": [
+        "Fixed-term",
+        "Pay-as-you-go",
+        "Colocation",
+        "Planned",
+        "Variable cost"
+      ],
+      "answer": [
+        1,
+        4
+      ],
+      "answerLetter": "B,E",
+      "explanation": "Model harga AWS adalah pay-as-you-go dan berbiaya variabel sesuai pemakaian. Fixed-term, colocation, dan planned tidak menggambarkan model harga AWS.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF187",
+      "number": 187,
+      "question": "Which load balancer types are available with Elastic Load Balancing (ELB)? (Choose two.)    112",
+      "options": [
+        "Public load balancers with AWS Application Auto Scaling capabilities",
+        "F5 Big-IP and Citrix NetScaler load balancers",
+        "Classic Load Balancers",
+        "Cross-zone load balancers with public and private IPs",
+        "Application Load Balancers"
+      ],
+      "answer": [
+        2,
+        4
+      ],
+      "answerLetter": "C,E",
+      "explanation": "Elastic Load Balancing menyediakan Classic Load Balancer dan Application Load Balancer (serta Network dan Gateway Load Balancer). F5 dan Citrix adalah produk pihak ketiga, dan opsi lain bukan tipe load balancer ELB.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF188",
+      "number": 188,
+      "question": "Why should a company choose AWS instead of a traditional data center?",
+      "options": [
+        "AWS provides users with full control over the underlying resources.",
+        "AWS does not require long-term contracts and provides a pay-as-you-go model.",
+        "AWS offers edge locations in every country, supporting global reach.",
+        "AWS has no limits on the number of resources that can be created."
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "AWS tidak memerlukan kontrak jangka panjang dan memakai model pay-as-you-go. Pelanggan tidak punya kontrol penuh atas hardware fisik, edge locations tidak ada di setiap negara, dan resource tetap memiliki service limits.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF189",
+      "number": 189,
+      "question": "Which solution provides the FASTEST application response times to frequently accessed data to users in multiple AWS Regions?",
+      "options": [
+        "AWS CloudTrail across multiple Availability Zones",
+        "Amazon CloudFront to edge locations",
+        "AWS CloudFormation in multiple regions",
+        "A virtual private gateway over AWS Direct Connect"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "Amazon CloudFront meng-cache data yang sering diakses di edge locations sehingga respons tercepat bagi pengguna di berbagai Region. AWS CloudTrail untuk audit, AWS CloudFormation untuk provisioning, dan Direct Connect dengan virtual private gateway untuk konektivitas privat.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF190",
+      "number": 190,
+      "question": "Which AWS service provides a self-service portal for on-demand access to AWS compliance reports?",
+      "options": [
+        "AWS Config",
+        "AWS Certificate Manager",
+        "Amazon Inspector",
+        "AWS Artifact"
+      ],
+      "answer": 3,
+      "answerLetter": "D",
+      "explanation": "AWS Artifact adalah portal self-service untuk mengakses laporan kepatuhan AWS sesuai permintaan. AWS Config melacak konfigurasi, AWS Certificate Manager mengelola sertifikat, dan Amazon Inspector memindai kerentanan.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF191",
+      "number": 191,
+      "question": "Which of the following AWS services can be used to run a self-managed database?",
+      "options": [
+        "Amazon Route 53",
+        "AWS X-Ray",
+        "AWS Snowmobile",
+        "Amazon Elastic Compute Cloud (Amazon EC2)"
+      ],
+      "answer": 3,
+      "answerLetter": "D",
+      "explanation": "Amazon EC2 memberi kontrol penuh atas server sehingga pelanggan dapat memasang dan mengelola database sendiri. Amazon Route 53 (DNS), AWS X-Ray (tracing), dan AWS Snowmobile (transfer data) tidak untuk menjalankan database.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF192",
+      "number": 192,
+      "question": "What exclusive benefit is provided to users with Enterprise Support?",
+      "options": [
+        "Access to a Technical Project Manager",
+        "Access to a Technical Account Manager",
+        "Access to a Cloud Support Engineer",
+        "Access to a Solutions Architect"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "Technical Account Manager (TAM) adalah manfaat eksklusif Enterprise Support. Cloud Support Engineer dan Solutions Architect tersedia di paket lain atau bukan manfaat eksklusif, dan Technical Project Manager bukan peran dukungan AWS.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF193",
+      "number": 193,
+      "question": "How can a user protect against AWS service disruptions if a natural disaster affects an entire geographic area?",
+      "options": [
+        "Deploy applications across multiple Availability Zones within an AWS Region.",
+        "Use a hybrid cloud computing deployment model within the geographic area.",
+        "Deploy applications across multiple AWS Regions.",
+        "Store application artifacts using AWS Artifact and replicate them across multiple AWS Regions."
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "Bencana alam yang memengaruhi seluruh area geografis hanya dapat diatasi dengan men-deploy aplikasi di beberapa AWS Region. Multi-AZ berada dalam satu Region yang sama, hybrid tidak memberi redundansi geografis, dan AWS Artifact berisi dokumen kepatuhan.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF194",
+      "number": 194,
+      "question": "How does AWS MOST effectively reduce computing costs for a growing start-up company?",
+      "options": [
+        "It provides on-demand resources for peak usage.",
+        "It automates the provisioning of individual developer environments.",
+        "It automates customer relationship management.",
+        "It implements a fixed monthly computing budget."
+      ],
+      "answer": 0,
+      "answerLetter": "A",
+      "explanation": "AWS menurunkan biaya komputasi dengan menyediakan resource on-demand untuk beban puncak, sehingga startup hanya membayar yang dipakai. Otomatisasi environment developer atau CRM tidak menekan biaya komputasi utama, dan anggaran bulanan tetap bukan model AWS.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF195",
+      "number": 195,
+      "question": "A startup is working on a new application that needs to go to market quickly. The application requirements may need to be adjusted in the near future. Which of the following is a characteristic of the AWS Cloud that would meet this specific need?",
+      "options": [
+        "Elasticity",
+        "Reliability",
+        "Performance",
+        "Agility"
+      ],
+      "answer": 3,
+      "answerLetter": "D",
+      "explanation": "Agility memungkinkan startup meluncurkan aplikasi dengan cepat dan menyesuaikan kebutuhan dengan mudah. Elasticity soal penskalaan, reliability soal ketahanan, dan performance soal kinerja.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF196",
+      "number": 196,
+      "question": "Which AWS Support plan provides a full set of AWS Trusted Advisor checks?",
+      "options": [
+        "Business and Developer Support",
+        "Business and Basic Support",
+        "Enterprise and Developer Support",
+        "Enterprise and Business Support"
+      ],
+      "answer": 3,
+      "answerLetter": "D",
+      "explanation": "Set lengkap pemeriksaan AWS Trusted Advisor tersedia pada paket Business dan Enterprise Support. Basic dan Developer hanya mendapat sejumlah terbatas core checks.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF197",
+      "number": 197,
+      "question": "Which of the following services have Distributed Denial of Service (DDoS) mitigation features? (Choose two.)",
+      "options": [
+        "AWS WAF",
+        "Amazon DynamoDB",
+        "Amazon EC2",
+        "Amazon CloudFront",
+        "Amazon Inspector"
+      ],
+      "answer": [
+        0,
+        3
+      ],
+      "answerLetter": "A,D",
+      "explanation": "AWS WAF dan Amazon CloudFront memiliki fitur mitigasi DDoS (CloudFront terintegrasi dengan AWS Shield, WAF membantu memfilter lalu lintas berbahaya). Amazon DynamoDB adalah database, Amazon EC2 adalah layanan komputasi, dan Amazon Inspector adalah penilai kerentanan, sehingga bukan layanan mitigasi DDoS.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF198",
+      "number": 198,
+      "question": "When building a cloud Total Cost of Ownership (TCO) model, which cost elements should be considered for workloads running on AWS? (Choose three.)",
+      "options": [
+        "Compute costs",
+        "Facilities costs",
+        "Storage costs",
+        "Data transfer costs",
+        "Network infrastructure costs",
+        "Hardware lifecycle costs"
+      ],
+      "answer": [
+        0,
+        2,
+        4
+      ],
+      "answerLetter": "A,C,E",
+      "explanation": "TCO di AWS mencakup biaya compute, storage, dan data transfer karena semuanya ditagih sebagai penggunaan. Biaya fasilitas, infrastruktur jaringan fisik, dan siklus hidup hardware ditanggung AWS, bukan komponen biaya pelanggan di cloud.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF199",
+      "number": 199,
+      "question": "What time-savings advantage is offered with the use of Amazon Rekognition?",
+      "options": [
+        "Amazon Rekognition provides automatic watermarking of images.",
+        "Amazon Rekognition provides automatic detection of objects appearing in pictures.",
+        "Amazon Rekognition provides the ability to resize millions of images automatically.",
+        "Amazon Rekognition uses Amazon Mechanical Turk to allow humans to bid on object detection jobs."
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "Amazon Rekognition menganalisis gambar dan video untuk mendeteksi objek, wajah, teks, dan sebagainya secara otomatis sehingga menghemat waktu. Watermarking dan resize bukan fungsinya, dan Amazon Mechanical Turk tidak dipakai dengan cara bidding seperti pada opsi D.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF200",
+      "number": 200,
+      "question": "When comparing AWS with on-premises Total Cost of Ownership (TCO), what costs are included?",
+      "options": [
+        "Data center security",
+        "Business analysis",
+        "Project management",
+        "Operating system administration"
+      ],
+      "answer": 0,
+      "answerLetter": "A",
+      "explanation": "Perbandingan TCO on-premises vs AWS memasukkan biaya data center, termasuk keamanan fisiknya, yang dihilangkan saat pindah ke AWS. Analisis bisnis, manajemen proyek, dan administrasi OS tetap dibutuhkan di kedua lingkungan sehingga bukan pembeda.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF201",
+      "number": 201,
+      "question": "According to the AWS shared responsibility model, what is AWS responsible for?",
+      "options": [
+        "Configuring Amazon VPC",
+        "Managing application code",
+        "Maintaining application traffic",
+        "Managing the network infrastructure"
+      ],
+      "answer": 3,
+      "answerLetter": "D",
+      "explanation": "Dalam shared responsibility model, AWS bertanggung jawab atas keamanan cloud, termasuk infrastruktur jaringan. Konfigurasi Amazon VPC, kode aplikasi, dan lalu lintas aplikasi adalah tanggung jawab pelanggan.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF202",
+      "number": 202,
+      "question": "Which service should be used to estimate the costs of running a new project on AWS?",
+      "options": [
+        "AWS TCO Calculator",
+        "AWS Simple Monthly Calculator",
+        "AWS Cost Explorer API",
+        "AWS Budgets"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "AWS Simple Monthly Calculator (kini AWS Pricing Calculator) dipakai untuk memperkirakan biaya menjalankan proyek baru di AWS. TCO Calculator membandingkan on-premises vs AWS, sedangkan Cost Explorer API dan AWS Budgets untuk menganalisis/memantau biaya yang sudah berjalan.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF203",
+      "number": 203,
+      "question": "Which AWS tool will identify security groups that grant unrestricted Internet access to a limited list of ports?",
+      "options": [
+        "AWS Organizations",
+        "AWS Trusted Advisor",
+        "AWS Usage Report",
+        "Amazon EC2 dashboard"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "AWS Trusted Advisor memiliki pemeriksaan keamanan yang menandai security group dengan akses tidak terbatas pada port tertentu. AWS Organizations, Usage Report, dan EC2 dashboard tidak melakukan pemeriksaan ini.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF204",
+      "number": 204,
+      "question": "Which AWS service can be used to generate alerts based on an estimated monthly bill?",
+      "options": [
+        "AWS Config",
+        "Amazon CloudWatch",
+        "AWS X-Ray",
+        "AWS CloudTrail"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "Amazon CloudWatch dapat membuat billing alarm berdasarkan estimasi tagihan bulanan. AWS Config mencatat konfigurasi, AWS X-Ray melacak request aplikasi, dan AWS CloudTrail mencatat aktivitas API.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF205",
+      "number": 205,
+      "question": "Which Amazon EC2 pricing model offers the MOST significant discount when compared to On- Demand Instances?",
+      "options": [
+        "Partial Upfront Reserved Instances for a 1-year term",
+        "All Upfront Reserved Instances for a 1-year term",
+        "All Upfront Reserved Instances for a 3-year term",
+        "No Upfront Reserved Instances for a 3-year term"
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "Diskon terbesar didapat dari Reserved Instances dengan komitmen terpanjang dan pembayaran terbanyak di muka, yaitu All Upfront 3 tahun. Opsi 1 tahun atau pembayaran parsial/tanpa upfront memberi diskon lebih kecil.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF206",
+      "number": 206,
+      "question": "Which of the following is the responsibility of AWS?",
+      "options": [
+        "Setting up AWS Identity and Access Management (IAM) users and groups",
+        "Physically destroying storage media at end of life",
+        "Patching guest operating systems",
+        "Configuring security settings on Amazon EC2 instances"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "AWS bertanggung jawab menghancurkan media penyimpanan secara fisik saat akhir masa pakai karena itu bagian keamanan fisik. Pengaturan IAM, patching guest OS, dan konfigurasi keamanan EC2 adalah tanggung jawab pelanggan.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF207",
+      "number": 207,
+      "question": "Which of the following is an advantage of using AWS?",
+      "options": [
+        "AWS audits user data.",
+        "Data is automatically secure.",
+        "There is no guessing on capacity needs.",
+        "AWS manages compliance needs."
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "Keuntungan AWS adalah tidak perlu menebak kebutuhan kapasitas karena bisa scale sesuai permintaan. AWS tidak mengaudit data pengguna, data tidak otomatis aman (pelanggan harus mengonfigurasinya), dan kepatuhan adalah tanggung jawab bersama.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF208",
+      "number": 208,
+      "question": "Which AWS service would a customer use with a static website to achieve lower latency and high transfer speeds?",
+      "options": [
+        "AWS Lambda",
+        "Amazon DynamoDB Accelerator",
+        "Amazon Route 53",
+        "Amazon CloudFront"
+      ],
+      "answer": 3,
+      "answerLetter": "D",
+      "explanation": "Amazon CloudFront adalah CDN yang menyimpan konten di edge location sehingga latensi rendah dan transfer cepat untuk website statis. AWS Lambda adalah komputasi, DAX untuk cache DynamoDB, dan Route 53 adalah DNS.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF209",
+      "number": 209,
+      "question": "Which services manage and automate application deployments on AWS? (Choose two.)",
+      "options": [
+        "AWS Elastic Beanstalk",
+        "AWS CodeCommit",
+        "AWS Data Pipeline",
+        "AWS CloudFormation",
+        "AWS Config"
+      ],
+      "answer": [
+        0,
+        3
+      ],
+      "answerLetter": "A,D",
+      "explanation": "AWS Elastic Beanstalk dan AWS CloudFormation mengelola dan mengotomatiskan deployment aplikasi. CodeCommit adalah repositori source code, Data Pipeline untuk pemindahan data, dan AWS Config untuk pencatatan konfigurasi.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF210",
+      "number": 210,
+      "question": "A user wants guidance on possible savings when migrating from on-premises to AWS. Which tool is suitable for this scenario?",
+      "options": [
+        "AWS Budgets",
+        "Cost Explorer",
+        "AWS Total Cost of Ownership (TCO) Calculator",
+        "AWS Well-Architected Tool"
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "AWS TCO Calculator memperkirakan penghematan saat migrasi dari on-premises ke AWS. AWS Budgets dan Cost Explorer untuk memantau biaya yang ada, sedangkan Well-Architected Tool mengevaluasi arsitektur.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF211",
+      "number": 211,
+      "question": "Which principles are used to architect applications for reliability on the AWS Cloud? (Choose two.)",
+      "options": [
+        "Design for automated failure recovery",
+        "Use multiple Availability Zones",
+        "Manage changes via documented processes",
+        "Test for moderate demand to ensure reliability",
+        "Backup recovery to an on-premises environment"
+      ],
+      "answer": [
+        0,
+        1
+      ],
+      "answerLetter": "A,B",
+      "explanation": "Prinsip reliability adalah mendesain pemulihan kegagalan otomatis dan memakai beberapa Availability Zone. Proses perubahan terdokumentasi, pengujian hanya beban sedang, dan backup ke on-premises bukan prinsip reliability AWS.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF212",
+      "number": 212,
+      "question": "What tasks should a customer perform when that customer suspects an AWS account has been compromised? (Choose two.)",
+      "options": [
+        "Rotate passwords and access keys.",
+        "Remove MFA tokens.",
+        "Move resources to a different AWS Region.",
+        "Delete AWS CloudTrail Resources.",
+        "Contact AWS Support."
+      ],
+      "answer": [
+        0,
+        4
+      ],
+      "answerLetter": "A,E",
+      "explanation": "Saat akun diduga diretas, rotasi password dan access key serta hubungi AWS Support. Menghapus MFA, memindahkan resource ke Region lain, atau menghapus CloudTrail justru memperburuk keamanan dan menghilangkan jejak audit.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF213",
+      "number": 213,
+      "question": "What is an example of high availability in the AWS Cloud?",
+      "options": [
+        "Consulting AWS technical support at any time day or night    128",
+        "Ensuring an application remains accessible, even if a resource fails",
+        "Making any AWS service available for use by paying on demand",
+        "Deploying in any part of the world using AWS Regions"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "High availability berarti aplikasi tetap dapat diakses meski sebuah resource gagal. Dukungan teknis 24/7, bayar sesuai pemakaian, dan deployment global tidak menggambarkan ketersediaan tinggi.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF214",
+      "number": 214,
+      "question": "Which AWS security service protects applications from distributed denial of service attacks with always-on detection and automatic inline mitigations?",
+      "options": [
+        "Amazon Inspector",
+        "AWS Web Application Firewall (AWS WAF)",
+        "Elastic Load Balancing (ELB)",
+        "AWS Shield"
+      ],
+      "answer": 3,
+      "answerLetter": "D",
+      "explanation": "AWS Shield menyediakan perlindungan DDoS dengan deteksi selalu aktif dan mitigasi inline otomatis. Amazon Inspector menilai kerentanan, AWS WAF memfilter request web, dan ELB mendistribusikan traffic.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF215",
+      "number": 215,
+      "question": "A company wants to monitor the CPU usage of its Amazon EC2 resources. Which AWS service should the company use?",
+      "options": [
+        "AWS CloudTrail",
+        "Amazon CloudWatch",
+        "AWS Cost and Usage report",
+        "Amazon Simple Notification Service (Amazon SNS)"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "Amazon CloudWatch memantau metrik seperti penggunaan CPU pada EC2. CloudTrail mencatat panggilan API, Cost and Usage report untuk biaya, dan Amazon SNS untuk pengiriman notifikasi.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF216",
+      "number": 216,
+      "question": "What is an AWS Identity and Access Management (IAM) role?",
+      "options": [
+        "A user associated with an AWS resource",
+        "A group associated with an AWS resource",
+        "An entity that defines a set of permissions for use with an AWS resource",
+        "An authentication credential associated with a multi-factor authentication (MFA) token"
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "IAM role adalah entitas yang mendefinisikan sekumpulan permission untuk digunakan dengan resource AWS. Role bukan user, bukan group, dan bukan kredensial MFA.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF217",
+      "number": 217,
+      "question": "What are the advantages of Reserved Instances? (Choose two.)",
+      "options": [
+        "They provide a discount over on-demand pricing.",
+        "They provide access to additional instance types.",
+        "They provide additional networking capability.",
+        "Customers can upgrade instances as new types become available.",
+        "Customers can reserve capacity in an Availability Zone."
+      ],
+      "answer": [
+        0,
+        4
+      ],
+      "answerLetter": "A,E",
+      "explanation": "Reserved Instances memberi diskon dibanding On-Demand dan dapat memesan kapasitas di Availability Zone tertentu (zonal RI). Mereka tidak memberi akses tipe instance tambahan, kemampuan jaringan ekstra, atau upgrade otomatis ke tipe baru.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF218",
+      "number": 218,
+      "question": "131 How do Amazon EC2 Auto Scaling groups help achieve high availability for a web application?",
+      "options": [
+        "They automatically add more instances across multiple AWS Regions based on global demand of the application.",
+        "They automatically add or replace instances across multiple Availability Zones when the application needs it.",
+        "They enable the application's static content to reside closer to end users.",
+        "They are able to distribute incoming requests across a tier of web server instances."
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "Auto Scaling group menambah atau mengganti instance di beberapa Availability Zone sesuai kebutuhan sehingga aplikasi tetap tersedia. Scaling lintas Region tidak dilakukan otomatis, konten dekat pengguna adalah fungsi CloudFront, dan distribusi request adalah fungsi Elastic Load Balancing.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF219",
+      "number": 219,
+      "question": "How can one AWS account use Reserved Instances from another AWS account?",
+      "options": [
+        "By using Amazon EC2 Dedicated Instances",
+        "By using AWS Organizations consolidated billing",
+        "By using the AWS Cost Explorer tool",
+        "By using AWS Budgets"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "Dengan consolidated billing di AWS Organizations, diskon dan Reserved Instances dapat dibagikan antar akun dalam organisasi. Dedicated Instances, Cost Explorer, dan AWS Budgets tidak berbagi RI.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF220",
+      "number": 220,
+      "question": "A customer runs an On-Demand Amazon Linux EC2 instance for 3 hours, 5 minutes, and 6 seconds. For how much time will the customer be billed?",
+      "options": [
+        "3 hours, 5 minutes",
+        "3 hours, 5 minutes, and 6 seconds",
+        "3 hours, 6 minutes",
+        "4 hours"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "EC2 On-Demand untuk Amazon Linux ditagih per detik (minimum 60 detik), sehingga ditagih tepat 3 jam, 5 menit, 6 detik. Opsi lain membulatkan, yang tidak berlaku untuk penagihan per detik.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF221",
+      "number": 221,
+      "question": "Which of the following AWS services provide compute resources? (Choose two.)",
+      "options": [
+        "AWS Lambda",
+        "Amazon Elastic Container Service (Amazon ECS)",
+        "AWS CodeDeploy",
+        "Amazon Glacier",
+        "AWS Organizations"
+      ],
+      "answer": [
+        0,
+        1
+      ],
+      "answerLetter": "A,B",
+      "explanation": "AWS Lambda dan Amazon ECS menyediakan sumber daya komputasi. CodeDeploy untuk deployment, Amazon Glacier untuk penyimpanan arsip, dan AWS Organizations untuk manajemen akun.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF222",
+      "number": 222,
+      "question": "Which AWS service enables users to deploy infrastructure as code by automating the process of provisioning resources?",
+      "options": [
+        "Amazon GameLift",
+        "AWS CloudFormation",
+        "AWS Data Pipeline",
+        "AWS Glue"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "AWS CloudFormation memungkinkan infrastructure as code dengan mengotomatiskan provisioning resource lewat template. GameLift untuk game hosting, Data Pipeline untuk workflow data, dan Glue untuk ETL.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF223",
+      "number": 223,
+      "question": "Which AWS services provide a way to extend an on-premises architecture to the AWS Cloud? (Choose two.)",
+      "options": [
+        "Amazon EBS",
+        "AWS Direct Connect",
+        "Amazon CloudFront",
+        "AWS Storage Gateway",
+        "Amazon Connect"
+      ],
+      "answer": [
+        1,
+        3
+      ],
+      "answerLetter": "B,D",
+      "explanation": "AWS Direct Connect dan AWS Storage Gateway menghubungkan serta memperluas arsitektur on-premises ke AWS. Amazon EBS adalah block storage, CloudFront adalah CDN, dan Amazon Connect adalah contact center.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF224",
+      "number": 224,
+      "question": "Which of the following allows users to provision a dedicated network connection from their internal network to AWS?",
+      "options": [
+        "AWS CloudHSM",
+        "AWS Direct Connect",
+        "AWS VPN",
+        "Amazon Connect"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "AWS Direct Connect menyediakan koneksi jaringan khusus (dedicated) dari jaringan internal ke AWS. CloudHSM untuk modul keamanan hardware, AWS VPN lewat internet publik (bukan dedicated), dan Amazon Connect adalah contact center.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF225",
+      "number": 225,
+      "question": "Which services use AWS edge locations? (Choose two.)",
+      "options": [
+        "Amazon CloudFront",
+        "AWS Shield",
+        "Amazon EC2",
+        "Amazon RDS",
+        "Amazon ElastiCache"
+      ],
+      "answer": [
+        0,
+        1
+      ],
+      "answerLetter": "A,B",
+      "explanation": "Amazon CloudFront dan AWS Shield memanfaatkan edge location. EC2, RDS, dan ElastiCache berjalan di Region/Availability Zone, bukan di edge location.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF226",
+      "number": 226,
+      "question": "Which service would provide network connectivity in a hybrid architecture that includes the AWS Cloud?",
+      "options": [
+        "Amazon VPC",
+        "AWS Direct Connect",
+        "AWS Directory Service",
+        "Amazon API Gateway"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "AWS Direct Connect menyediakan konektivitas jaringan pada arsitektur hybrid antara on-premises dan AWS. Amazon VPC adalah jaringan virtual di AWS, Directory Service untuk direktori, dan API Gateway untuk mengelola API.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF227",
+      "number": 227,
+      "question": "Which tool can be used to compare the costs of running a web application in a traditional hosting environment to running it on AWS?",
+      "options": [
+        "AWS Cost Explorer",
+        "AWS Budgets",
+        "AWS Cost and Usage report",
+        "AWS Total Cost of Ownership (TCO) Calculator"
+      ],
+      "answer": 3,
+      "answerLetter": "D",
+      "explanation": "AWS TCO Calculator membandingkan biaya hosting tradisional dengan AWS. Cost Explorer, Budgets, dan Cost and Usage report hanya menganalisis biaya yang sudah ada di AWS.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF228",
+      "number": 228,
+      "question": "What is the value of using third-party software from AWS Marketplace instead of installing third- party software on Amazon EC2? (Choose two.)",
+      "options": [
+        "Users pay for software by the hour or month depending on licensing.",
+        "AWS Marketplace enables the user to launch applications with 1-Click.",
+        "AWS Marketplace data encryption is managed by a third-party vendor.",
+        "AWS Marketplace eliminates the need to upgrade to newer software versions.",
+        "Users can deploy third-party software without testing."
+      ],
+      "answer": [
+        0,
+        1
+      ],
+      "answerLetter": "A,B",
+      "explanation": "AWS Marketplace memungkinkan pembayaran software per jam atau bulan dan peluncuran aplikasi dengan 1-Click. Enkripsi tidak otomatis dikelola vendor, upgrade versi tetap perlu dilakukan, dan software tetap harus diuji.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF229",
+      "number": 229,
+      "question": "Which of the following is a cloud architectural design principle?",
+      "options": [
+        "Scale up, not out.",
+        "Loosely couple components.",
+        "Build monolithic systems.",
+        "Use commercial database software."
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "Prinsip desain cloud adalah loosely coupled components agar komponen dapat berkembang dan gagal secara independen. Scale up saja, sistem monolitik, dan database komersial bukan prinsip desain cloud (lebih disarankan scale out dan arsitektur terdistribusi).",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF230",
+      "number": 230,
+      "question": "Under the shared responsibility model; which of the following areas are the customer's responsibility? (Choose two.)",
+      "options": [
+        "Firmware upgrades of network infrastructure",
+        "Patching of operating systems",
+        "Patching of the underlying hypervisor",
+        "Physical security of data centers",
+        "Configuration of the security group"
+      ],
+      "answer": [
+        1,
+        4
+      ],
+      "answerLetter": "B,E",
+      "explanation": "Pelanggan bertanggung jawab atas patching sistem operasi dan konfigurasi security group (keamanan di dalam cloud). Firmware jaringan, hypervisor, dan keamanan fisik data center adalah tanggung jawab AWS.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF231",
+      "number": 231,
+      "question": "Which service enables customers to audit and monitor changes in AWS resources?",
+      "options": [
+        "AWS Trusted Advisor",
+        "Amazon GuardDuty",
+        "Amazon Inspector",
+        "AWS Config"
+      ],
+      "answer": 3,
+      "answerLetter": "D",
+      "explanation": "AWS Config mencatat dan mengaudit perubahan konfigurasi resource AWS. Trusted Advisor memberi rekomendasi, GuardDuty mendeteksi ancaman, dan Inspector menilai kerentanan.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF232",
+      "number": 232,
+      "question": "Which AWS service identifies security groups that allow unrestricted access to a user's AWS resources?",
+      "options": [
+        "AWS CloudTrail",
+        "AWS Trusted Advisor",
+        "Amazon CloudWatch",
+        "Amazon Inspector"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "AWS Trusted Advisor memeriksa dan mengidentifikasi security group yang mengizinkan akses tidak terbatas. CloudTrail mencatat API, CloudWatch memantau metrik, dan Inspector menilai kerentanan instance.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF233",
+      "number": 233,
+      "question": "According to the AWS shared responsibility model, who is responsible for configuration management?",
+      "options": [
+        "It is solely the responsibility of the customer.",
+        "It is solely the responsibility of AWS.",
+        "It is shared between AWS and the customer.",
+        "It is not part of the AWS shared responsibility model."
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "Configuration management adalah tanggung jawab bersama: AWS mengonfigurasi infrastruktur dan perangkatnya, sedangkan pelanggan mengonfigurasi OS, database, dan aplikasinya. Karena itu bukan sepenuhnya salah satu pihak.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF234",
+      "number": 234,
+      "question": "Which AWS service is a content delivery network that securely delivers data, video, and applications to users globally with low latency and high speeds?",
+      "options": [
+        "AWS CloudFormation",
+        "AWS Direct Connect",
+        "Amazon CloudFront",
+        "Amazon Pinpoint"
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "Amazon CloudFront adalah CDN yang mengirim data, video, dan aplikasi secara global dengan latensi rendah. CloudFormation untuk IaC, Direct Connect untuk koneksi dedicated, dan Pinpoint untuk marketing engagement.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF235",
+      "number": 235,
+      "question": "Which benefit of the AWS Cloud supports matching the supply of resources with changing workload demands?",
+      "options": [
+        "Security",
+        "Reliability",
+        "Elasticity",
+        "High availability"
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "Elasticity adalah kemampuan menyesuaikan sumber daya dengan perubahan beban kerja. Security, reliability, dan high availability tidak secara khusus menyangkut penyesuaian suplai terhadap permintaan.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF236",
+      "number": 236,
+      "question": "A user is running an application on AWS and notices that one or more AWS-owned IP addresses is involved in a distributed denial-of-service (DDoS) attack. Who should the user contact FIRST about this situation?",
+      "options": [
+        "AWS Premium Support",
+        "AWS Technical Account Manager",
+        "AWS Solutions Architect",
+        "AWS Abuse team"
+      ],
+      "answer": 3,
+      "answerLetter": "D",
+      "explanation": "Dugaan penyalahgunaan resource AWS dalam serangan DDoS dilaporkan pertama kali ke AWS Abuse team. Premium Support, TAM, dan Solutions Architect bukan kontak utama untuk laporan abuse.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF237",
+      "number": 237,
+      "question": "Which of the following are benefits of hosting infrastructure in the AWS Cloud? (Choose two.)",
+      "options": [
+        "There are no upfront commitments.",
+        "AWS manages all security in the cloud.",
+        "Users have the ability to provision resources on demand.",
+        "Users have access to free and unlimited storage.",
+        "Users have control over the physical infrastructure."
+      ],
+      "answer": [
+        0,
+        2
+      ],
+      "answerLetter": "A,C",
+      "explanation": "Manfaat cloud: tidak ada komitmen di muka dan resource dapat disediakan sesuai permintaan. AWS tidak mengelola semua keamanan (shared responsibility), storage tidak gratis/tak terbatas, dan pelanggan tidak mengontrol infrastruktur fisik.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF238",
+      "number": 238,
+      "question": "Access keys in AWS Identity and Access Management (IAM) are used to:",
+      "options": [
+        "log in to the AWS Management Console.",
+        "make programmatic calls to AWS from AWS APIs.",
+        "log in to Amazon EC2 instances.",
+        "authenticate to AWS CodeCommit repositories."
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "Access key dipakai untuk panggilan programatik ke AWS lewat API, CLI, atau SDK. Login console memakai username/password, login EC2 memakai key pair, dan CodeCommit memakai kredensial Git/SSH.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF239",
+      "number": 239,
+      "question": "What is AWS Trusted Advisor?",
+      "options": [
+        "It is an AWS staff member who provides recommendations and best practices on how to use AWS.",
+        "It is a network of AWS partners who provide recommendations and best practices on how to use AWS.",
+        "It is an online tool with a set of automated checks that provides recommendations on cost optimization, performance, and security.",
+        "It is another name for AWS Technical Account Managers who provide recommendations on cost optimization, performance, and security."
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "AWS Trusted Advisor adalah alat online dengan pemeriksaan otomatis yang memberi rekomendasi biaya, performa, dan keamanan. Ia bukan staf AWS, jaringan partner, ataupun nama lain dari Technical Account Manager.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF240",
+      "number": 240,
+      "question": "Which AWS service or feature allows a company to visualize, understand, and manage AWS costs and usage over time?",
+      "options": [
+        "AWS Budgets",
+        "AWS Cost Explorer",
+        "AWS Organizations",
+        "Consolidated billing"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "AWS Cost Explorer memungkinkan visualisasi, pemahaman, dan pengelolaan biaya serta penggunaan dari waktu ke waktu. AWS Budgets untuk anggaran dan alert, Organizations untuk manajemen akun, dan consolidated billing untuk penagihan gabungan.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF241",
+      "number": 241,
+      "question": "Which AWS service offers on-demand access to AWS security and compliance reports?",
+      "options": [
+        "AWS CloudTrail",
+        "AWS Artifact",
+        "AWS Health",
+        "Amazon CloudWatch"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "AWS Artifact menyediakan akses on-demand ke laporan keamanan dan kepatuhan AWS. CloudTrail, AWS Health, dan CloudWatch tidak menyediakan laporan kepatuhan.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF242",
+      "number": 242,
+      "question": "What are the benefits of using the AWS Cloud for companies with customers in many countries around the world? (Choose two.)",
+      "options": [
+        "Companies can deploy applications in multiple AWS Regions to reduce latency.",
+        "Amazon Translate automatically translates third-party website interfaces into multiple languages.",
+        "Amazon CloudFront has multiple edge locations around the world to reduce latency.",
+        "Amazon Comprehend allows users to build applications that can respond to user requests in many languages.",
+        "Elastic Load Balancing can distribute application web traffic to multiple AWS Regions around the world, which reduces latency."
+      ],
+      "answer": [
+        0,
+        2
+      ],
+      "answerLetter": "A,C",
+      "explanation": "Deploy di beberapa AWS Region dan memakai edge location Amazon CloudFront sama-sama mengurangi latensi bagi pelanggan global. Translate dan Comprehend tidak menjawab kebutuhan latensi, dan ELB hanya mendistribusikan traffic dalam satu Region.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF243",
+      "number": 243,
+      "question": "Which AWS service handles the deployment details of capacity provisioning, load balancing, Auto Scaling, and application health monitoring?",
+      "options": [
+        "AWS Config",
+        "AWS Elastic Beanstalk",
+        "Amazon Route 53",
+        "Amazon CloudFront"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "AWS Elastic Beanstalk menangani detail deployment: provisioning kapasitas, load balancing, Auto Scaling, dan health monitoring aplikasi. AWS Config, Route 53, dan CloudFront tidak melakukan hal tersebut.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF244",
+      "number": 244,
+      "question": "Which AWS service provides inbound and outbound network ACLs to harden external connectivity to Amazon EC2?",
+      "options": [
+        "AWS IAM",
+        "Amazon Connect",
+        "Amazon VPC",
+        "Amazon API Gateway"
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "Amazon VPC menyediakan network ACL inbound dan outbound serta security group untuk mengamankan konektivitas ke EC2. IAM untuk akses, Amazon Connect untuk contact center, dan API Gateway untuk API.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF245",
+      "number": 245,
+      "question": "When a company provisions web servers in multiple AWS Regions, what is being increased?",
+      "options": [
+        "Coupling",
+        "Availability",
+        "Security",
+        "Durability"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "Menempatkan web server di beberapa Region meningkatkan availability karena aplikasi tetap berjalan jika satu Region bermasalah. Hal ini tidak menambah coupling, dan tidak secara langsung berkaitan dengan security atau durability.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF246",
+      "number": 246,
+      "question": "The pay-as-you-go pricing model for AWS services:",
+      "options": [
+        "reduces capital expenditures.",
+        "requires payment up front for AWS services.",
+        "is relevant only for Amazon EC2, Amazon S3, and Amazon RDS.",
+        "reduces operational expenditures."
+      ],
+      "answer": 0,
+      "answerLetter": "A",
+      "explanation": "Pay-as-you-go menggantikan belanja modal (capital expenditure) di muka dengan biaya variabel, sehingga A benar. Opsi B salah karena tidak perlu bayar di muka, C salah karena berlaku untuk hampir semua layanan AWS, dan D kurang tepat karena yang berkurang adalah capex, bukan opex.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF247",
+      "number": 247,
+      "question": "Under the AWS shared responsibility model, AWS is responsible for which security-related task?",
+      "options": [
+        "Lifecycle management of IAM credentials",
+        "Physical security of global infrastructure",
+        "Encryption of Amazon EBS volumes",
+        "Firewall configuration"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "AWS bertanggung jawab atas keamanan fisik infrastruktur global (data center). Manajemen kredensial IAM, enkripsi EBS, dan konfigurasi firewall adalah tanggung jawab pelanggan (security in the cloud).",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF248",
+      "number": 248,
+      "question": "Which AWS service enables users to consolidate billing across multiple accounts?",
+      "options": [
+        "Amazon QuickSight",
+        "AWS Organizations",
+        "AWS Budgets",
+        "Amazon Forecast"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "AWS Organizations memungkinkan consolidated billing untuk banyak akun. QuickSight untuk visualisasi data, AWS Budgets untuk memantau anggaran, dan Amazon Forecast untuk prakiraan deret waktu, bukan konsolidasi tagihan.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF249",
+      "number": 249,
+      "question": "Under the AWS shared responsibility model, which of the following is an example of security in the AWS Cloud?",
+      "options": [
+        "Managing edge locations",
+        "Physical security",
+        "Firewall configuration",
+        "Global infrastructure"
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "Konfigurasi firewall (security group, dll.) adalah tanggung jawab pelanggan, yaitu security in the cloud. Edge locations, keamanan fisik, dan infrastruktur global adalah tanggung jawab AWS (security of the cloud).",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF250",
+      "number": 250,
+      "question": "How can an AWS user with an AWS Basic Support plan obtain technical assistance from AWS?",
+      "options": [
+        "AWS Senior Support Engineers",
+        "AWS Technical Account Managers",
+        "AWS Trusted Advisor",
+        "AWS Discussion Forums"
+      ],
+      "answer": 3,
+      "answerLetter": "D",
+      "explanation": "Pada Basic Support, pengguna hanya mendapat akses ke forum diskusi AWS dan dokumentasi. Senior Support Engineers dan TAM tersedia di paket yang lebih tinggi, sedangkan Trusted Advisor di Basic hanya memberi pemeriksaan inti terbatas dan bukan bantuan teknis.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF251",
+      "number": 251,
+      "question": "Which of the following are pillars of the AWS Well-Architected Framework? (Choose two.)",
+      "options": [
+        "Multiple Availability Zones",
+        "Performance efficiency",
+        "Security",
+        "Encryption usage",
+        "High availability"
+      ],
+      "answer": [
+        1,
+        2
+      ],
+      "answerLetter": "B,C",
+      "explanation": "Performance efficiency dan Security adalah pilar Well-Architected Framework. Multiple Availability Zones, encryption usage, dan high availability adalah praktik/konsep, bukan nama pilar.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF252",
+      "number": 252,
+      "question": "After selecting an Amazon EC2 Dedicated Host reservation, which pricing option would provide the largest discount?",
+      "options": [
+        "No upfront payment",
+        "Hourly on-demand payment",
+        "Partial upfront payment",
+        "All upfront payment"
+      ],
+      "answer": 3,
+      "answerLetter": "D",
+      "explanation": "Pembayaran All Upfront memberikan diskon terbesar untuk reservasi. Partial upfront dan no upfront memberi diskon lebih kecil, sedangkan hourly on-demand tidak memberi diskon reservasi.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF253",
+      "number": 253,
+      "question": "What is an advantage of deploying an application across multiple Availability Zones?",
+      "options": [
+        "There is a lower risk of service failure if a natural disaster causes a service disruption in a given AWS Region.",
+        "The application will have higher availability because it can withstand a service disruption in one Availability Zone.",
+        "There will be better coverage as Availability Zones are geographically distant and can serve a wider area.",
+        "There will be decreased application latency that will improve the user experience."
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "Menyebar aplikasi di beberapa Availability Zone membuat aplikasi tetap berjalan jika satu AZ gagal, sehingga ketersediaan lebih tinggi. Perlindungan bencana tingkat Region membutuhkan multi-Region (A), AZ berada berdekatan dalam satu Region (C), dan latency tidak otomatis turun (D).",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF254",
+      "number": 254,
+      "question": "A Cloud Practitioner is asked how to estimate the cost of using a new application on AWS. What is the MOST appropriate response?",
+      "options": [
+        "Inform the user that AWS pricing allows for on-demand pricing.",
+        "Direct the user to the AWS Simple Monthly Calculator for an estimate.",
+        "Use Amazon QuickSight to analyze current spending on-premises.",
+        "Use Amazon AppStream 2.0 for real-time pricing analytics."
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "AWS Simple Monthly Calculator (kini AWS Pricing Calculator) dipakai untuk memperkirakan biaya. On-demand hanya model harga, QuickSight untuk analitik data, dan AppStream 2.0 untuk streaming aplikasi, bukan estimasi biaya.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF255",
+      "number": 255,
+      "question": "A company wants to migrate its applications to a VPC on AWS. These applications will need to access on-premises resources. What combination of actions will enable the company to accomplish this goal? (Choose two.)",
+      "options": [
+        "Use the AWS Service Catalog to identify a list of on-premises resources that can be migrated.",
+        "Build a VPN connection between an on-premises device and a virtual private gateway in the new VPC.",
+        "Use Amazon Athena to query data from the on-premises database servers.",
+        "Connect the company's on-premises data center to AWS using AWS Direct Connect.",
+        "Leverage Amazon CloudFront to restrict access to static web content provided through the company's on-premises web servers."
+      ],
+      "answer": [
+        1,
+        3
+      ],
+      "answerLetter": "B,D",
+      "explanation": "VPN ke virtual private gateway dan AWS Direct Connect menghubungkan VPC dengan data center on-premises. Service Catalog, Athena, dan CloudFront tidak menyediakan konektivitas jaringan hybrid.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF256",
+      "number": 256,
+      "question": "A web application running on AWS has been spammed with malicious requests from a recurring set of IP addresses. Which AWS service can help secure the application and block the malicious traffic?",
+      "options": [
+        "AWS IAM",
+        "Amazon GuardDuty",
+        "Amazon Simple Notification Service (Amazon SNS)",
+        "AWS WAF"
+      ],
+      "answer": 3,
+      "answerLetter": "D",
+      "explanation": "AWS WAF dapat memblokir permintaan berbahaya, termasuk dari alamat IP tertentu. IAM mengatur akses, GuardDuty hanya mendeteksi ancaman, dan SNS adalah layanan notifikasi.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF257",
+      "number": 257,
+      "question": "Treating infrastructure as code in the AWS Cloud allows users to:",
+      "options": [
+        "automate migration of on-premises hardware to AWS data centers.",
+        "let a third party automate an audit of the AWS infrastructure.",
+        "turn over application code to AWS so it can run on the AWS infrastructure.",
+        "automate the infrastructure provisioning process."
+      ],
+      "answer": 3,
+      "answerLetter": "D",
+      "explanation": "Infrastructure as code memungkinkan otomatisasi proses penyediaan infrastruktur secara berulang dan konsisten. Opsi lain tidak berkaitan dengan konsep ini (migrasi hardware, audit pihak ketiga, atau penyerahan kode aplikasi).",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF258",
+      "number": 258,
+      "question": "A company requires a dedicated network connection between its on-premises servers and the AWS Cloud. Which AWS service should be used?",
+      "options": [
+        "AWS VPN",
+        "AWS Direct Connect",
+        "Amazon API Gateway",
+        "Amazon Connect"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "AWS Direct Connect menyediakan koneksi jaringan khusus (dedicated) dari on-premises ke AWS. AWS VPN lewat internet publik, API Gateway untuk mengelola API, dan Amazon Connect adalah contact center.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF259",
+      "number": 259,
+      "question": "Which AWS service can be used to query stored datasets directly from Amazon S3 using standard SQL?",
+      "options": [
+        "AWS Glue",
+        "AWS Data Pipeline",
+        "Amazon CloudSearch",
+        "Amazon Athena"
+      ],
+      "answer": 3,
+      "answerLetter": "D",
+      "explanation": "Amazon Athena menjalankan query SQL standar langsung pada data di Amazon S3. Glue adalah ETL, Data Pipeline untuk orkestrasi data, dan CloudSearch untuk fitur pencarian.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF260",
+      "number": 260,
+      "question": "AWS CloudFormation is designed to help the user:",
+      "options": [
+        "model and provision resources.",
+        "update application code.",
+        "set up data lakes.",
+        "create reports for billing."
+      ],
+      "answer": 0,
+      "answerLetter": "A",
+      "explanation": "AWS CloudFormation memodelkan dan menyediakan (provision) resource AWS lewat template. Ia bukan untuk update kode aplikasi, membuat data lake, atau laporan tagihan.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF261",
+      "number": 261,
+      "question": "Which of the following is an AWS database service?",
+      "options": [
+        "Amazon Redshift",
+        "Amazon Elastic Block Store (Amazon EBS)",
+        "Amazon S3 Glacier",
+        "AWS Snowball"
+      ],
+      "answer": 0,
+      "answerLetter": "A",
+      "explanation": "Amazon Redshift adalah layanan data warehouse/database AWS. EBS adalah block storage, S3 Glacier adalah arsip, dan Snowball adalah perangkat transfer data fisik.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF262",
+      "number": 262,
+      "question": "A Cloud Practitioner must determine if any security groups in an AWS account have been provisioned to allow unrestricted access for specific ports. What is the SIMPLEST way to do this?",
+      "options": [
+        "Review the inbound rules for each security group in the Amazon EC2 management console to check for port 0.0.0.0/0.",
+        "Run AWS Trusted Advisor and review the findings.",
+        "Open the AWS IAM console and check the inbound rule filters for open access.",
+        "In AWS Config, create a custom rule that invokes an AWS Lambda function to review rules for inbound access."
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "AWS Trusted Advisor memiliki pemeriksaan otomatis untuk security group dengan akses tak terbatas, sehingga paling sederhana. Cara manual, IAM console, atau custom rule AWS Config lebih rumit atau tidak relevan.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF263",
+      "number": 263,
+      "question": "What are the benefits of developing and running a new application in the AWS Cloud compared to on-premises? (Choose two.)",
+      "options": [
+        "AWS automatically distributes the data globally for higher durability.",
+        "AWS will take care of operating the application.",
+        "AWS makes it easy to architect for high availability.",
+        "AWS can easily accommodate application demand changes.",
+        "AWS takes care application security patching."
+      ],
+      "answer": [
+        2,
+        3
+      ],
+      "answerLetter": "C,D",
+      "explanation": "Cloud memudahkan arsitektur high availability dan dapat menyesuaikan diri dengan perubahan permintaan. AWS tidak otomatis mendistribusikan data secara global, tidak mengoperasikan aplikasi pelanggan, dan patching aplikasi tetap tanggung jawab pelanggan.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF264",
+      "number": 264,
+      "question": "A user needs an automated security assessment report that will identify unintended network access to Amazon EC2 instances and vulnerabilities on those instances. Which AWS service will provide this assessment report?",
+      "options": [
+        "EC2 security groups",
+        "AWS Config",
+        "Amazon Macie",
+        "Amazon Inspector"
+      ],
+      "answer": 3,
+      "answerLetter": "D",
+      "explanation": "Amazon Inspector menghasilkan laporan penilaian keamanan otomatis untuk kerentanan dan akses jaringan tak diinginkan pada EC2. Security groups adalah firewall, Config melacak konfigurasi, dan Macie mengklasifikasi data sensitif di S3.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF265",
+      "number": 265,
+      "question": "How can a company isolate the costs of production and non-production workloads on AWS?",
+      "options": [
+        "Create Identity and Access Management (IAM) roles for production and non-production workloads.",
+        "Use different accounts for production and non-production expenses.",
+        "Use Amazon EC2 for non-production workloads and other services for production workloads.",
+        "Use Amazon CloudWatch to monitor the use of services."
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "Menggunakan akun AWS terpisah untuk produksi dan non-produksi mengisolasi biaya dengan jelas. IAM roles mengatur akses, pemilihan layanan tidak memisahkan biaya, dan CloudWatch hanya untuk monitoring.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF266",
+      "number": 266,
+      "question": "Where can users find a catalog of AWS-recognized providers of third-party security solutions?",
+      "options": [
+        "AWS Service Catalog",
+        "AWS Marketplace",
+        "AWS Quick Start",
+        "AWS CodeDeploy"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "AWS Marketplace adalah katalog perangkat lunak dan solusi keamanan pihak ketiga. Service Catalog mengelola produk internal, Quick Start adalah template arsitektur, dan CodeDeploy untuk deployment aplikasi.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF267",
+      "number": 267,
+      "question": "A Cloud Practitioner needs to store data for 7 years to meet regulatory requirements. Which AWS service will meet this requirement at the LOWEST cost?",
+      "options": [
+        "Amazon S3",
+        "AWS Snowball",
+        "Amazon Redshift",
+        "Amazon S3 Glacier"
+      ],
+      "answer": 3,
+      "answerLetter": "D",
+      "explanation": "Amazon S3 Glacier adalah penyimpanan arsip jangka panjang berbiaya paling rendah. S3 standar lebih mahal, Snowball adalah transfer data, dan Redshift adalah data warehouse yang mahal untuk arsip.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF268",
+      "number": 268,
+      "question": "What are the immediate benefits of using the AWS Cloud? (Choose two.)",
+      "options": [
+        "Increased IT staff.",
+        "Capital expenses are replaced with variable expenses.",
+        "User control of infrastructure.",
+        "Increased agility.",
+        "AWS holds responsibility for security in the cloud."
+      ],
+      "answer": [
+        1,
+        3
+      ],
+      "answerLetter": "B,D",
+      "explanation": "Manfaat langsung cloud adalah capex berubah menjadi biaya variabel dan agility meningkat. Staf IT tidak bertambah, kontrol infrastruktur fisik justru berkurang, dan AWS bertanggung jawab atas security of the cloud, bukan in the cloud.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF269",
+      "number": 269,
+      "question": "Which security service automatically recognizes and classifies sensitive data or intellectual property on AWS?",
+      "options": [
+        "Amazon GuardDuty",
+        "Amazon Macie",
+        "Amazon Inspector",
+        "AWS Shield"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "Amazon Macie menggunakan machine learning untuk mengenali dan mengklasifikasikan data sensitif. GuardDuty mendeteksi ancaman, Inspector menilai kerentanan, dan Shield melindungi dari DDoS.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF270",
+      "number": 270,
+      "question": "What is the purpose of AWS Storage Gateway?",
+      "options": [
+        "It ensures on-premises data storage is 99.999999999% durable.",
+        "It transports petabytes of data to and from AWS.",
+        "It connects to multiple Amazon EC2 instances.",
+        "It connects on-premises data storage to the AWS Cloud."
+      ],
+      "answer": 3,
+      "answerLetter": "D",
+      "explanation": "AWS Storage Gateway menghubungkan penyimpanan on-premises dengan penyimpanan cloud AWS (hybrid). Durabilitas 11 nines bukan fungsinya, transfer petabyte dilakukan Snowball, dan bukan untuk menghubungkan banyak EC2.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF271",
+      "number": 271,
+      "question": "What should users do if they want to install an application in geographically isolated locations?",
+      "options": [
+        "Install the application using multiple internet gateways.",
+        "Deploy the application to an Amazon VPC.",
+        "Deploy the application to multiple AWS Regions.",
+        "Configure the application using multiple NAT gateways."
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "Region AWS terisolasi secara geografis, sehingga deploy ke beberapa Region memenuhi kebutuhan ini. Internet gateway, VPC, dan NAT gateway adalah komponen jaringan, bukan isolasi geografis.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF272",
+      "number": 272,
+      "question": "A system in the AWS Cloud is designed to withstand the failure of one or more components. What is this an example of?",
+      "options": [
+        "Elasticity",
+        "High Availability",
+        "Scalability",
+        "Agility"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "Sistem yang tahan terhadap kegagalan komponen adalah contoh High Availability. Elasticity dan scalability terkait penyesuaian kapasitas, sedangkan agility terkait kecepatan bereksperimen.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF273",
+      "number": 273,
+      "question": "A Cloud Practitioner needs a consistent and dedicated connection between AWS resources and an on-premises system. Which AWS service can fulfill this requirement?",
+      "options": [
+        "AWS Direct Connect",
+        "AWS VPN",
+        "Amazon Connect",
+        "AWS Data Pipeline"
+      ],
+      "answer": 0,
+      "answerLetter": "A",
+      "explanation": "AWS Direct Connect menyediakan koneksi dedicated dan konsisten ke on-premises. VPN lewat internet sehingga kurang konsisten, Amazon Connect adalah contact center, dan Data Pipeline untuk pemrosesan data.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF274",
+      "number": 274,
+      "question": "Within the AWS shared responsibility model, who is responsible for security and compliance?",
+      "options": [
+        "The customer is responsible.",
+        "AWS is responsible.",
+        "AWS and the customer share responsibility.",
+        "AWS shares responsibility with the relevant governing body."
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "Keamanan dan kepatuhan adalah tanggung jawab bersama: AWS untuk keamanan cloud, pelanggan untuk keamanan di dalam cloud. Karena itu opsi yang menyebut salah satu pihak saja atau badan pengatur salah.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF275",
+      "number": 275,
+      "question": "To use the AWS CLI, users are required to generate:",
+      "options": [
+        "a password policy.",
+        "an access/secret key.",
+        "a managed policy.",
+        "an API key."
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "AWS CLI membutuhkan access key ID dan secret access key untuk autentikasi. Password policy, managed policy, dan API key bukan kredensial yang dipakai CLI.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF276",
+      "number": 276,
+      "question": "Which AWS service is used to provide encryption for Amazon EBS?",
+      "options": [
+        "AWS Certificate Manager",
+        "AWS Systems Manager",
+        "AWS KMS",
+        "AWS Config"
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "AWS KMS mengelola kunci enkripsi yang dipakai untuk mengenkripsi volume EBS. Certificate Manager untuk sertifikat SSL/TLS, Systems Manager untuk manajemen operasional, dan Config untuk pelacakan konfigurasi.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF277",
+      "number": 277,
+      "question": "How does AWS charge for AWS Lambda usage once the free tier has been exceeded? (Choose two.)",
+      "options": [
+        "By the time it takes for the Lambda function to execute.",
+        "By the number of versions of a specific Lambda function.",
+        "By the number of requests made for a given Lambda function.",
+        "By the programming language that is used for the Lambda function.",
+        "By the total number of Lambda functions in an AWS account."
+      ],
+      "answer": [
+        0,
+        2
+      ],
+      "answerLetter": "A,C",
+      "explanation": "Lambda ditagih berdasarkan durasi eksekusi dan jumlah permintaan. Jumlah versi, bahasa pemrograman, dan jumlah fungsi tidak memengaruhi biaya.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF278",
+      "number": 278,
+      "question": "Which of the following describes the relationships among AWS Regions, Availability Zones, and edge locations? (Choose two.)",
+      "options": [
+        "There are more AWS Regions than Availability Zones.",
+        "There are more edge locations than AWS Regions.",
+        "An edge location is an Availability Zone.",
+        "There are more AWS Regions than edge locations.",
+        "There are more Availability Zones than AWS Regions."
+      ],
+      "answer": [
+        1,
+        4
+      ],
+      "answerLetter": "B,E",
+      "explanation": "Edge locations lebih banyak daripada Region, dan Availability Zone lebih banyak daripada Region (tiap Region punya beberapa AZ). Opsi lain membalik hubungan tersebut atau menyamakan edge location dengan AZ.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF279",
+      "number": 279,
+      "question": "What does AWS Shield Standard provide?",
+      "options": [
+        "WAF rules",
+        "DDoS protection",
+        "Identity and Access Management (IAM) permissions and access to resources",
+        "Data encryption"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "AWS Shield Standard memberikan perlindungan DDoS secara otomatis. Aturan WAF, izin IAM, dan enkripsi data disediakan oleh layanan lain.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF280",
+      "number": 280,
+      "question": "A company wants to build its new application workloads in the AWS Cloud instead of using on- premises resources. What expense can be reduced using the AWS Cloud?",
+      "options": [
+        "The cost of writing custom-built Java or Node .js code",
+        "Penetration testing for security",
+        "hardware required to support new applications",
+        "Writing specific test cases for third-party applications."
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "Cloud mengurangi biaya hardware untuk mendukung aplikasi baru karena tidak perlu membeli server sendiri. Biaya penulisan kode, penetration testing, dan pembuatan test case tetap ada.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF281",
+      "number": 281,
+      "question": "What does AWS Marketplace allow users to do? (Choose two.)",
+      "options": [
+        "Sell unused Amazon EC2 Spot Instances.",
+        "Sell solutions to other AWS users.",
+        "Buy third-party software that runs on AWS.",
+        "Purchase AWS security and compliance documents.",
+        "Order AWS Snowball."
+      ],
+      "answer": [
+        1,
+        2
+      ],
+      "answerLetter": "B,C",
+      "explanation": "AWS Marketplace memungkinkan penjual menjual solusi ke pengguna AWS dan pembeli membeli perangkat lunak pihak ketiga. Penjualan Spot Instances, dokumen kepatuhan (AWS Artifact), dan pemesanan Snowball bukan fungsinya.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF282",
+      "number": 282,
+      "question": "What does it mean if a user deploys a hybrid cloud architecture on AWS?",
+      "options": [
+        "All resources run using on-premises infrastructure.",
+        "Some resources run on-premises and some run in a colocation center.",
+        "All resources run in the AWS Cloud.",
+        "Some resources run on-premises and some run in the AWS Cloud."
+      ],
+      "answer": 3,
+      "answerLetter": "D",
+      "explanation": "Hybrid cloud berarti sebagian resource berjalan on-premises dan sebagian di AWS Cloud. Semua on-premises atau semua di cloud bukan hybrid, dan colocation tidak melibatkan AWS.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF283",
+      "number": 283,
+      "question": "Which AWS service allows users to identify the changes made to a resource over time?",
+      "options": [
+        "Amazon Inspector",
+        "AWS Config",
+        "AWS Service Catalog",
+        "AWS IAM"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "AWS Config mencatat dan melacak perubahan konfigurasi resource dari waktu ke waktu. Inspector menilai kerentanan, Service Catalog mengelola produk, dan IAM mengatur akses.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF284",
+      "number": 284,
+      "question": "How can a company reduce its Total Cost of Ownership (TCO) using AWS?",
+      "options": [
+        "By minimizing large capital expenditures",
+        "By having no responsibility for third-party license costs",
+        "By having no operational expenditures",
+        "By having AWS manage applications"
+      ],
+      "answer": 0,
+      "answerLetter": "A",
+      "explanation": "TCO berkurang karena AWS meminimalkan pengeluaran modal besar di muka. Pelanggan tetap bertanggung jawab atas lisensi pihak ketiga, tetap ada biaya operasional, dan AWS tidak mengelola aplikasi pelanggan.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF285",
+      "number": 285,
+      "question": "Which activity is a customer responsibility in the AWS Cloud according to the AWS shared responsibility model?",
+      "options": [
+        "Ensuring network connectivity from AWS to the internet",
+        "Patching and fixing flaws within the AWS Cloud infrastructure",
+        "Ensuring the physical security of cloud data centers",
+        "Ensuring Amazon EBS volumes are backed up"
+      ],
+      "answer": 3,
+      "answerLetter": "D",
+      "explanation": "Memastikan backup volume Amazon EBS adalah tanggung jawab pelanggan. Konektivitas jaringan AWS, patching infrastruktur cloud, dan keamanan fisik data center adalah tanggung jawab AWS.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF286",
+      "number": 286,
+      "question": "What are the advantages of the AWS Cloud? (Choose two.)",
+      "options": [
+        "Fixed rate monthly cost",
+        "No need to guess capacity requirements",
+        "Increased speed to market",
+        "Increased upfront capital expenditure",
+        "Physical access to cloud data centers"
+      ],
+      "answer": [
+        1,
+        2
+      ],
+      "answerLetter": "B,C",
+      "explanation": "Keuntungan AWS: tidak perlu menebak kapasitas dan kecepatan masuk pasar lebih cepat. Biaya tetap bulanan, capex di muka yang lebih tinggi, dan akses fisik ke data center bukan keuntungan.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF287",
+      "number": 287,
+      "question": "When comparing the total cost of ownership (TCO) of an on-premises infrastructure to a cloud architecture, what costs should be considered? (Choose two.)",
+      "options": [
+        "The credit card processing fees for application transactions in the cloud.",
+        "The cost of purchasing and installing server hardware in the on-premises data.",
+        "The cost of administering the infrastructure, including operating system and software installations, patches, backups, and recovering from failures.",
+        "The costs of third-party penetration testing.",
+        "The advertising costs associated with an ongoing enterprise-wide campaign."
+      ],
+      "answer": [
+        1,
+        2
+      ],
+      "answerLetter": "B,C",
+      "explanation": "TCO harus mencakup biaya pembelian/instalasi hardware server on-premises dan biaya administrasi infrastruktur (OS, patch, backup, pemulihan). Biaya pemrosesan kartu kredit, penetration testing, dan iklan tidak relevan untuk perbandingan infrastruktur.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF288",
+      "number": 288,
+      "question": "Which AWS feature allows a company to take advantage of usage tiers for services across multiple member accounts?",
+      "options": [
+        "Service control policies (SCPs)",
+        "Consolidated billing",
+        "All Upfront Reserved Instances",
+        "AWS Cost Explorer"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "Consolidated billing (AWS Organizations) menggabungkan penggunaan seluruh akun anggota sehingga mendapat tier harga lebih baik. SCP mengatur izin, Reserved Instances adalah model pembelian, dan Cost Explorer untuk analisis biaya.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF289",
+      "number": 289,
+      "question": "What is one of the customer's responsibilities according to the AWS shared responsibility model?",
+      "options": [
+        "Virtualization infrastructure",
+        "Network infrastructure",
+        "Application security",
+        "Physical security of hardware"
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "Keamanan aplikasi adalah tanggung jawab pelanggan. Infrastruktur virtualisasi, jaringan, dan keamanan fisik hardware adalah tanggung jawab AWS.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF290",
+      "number": 290,
+      "question": "What helps a company provide a lower latency experience to its users globally?",
+      "options": [
+        "Using an AWS Region that is central to all users",
+        "Using a second Availability Zone in the AWS Region that is using used",
+        "Enabling caching in the AWS Region that is being used",
+        "Using edge locations to put content closer to all users"
+      ],
+      "answer": 3,
+      "answerLetter": "D",
+      "explanation": "Edge locations (misalnya lewat Amazon CloudFront) menempatkan konten lebih dekat ke pengguna global sehingga latency turun. Satu Region sentral, AZ kedua, atau caching di satu Region tidak mendekatkan konten ke semua pengguna.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF291",
+      "number": 291,
+      "question": "How can the AWS Cloud increase user workforce productivity after migration from an on-premises data center?",
+      "options": [
+        "Users do not have to wait for infrastructure provisioning.",
+        "The AWS Cloud infrastructure is much faster than an on-premises data center infrastructure.",
+        "AWS takes over application configuration management on behalf of users.",
+        "Users do not need to address security and compliance issues."
+      ],
+      "answer": 0,
+      "answerLetter": "A",
+      "explanation": "Pengguna tidak perlu menunggu penyediaan infrastruktur, sehingga produktivitas naik. Cloud tidak otomatis selalu lebih cepat, AWS tidak mengelola konfigurasi aplikasi pelanggan, dan keamanan/kepatuhan tetap perlu ditangani pelanggan.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF292",
+      "number": 292,
+      "question": "Which AWS service provides a quick and automated way to create and manage AWS accounts?",
+      "options": [
+        "AWS QuickSight",
+        "Amazon Lightsail",
+        "AWS Organizations",
+        "Amazon Connect"
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "AWS Organizations membuat dan mengelola akun AWS secara cepat dan otomatis. QuickSight adalah BI, Lightsail adalah VPS sederhana, dan Amazon Connect adalah contact center.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF293",
+      "number": 293,
+      "question": "Which Amazon RDS feature can be used to achieve high availability?",
+      "options": [
+        "Multiple Availability Zones",
+        "Amazon Reserved Instances",
+        "Provisioned IOPS storage",
+        "Enhanced monitoring"
+      ],
+      "answer": 0,
+      "answerLetter": "A",
+      "explanation": "Fitur Multi-AZ pada Amazon RDS menyediakan standby di AZ lain untuk high availability. Reserved Instances untuk penghematan biaya, Provisioned IOPS untuk performa, dan Enhanced monitoring untuk pemantauan.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF294",
+      "number": 294,
+      "question": "Where should users report that AWS resources are being used for malicious purposes?",
+      "options": [
+        "AWS Abuse team",
+        "AWS Shield",
+        "AWS Support",
+        "AWS Developer Forums"
+      ],
+      "answer": 0,
+      "answerLetter": "A",
+      "explanation": "Penyalahgunaan resource AWS dilaporkan ke AWS Abuse team. Shield adalah perlindungan DDoS, Support untuk bantuan teknis/akun, dan forum developer bukan jalur resmi pelaporan.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF295",
+      "number": 295,
+      "question": "Which AWS service needs to be enabled to track all user account changes within the AWS Management Console?",
+      "options": [
+        "AWS CloudTrail",
+        "Amazon Simple Notification Service (Amazon SNS)",
+        "VPC Flow Logs",
+        "AWS CloudHSM"
+      ],
+      "answer": 0,
+      "answerLetter": "A",
+      "explanation": "AWS CloudTrail merekam semua panggilan API dan aktivitas di AWS Management Console, sehingga perubahan akun pengguna dapat dilacak. Amazon SNS hanya untuk notifikasi, VPC Flow Logs hanya mencatat lalu lintas jaringan, dan AWS CloudHSM adalah modul keamanan hardware untuk kunci enkripsi.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF296",
+      "number": 296,
+      "question": "What is an AWS Cloud design best practice?",
+      "options": [
+        "Tight coupling of components",
+        "Single point of failure",
+        "High availability",
+        "Overprovisioning of resources"
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "High availability adalah praktik desain terbaik AWS karena aplikasi tetap berjalan saat terjadi kegagalan. Tight coupling, single point of failure, dan overprovisioning bertentangan dengan prinsip desain cloud yang loosely coupled, tangguh, dan efisien.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF297",
+      "number": 297,
+      "question": "Which of the following is an example of how moving to the AWS Cloud reduces upfront cost?",
+      "options": [
+        "By replacing large variable costs with lower capital investments",
+        "By replacing large capital investments with lower variable costs",
+        "By allowing the provisioning of compute and storage at a fixed level to meet peak demand",
+        "By replacing the repeated scaling of virtual servers with a simpler fixed-scale model"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "Cloud mengganti investasi modal besar di muka (capital expenditure) dengan biaya variabel yang lebih rendah (bayar sesuai pemakaian). Opsi A terbalik, sedangkan C dan D menggambarkan kapasitas tetap yang justru berlawanan dengan elastisitas cloud.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF298",
+      "number": 298,
+      "question": "When designing a typical three-tier web application, which AWS services and/or features improve availability and reduce the impact failures? (Choose two.)",
+      "options": [
+        "AWS Auto Scaling for Amazon EC2 instances",
+        "Amazon VPC subnet ACLs to check the health of a service",
+        "Distributed resources across multiple Availability Zones",
+        "AWS Server Migration Service (AWS SMS) to move Amazon EC2 instances into a different Region",
+        "Distributed resources across multiple AWS points of presence"
+      ],
+      "answer": [
+        0,
+        2
+      ],
+      "answerLetter": "A,C",
+      "explanation": "AWS Auto Scaling menyesuaikan jumlah instance EC2 saat ada kegagalan atau lonjakan beban, dan distribusi resource ke beberapa Availability Zone menjaga aplikasi tetap hidup jika satu AZ gagal. Network ACL bukan untuk health check, AWS SMS untuk migrasi, dan points of presence adalah untuk pengiriman konten, bukan ketersediaan tier aplikasi.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF299",
+      "number": 299,
+      "question": "Which cloud design principle aligns with AWS Cloud best practices?",
+      "options": [
+        "Create fixed dependencies among application components",
+        "Aggregate services on a single instance",
+        "Deploy applications in a single Availability Zone",
+        "Distribute the compute load across multiple resources"
+      ],
+      "answer": 3,
+      "answerLetter": "D",
+      "explanation": "Mendistribusikan beban komputasi ke beberapa resource meningkatkan ketahanan dan skalabilitas. Dependensi tetap, menggabungkan layanan di satu instance, dan deployment di satu AZ menciptakan single point of failure.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF300",
+      "number": 300,
+      "question": "Which of the following are recommended practices for managing IAM users? (Choose two.)",
+      "options": [
+        "Require IAM users to change their passwords after a specified period of time",
+        "Prevent IAM users from reusing previous passwords",
+        "Recommend that the same password be used on AWS and other sites",
+        "Require IAM users to store their passwords in raw text",
+        "Disable multi-factor authentication (MFA) for IAM users"
+      ],
+      "answer": [
+        0,
+        1
+      ],
+      "answerLetter": "A,B",
+      "explanation": "Praktik terbaik IAM mencakup mewajibkan pergantian password berkala dan mencegah penggunaan ulang password lama. Menggunakan password yang sama di situs lain, menyimpan password dalam teks mentah, dan menonaktifkan MFA semuanya melemahkan keamanan.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF301",
+      "number": 301,
+      "question": "A company is migrating from on-premises data centers to the AWS Cloud and is looking for hands-on help with the project. How can the company get this support? (Choose two.)",
+      "options": [
+        "Ask for a quote from the AWS Marketplace team to perform a migration into the company's AWS account.",
+        "Contact AWS Support and open a case for assistance",
+        "Use AWS Professional Services to provide guidance and to set up an AWS Landing Zone in the company's AWS account",
+        "Select a partner from the AWS Partner Network (APN) to assist with the migration",
+        "Use Amazon Connect to create a new request for proposal (RFP) for expert assistance in migrating to the AWS Cloud."
+      ],
+      "answer": [
+        2,
+        3
+      ],
+      "answerLetter": "C,D",
+      "explanation": "AWS Professional Services dapat memberi panduan dan menyiapkan AWS Landing Zone, dan mitra dari AWS Partner Network (APN) dapat membantu migrasi secara langsung. AWS Marketplace bukan penyedia jasa migrasi, AWS Support menangani masalah teknis bukan proyek migrasi, dan Amazon Connect adalah layanan contact center.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF302",
+      "number": 302,
+      "question": "How does the AWS Enterprise Support Concierge team help users?",
+      "options": [
+        "Supporting application development",
+        "Providing architecture guidance",
+        "Answering billing and account inquires",
+        "Answering questions regarding technical support cases"
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "Tim Concierge pada Enterprise Support membantu pertanyaan penagihan dan akun. Dukungan pengembangan aplikasi, panduan arsitektur, dan kasus teknis ditangani oleh Technical Account Manager atau engineer support, bukan Concierge.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF303",
+      "number": 303,
+      "question": "An application designed to span multiple Availability Zones is described as:",
+      "options": [
+        "being highly available",
+        "having global reach",
+        "using an economy of scale",
+        "having elasticity"
+      ],
+      "answer": 0,
+      "answerLetter": "A",
+      "explanation": "Aplikasi yang tersebar di beberapa Availability Zone tetap berjalan meski satu AZ gagal, sehingga disebut highly available. Global reach terkait banyak Region, economy of scale terkait penghematan biaya, dan elasticity terkait penyesuaian kapasitas.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF304",
+      "number": 304,
+      "question": "A new service using AWS must be highly available. Yet, due to regulatory requirements, all of its Amazon EC2 instances must be located in a single geographic area. According to best practices, to meet these requirements, the EC2 instances must be placed in at least two:",
+      "options": [
+        "AWS Regions",
+        "Availability Zones",
+        "subnets",
+        "placement groups"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "Availability Zone adalah lokasi terpisah dalam satu Region/area geografis, sehingga menempatkan instance di minimal dua AZ memberi high availability tanpa keluar dari area geografis. Dua Region melanggar persyaratan satu area, sedangkan subnet dan placement group tidak menjamin isolasi kegagalan fisik.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF305",
+      "number": 305,
+      "question": "Which AWS tool is used to compare the cost of running an application on-premises to running the application in the AWS Cloud?",
+      "options": [
+        "AWS Trusted Advisor",
+        "AWS Simple Monthly Calculator",
+        "AWS Total Cost of Ownership (TCO) Calculator",
+        "Cost Explorer"
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "AWS TCO Calculator digunakan untuk membandingkan biaya menjalankan aplikasi on-premises dengan di AWS. Trusted Advisor memberi rekomendasi best practice, Simple Monthly Calculator memperkirakan biaya AWS saja, dan Cost Explorer menganalisis biaya aktual.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF306",
+      "number": 306,
+      "question": "A company has multiple AWS accounts within AWS Organizations and wants to apply the Amazon EC2 Reserved Instances benefit to a single account only. Which action should be taken?",
+      "options": [
+        "Purchase the Reserved Instances from master payer account and turn off Reserved Instance sharing.",
+        "Enable billing alerts in the AWS Billing and Cost Management console.",
+        "Purchase the Reserved Instances in individual linked accounts and turn off Reserved Instance sharing from the payer level.",
+        "Enable Reserved Instance sharing in the AWS Billing and Cost Management console."
+      ],
+      "answer": 0,
+      "answerLetter": "A",
+      "explanation": "Membeli Reserved Instances dari akun payer (master) dan mematikan Reserved Instance sharing membuat manfaatnya hanya berlaku untuk satu akun. Billing alerts tidak mengatur RI, sedangkan mengaktifkan sharing justru membagikan manfaat ke semua akun.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF307",
+      "number": 307,
+      "question": "Which situation should be reported to the AWS Abuse team?",
+      "options": [
+        "In Availability Zone has a service disruption",
+        "An intrusion attempt is made from an AWS IP address",
+        "A user has trouble accessing an Amazon S3 bucket from an AWS IP address",
+        "A user needs to change payment methods due to a compromise    184"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "Percobaan intrusi yang berasal dari alamat IP AWS harus dilaporkan ke tim AWS Abuse. Gangguan AZ, masalah akses S3, dan perubahan metode pembayaran adalah masalah operasional/penagihan yang ditangani AWS Support.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF308",
+      "number": 308,
+      "question": "A company is planning to launch an ecommerce site in a single AWS Region to a worldwide user base. Which AWS services will allow the company to reach users and provide low latency and high transfer speeds? (Choose two.)",
+      "options": [
+        "Application Load Balancer",
+        "AWS Global Accelerator",
+        "AWS Direct Connect",
+        "Amazon CloudFront",
+        "AWS Lambda"
+      ],
+      "answer": [
+        1,
+        3
+      ],
+      "answerLetter": "B,D",
+      "explanation": "AWS Global Accelerator dan Amazon CloudFront memanfaatkan jaringan global AWS untuk menurunkan latensi dan mempercepat transfer ke pengguna di seluruh dunia. ALB bersifat regional, Direct Connect adalah koneksi privat ke on-premises, dan Lambda adalah layanan komputasi.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF309",
+      "number": 309,
+      "question": "Which AWS service or resource is serverless?",
+      "options": [
+        "AWS Lambda",
+        "Amazon EC2 instances",
+        "Amazon Lightsail",
+        "Amazon ElastiCache"
+      ],
+      "answer": 0,
+      "answerLetter": "A",
+      "explanation": "AWS Lambda adalah layanan serverless yang menjalankan kode tanpa mengelola server. EC2, Lightsail, dan ElastiCache memerlukan penyediaan dan pengelolaan server/instance.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF310",
+      "number": 310,
+      "question": "Which of the following are components of Amazon VPC? (Choose two.)",
+      "options": [
+        "Objects",
+        "Subnets",
+        "Buckets",
+        "Internet gateways",
+        "Access key"
+      ],
+      "answer": [
+        1,
+        3
+      ],
+      "answerLetter": "B,D",
+      "explanation": "Subnet dan internet gateway adalah komponen Amazon VPC. Objects dan buckets adalah konsep Amazon S3, sedangkan access key adalah kredensial IAM.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF311",
+      "number": 311,
+      "question": "AWS Budgets can be used to:",
+      "options": [
+        "prevent a given user from creating a resource",
+        "send an alert when the utilization of Reserved Instances drops below a certain percentage",
+        "set resource limits in AWS accounts to prevent overspending",
+        "split an AWS bill across multiple forms of payment"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "AWS Budgets dapat mengirim peringatan, misalnya saat utilisasi Reserved Instances turun di bawah ambang tertentu. Budgets tidak dapat mencegah pembuatan resource, membatasi resource secara keras, atau membagi tagihan ke beberapa metode pembayaran.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF312",
+      "number": 312,
+      "question": "Which of the following will enhance the security of access to the AWS Management Console? (Choose two.)",
+      "options": [
+        "AWS Secrets Manager",
+        "AWS Certificate Manager",
+        "AWS Multi-Factor Authentication (AWS MFA)",
+        "Security groups",
+        "Password policies"
+      ],
+      "answer": [
+        2,
+        4
+      ],
+      "answerLetter": "C,E",
+      "explanation": "AWS MFA dan password policies meningkatkan keamanan akses ke Management Console. Secrets Manager mengelola rahasia aplikasi, Certificate Manager mengelola sertifikat SSL/TLS, dan security groups adalah firewall untuk instance, bukan untuk akses console.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF313",
+      "number": 313,
+      "question": "The AWS Trusted Advisor checks include recommendations regarding which of the following? (Choose two.)",
+      "options": [
+        "Information on Amazon S3 bucket permissions",
+        "AWS service outages",
+        "Multi-factor authentication enabled on the AWS account root user",
+        "Available software patches",
+        "Number of users in the account"
+      ],
+      "answer": [
+        0,
+        2
+      ],
+      "answerLetter": "A,C",
+      "explanation": "Trusted Advisor memeriksa izin bucket S3 yang terbuka dan apakah MFA aktif pada akun root. Ia tidak melaporkan gangguan layanan (itu Health Dashboard), patch perangkat lunak, atau jumlah pengguna.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF314",
+      "number": 314,
+      "question": "Which functions can users perform using AWS KMS?",
+      "options": [
+        "Create and manage AWS access keys for the AWS account root user",
+        "Create and manage AWS access keys for an AWS account IAM user",
+        "Create and manage keys for encryption and decryption of data",
+        "Create and manage keys for multi-factor authentication"
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "AWS KMS digunakan untuk membuat dan mengelola kunci enkripsi/dekripsi data. Access key dikelola lewat IAM, dan kunci MFA bukan fungsi KMS.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF315",
+      "number": 315,
+      "question": "How does AWS Trusted Advisor provide guidance to users of the AWS Cloud? (Choose two.)",
+      "options": [
+        "It identifies software vulnerabilities in applications running on AWS",
+        "It provides a list of cost optimization recommendations based on current AWS usage",
+        "It detects potential security vulnerabilities caused by permissions settings on account resources",
+        "It automatically corrects potential security issues caused by permissions settings on account resources",
+        "It provides proactive alerting whenever an Amazon EC2 instance has been compromised"
+      ],
+      "answer": [
+        1,
+        2
+      ],
+      "answerLetter": "B,C",
+      "explanation": "Trusted Advisor memberi rekomendasi optimasi biaya berdasarkan penggunaan dan mendeteksi potensi celah keamanan akibat pengaturan izin. Ia tidak memindai kerentanan perangkat lunak, tidak memperbaiki masalah secara otomatis, dan bukan layanan deteksi instance yang diretas (itu GuardDuty).",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF316",
+      "number": 316,
+      "question": "Which of the following are advantages of the AWS Cloud? (Choose two.)",
+      "options": [
+        "AWS manages the maintenance of the cloud infrastructure",
+        "AWS manages the security of applications built on AWS",
+        "AWS manages capacity planning for physical servers",
+        "AWS manages the development of applications on AWS",
+        "AWS manages cost planning for virtual servers"
+      ],
+      "answer": [
+        0,
+        2
+      ],
+      "answerLetter": "A,C",
+      "explanation": "Keuntungan cloud: AWS mengelola pemeliharaan infrastruktur dan perencanaan kapasitas server fisik. Keamanan aplikasi, pengembangan aplikasi, dan perencanaan biaya adalah tanggung jawab pelanggan.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF317",
+      "number": 317,
+      "question": "A user deploys an Amazon RDS DB instance in multiple Availability Zones. This strategy involves which pillar of the AWS Well-Architected Framework?",
+      "options": [
+        "Performance efficiency",
+        "Reliability",
+        "Cost optimization",
+        "Security"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "Deployment RDS Multi-AZ meningkatkan failover dan ketahanan, sehingga termasuk pilar Reliability. Pilar lain (performance, cost, security) bukan fokus utama strategi ini.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF318",
+      "number": 318,
+      "question": "Which AWS services provide a user with connectivity between the AWS Cloud and on-premises resources? (Choose two.)",
+      "options": [
+        "AWS VPN",
+        "Amazon Connect",
+        "Amazon Cognito",
+        "AWS Direct Connect",
+        "AWS Managed Services"
+      ],
+      "answer": [
+        0,
+        3
+      ],
+      "answerLetter": "A,D",
+      "explanation": "AWS VPN dan AWS Direct Connect menghubungkan on-premises dengan AWS Cloud. Amazon Connect adalah contact center, Cognito untuk autentikasi pengguna aplikasi, dan AWS Managed Services untuk operasi infrastruktur.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF319",
+      "number": 319,
+      "question": "Which AWS service is used to pay AWS bills, and monitor usage and budget costs?",
+      "options": [
+        "AWS Billing and Cost Management",
+        "Consolidated billing",
+        "Amazon CloudWatch",
+        "Amazon QuickSight"
+      ],
+      "answer": 0,
+      "answerLetter": "A",
+      "explanation": "AWS Billing and Cost Management digunakan untuk membayar tagihan serta memantau penggunaan dan anggaran. Consolidated billing hanyalah fitur, CloudWatch untuk monitoring resource, dan QuickSight untuk visualisasi BI.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF320",
+      "number": 320,
+      "question": "Which element of the AWS global infrastructure consists of one or more discrete data centers, each with redundant power, networking, and connectivity, which are housed in separate facilities?",
+      "options": [
+        "AWS Regions",
+        "Availability Zones",
+        "Edge locations",
+        "Amazon CloudFront"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "Availability Zone terdiri dari satu atau lebih data center dengan daya, jaringan, dan konektivitas redundan di fasilitas terpisah. Region adalah kumpulan AZ, edge location untuk caching konten, dan CloudFront adalah layanan CDN.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF321",
+      "number": 321,
+      "question": "Which Amazon VPC feature enables users to capture information about the IP traffic that reaches Amazon EC2 instances?",
+      "options": [
+        "Security groups",
+        "Elastic network interfaces",
+        "Network ACLs",
+        "VPC Flow Logs"
+      ],
+      "answer": 3,
+      "answerLetter": "D",
+      "explanation": "VPC Flow Logs menangkap informasi lalu lintas IP ke dan dari network interface. Security groups dan network ACL adalah filter lalu lintas, dan elastic network interface hanyalah antarmuka jaringan virtual.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF322",
+      "number": 322,
+      "question": "Which AWS service can be used to automatically scale an application up and down without making capacity planning decisions?",
+      "options": [
+        "Amazon AutoScaling",
+        "Amazon Redshift",
+        "AWS CloudTrail",
+        "AWS Lambda"
+      ],
+      "answer": 3,
+      "answerLetter": "D",
+      "explanation": "AWS Lambda otomatis menskalakan naik-turun tanpa perlu perencanaan kapasitas sama sekali. Amazon Redshift adalah data warehouse, CloudTrail untuk audit, dan Auto Scaling masih memerlukan konfigurasi kapasitas.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF323",
+      "number": 323,
+      "question": "AWS Enterprise Support users have access to which service or feature that is not available to users with other AWS Support plans?",
+      "options": [
+        "AWS Trusted Advisor",
+        "AWS Support case",
+        "Concierge team",
+        "Amazon Connect"
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "Concierge team hanya tersedia pada paket Enterprise Support. Trusted Advisor (dengan cakupan penuh), support case, dan Amazon Connect tersedia atau tidak spesifik untuk Enterprise.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF324",
+      "number": 324,
+      "question": "A company wants to migrate a MySQL database to AWS but does not have the budget for Database Administrators to handle routine tasks including provisioning, patching, and performing backups. Which AWS service will support this use case?",
+      "options": [
+        "Amazon RDS",
+        "Amazon DynamoDB",
+        "Amazon DocumentDB",
+        "Amazon ElastiCache"
+      ],
+      "answer": 0,
+      "answerLetter": "A",
+      "explanation": "Amazon RDS adalah database relasional terkelola yang mengotomatiskan provisioning, patching, dan backup untuk MySQL. DynamoDB (NoSQL), DocumentDB (dokumen), dan ElastiCache (cache) bukan MySQL.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF325",
+      "number": 325,
+      "question": "A company wants to expand from one AWS Region into a second AWS Region. What does the company need to do to start supporting the new Region?",
+      "options": [
+        "Contact an AWS Account Manager to sign a new contract",
+        "Move an Availability Zone to the new Region",
+        "Begin deploying resources in the second Region",
+        "Download the AWS Management Console for the new Region"
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "Untuk memakai Region baru, cukup mulai men-deploy resource di Region tersebut. Tidak perlu kontrak baru, AZ tidak bisa dipindahkan, dan Management Console berbasis web sehingga tidak perlu diunduh.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF326",
+      "number": 326,
+      "question": "A user must meet compliance and software licensing requirements that state a workload must be hosted on a physical server. Which Amazon EC2 instance pricing option will meet these requirements?",
+      "options": [
+        "Dedicated Hosts",
+        "Dedicated Instances",
+        "Spot Instances",
+        "Reserved Instances"
+      ],
+      "answer": 0,
+      "answerLetter": "A",
+      "explanation": "Dedicated Hosts menyediakan server fisik khusus dan visibilitas socket/core untuk lisensi perangkat lunak serta kepatuhan. Dedicated Instances berjalan di hardware khusus tetapi tanpa kontrol server fisik; Spot dan Reserved Instances tidak menjamin server fisik.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF327",
+      "number": 327,
+      "question": "Which AWS service will provide a way to generate encryption keys that can be used to encrypt data? (Choose two.)",
+      "options": [
+        "Amazon Macie",
+        "AWS Certificate Manager",
+        "AWS Key Management Service (AWS KMS)",
+        "AWS Secrets Manager",
+        "AWS CloudHSM"
+      ],
+      "answer": [
+        2,
+        4
+      ],
+      "answerLetter": "C,E",
+      "explanation": "AWS KMS dan AWS CloudHSM dapat membuat dan mengelola kunci enkripsi. Macie menemukan data sensitif, Certificate Manager mengelola sertifikat, dan Secrets Manager menyimpan rahasia.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF328",
+      "number": 328,
+      "question": "A company is planning to migrate from on-premises to the AWS Cloud. Which AWS tool or service provides detailed reports on estimated cost savings after migration?",
+      "options": [
+        "AWS Total Cost of Ownership (TCO) Calculator",
+        "Cost Explorer",
+        "AWS Budgets",
+        "AWS Migration Hub"
+      ],
+      "answer": 0,
+      "answerLetter": "A",
+      "explanation": "AWS TCO Calculator memberikan laporan rinci estimasi penghematan biaya setelah migrasi. Cost Explorer dan Budgets menganalisis biaya AWS yang sudah ada, dan Migration Hub melacak progres migrasi.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF329",
+      "number": 329,
+      "question": "What can assist in evaluating an application for migration to the cloud? (Choose two.)",
+      "options": [
+        "AWS Trusted Advisor",
+        "AWS Professional Services",
+        "AWS Systems Manager",
+        "AWS Partner Network (APN)",
+        "AWS Secrets Manager"
+      ],
+      "answer": [
+        1,
+        3
+      ],
+      "answerLetter": "B,D",
+      "explanation": "AWS Professional Services dan AWS Partner Network (APN) dapat membantu mengevaluasi aplikasi untuk migrasi. Trusted Advisor, Systems Manager, dan Secrets Manager bukan alat penilaian migrasi.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF330",
+      "number": 330,
+      "question": "Which AWS service helps users meet contractual and regulatory compliance requirements for data security by using dedicated hardware appliances within the AWS Cloud?",
+      "options": [
+        "AWS Secrets Manager",
+        "AWS CloudHSM",
+        "AWS Key Management Service (AWS KMS)",
+        "AWS Directory Service"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "AWS CloudHSM menyediakan hardware security module khusus untuk memenuhi kebutuhan kepatuhan. Secrets Manager dan KMS adalah layanan terkelola tanpa appliance khusus, dan Directory Service untuk direktori.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF331",
+      "number": 331,
+      "question": "Under the AWS shared responsibility model, the customer manages which of the following? (Choose two.)",
+      "options": [
+        "Decommissioning of physical storage devices",
+        "Security group and ACL configuration",
+        "Patch management of an Amazon RDS instance operating system",
+        "Controlling physical access to data centers",
+        "Patch management of an Amazon EC2 instance operating system"
+      ],
+      "answer": [
+        1,
+        4
+      ],
+      "answerLetter": "B,E",
+      "explanation": "Pelanggan mengelola konfigurasi security group/ACL dan patching sistem operasi EC2. Penghapusan perangkat penyimpanan fisik, akses fisik data center, dan patching OS RDS menjadi tanggung jawab AWS.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF332",
+      "number": 332,
+      "question": "Which AWS service is suitable for an event-driven workload?",
+      "options": [
+        "Amazon EC2",
+        "AWS Elastic Beanstalk",
+        "AWS Lambda",
+        "Amazon Lumberyard"
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "AWS Lambda menjalankan kode sebagai respons terhadap event, cocok untuk beban kerja event-driven. EC2 dan Elastic Beanstalk menjalankan server terus-menerus, dan Lumberyard adalah game engine.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF333",
+      "number": 333,
+      "question": "What is a value proposition of the AWS Cloud?",
+      "options": [
+        "AWS is responsible for security in the AWS Cloud",
+        "No long-term contract is required",
+        "Provision new servers in days",
+        "AWS manages user applications in the AWS Cloud"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "Salah satu nilai AWS adalah tidak ada kontrak jangka panjang (bayar sesuai pemakaian). Keamanan 'di' cloud dan aplikasi adalah tanggung jawab pelanggan, dan server di AWS tersedia dalam hitungan menit, bukan hari.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF334",
+      "number": 334,
+      "question": "What is a characteristic of Amazon S3 cross-region replication?",
+      "options": [
+        "Both source and destination S3 buckets must have versioning disabled",
+        "The source and destination S3 buckets cannot be in different AWS Regions",
+        "S3 buckets configured for cross-region replication can be owned by a single AWS account or by different accounts",
+        "The source S3 bucket owner must have the source and destination AWS Regions disabled for their account"
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "Replikasi lintas Region S3 dapat dikonfigurasi antar bucket milik satu akun atau akun berbeda. Versioning harus aktif, dan bucket harus berada di Region berbeda.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF335",
+      "number": 335,
+      "question": "What is a user responsible for when running an application in the AWS Cloud?",
+      "options": [
+        "Managing physical hardware",
+        "Updating the underlying hypervisor",
+        "Providing a list of users approved for data center access    200",
+        "Managing application software updates"
+      ],
+      "answer": 3,
+      "answerLetter": "D",
+      "explanation": "Pelanggan bertanggung jawab mengelola pembaruan perangkat lunak aplikasinya. Hardware fisik, hypervisor, dan akses data center adalah tanggung jawab AWS.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF336",
+      "number": 336,
+      "question": "A company that does business online needs to quickly deliver new functionality in an iterative manner, minimizing the time to market. Which AWS Cloud feature can provide this?",
+      "options": [
+        "Elasticity",
+        "High availability",
+        "Agility",
+        "Reliability"
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "Agility memungkinkan perusahaan merilis fungsi baru dengan cepat dan iteratif sehingga mempercepat time to market. Elasticity, high availability, dan reliability tidak terkait langsung dengan kecepatan inovasi.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF337",
+      "number": 337,
+      "question": "Which features or services can be used to monitor costs and expenses for an AWS account? (Choose two.)",
+      "options": [
+        "AWS Cost and Usage report",
+        "AWS product pages",
+        "AWS Simple Monthly Calculator",
+        "Billing alerts and Amazon CloudWatch alarms",
+        "AWS Price List API"
+      ],
+      "answer": [
+        0,
+        3
+      ],
+      "answerLetter": "A,D",
+      "explanation": "AWS Cost and Usage report serta billing alerts dengan CloudWatch alarms memantau biaya akun. Halaman produk, Simple Monthly Calculator, dan Price List API hanya memberi informasi/estimasi harga, bukan memantau biaya aktual.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF338",
+      "number": 338,
+      "question": "Amazon Route 53 enables users to:",
+      "options": [
+        "encrypt data in transit",
+        "register DNS domain names",
+        "generate and manage SSL certificates",
+        "establish a dedicated network connection to AWS"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "Amazon Route 53 adalah layanan DNS yang dapat mendaftarkan nama domain. Enkripsi data in transit, sertifikat SSL, dan koneksi jaringan khusus masing-masing ditangani oleh TLS, ACM, dan Direct Connect.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF339",
+      "number": 339,
+      "question": "Which AWS service helps identify malicious or unauthorized activities in AWS accounts and workloads?",
+      "options": [
+        "Amazon Rekognition",
+        "AWS Trusted Advisor",
+        "Amazon GuardDuty",
+        "Amazon CloudWatch"
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "Amazon GuardDuty mendeteksi aktivitas berbahaya atau tidak sah di akun dan workload. Rekognition untuk analisis gambar, Trusted Advisor untuk rekomendasi best practice, dan CloudWatch untuk monitoring metrik.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF340",
+      "number": 340,
+      "question": "A company wants to try a third-party ecommerce solution before deciding to use it long term. Which AWS service or tool will support this effort?",
+      "options": [
+        "AWS Marketplace",
+        "AWS Partner Network (APN)",
+        "AWS Managed Services",
+        "AWS Service Catalog"
+      ],
+      "answer": 0,
+      "answerLetter": "A",
+      "explanation": "AWS Marketplace menyediakan katalog perangkat lunak pihak ketiga yang bisa dicoba sebelum dipakai jangka panjang. APN adalah program mitra, Managed Services mengelola operasi, dan Service Catalog mengelola produk internal.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF341",
+      "number": 341,
+      "question": "Which AWS service is a managed NoSQL database?",
+      "options": [
+        "Amazon Redshift",
+        "Amazon DynamoDB",
+        "Amazon Aurora",
+        "Amazon RDS for MariaDB"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "Amazon DynamoDB adalah database NoSQL terkelola. Redshift adalah data warehouse, sedangkan Aurora dan RDS for MariaDB adalah database relasional.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF342",
+      "number": 342,
+      "question": "Which AWS service should be used to create a billing alarm?",
+      "options": [
+        "AWS Trusted Advisor",
+        "AWS CloudTrail",
+        "Amazon CloudWatch",
+        "Amazon QuickSight"
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "Billing alarm dibuat melalui Amazon CloudWatch. Trusted Advisor memberi rekomendasi, CloudTrail mencatat API, dan QuickSight untuk visualisasi data.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF343",
+      "number": 343,
+      "question": "A company is hosting a web application in a Docker container on Amazon EC2. AWS is responsible for which of the following tasks?",
+      "options": [
+        "Scaling the web application and services developed with Docker",
+        "Provisioning or scheduling containers to run on clusters and maintain their availability",
+        "Performing hardware maintenance in the AWS facilities that run the AWS Cloud",
+        "Managing the guest operating system, including updates and security patches"
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "Pada EC2, AWS bertanggung jawab atas pemeliharaan hardware di fasilitas AWS. Scaling aplikasi, penjadwalan kontainer, dan pengelolaan guest OS beserta patch-nya adalah tanggung jawab pelanggan.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF344",
+      "number": 344,
+      "question": "Users are reporting latency when connecting to a website with a global customer base. Which AWS service will improve the customer experience by reducing latency?",
+      "options": [
+        "Amazon CloudFront",
+        "AWS Direct Connect",
+        "Amazon EC2 Auto Scaling",
+        "AWS Transit Gateway"
+      ],
+      "answer": 0,
+      "answerLetter": "A",
+      "explanation": "Amazon CloudFront adalah CDN yang menyimpan konten di edge location terdekat dengan pengguna sehingga latensi turun. AWS Direct Connect adalah koneksi privat on-premises ke AWS, EC2 Auto Scaling mengatur jumlah instance, dan AWS Transit Gateway menghubungkan jaringan VPC; ketiganya tidak mengurangi latensi pengguna global.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF345",
+      "number": 345,
+      "question": "Which actions represent best practices for using AWS IAM? (Choose two.)",
+      "options": [
+        "Configure a strong password policy",
+        "Share the security credentials among users of AWS accounts who are in the same Region",
+        "Use access keys to log in to the AWS Management Console",
+        "Rotate access keys on a regular basis",
+        "Avoid using IAM roles to delegate permissions"
+      ],
+      "answer": [
+        0,
+        3
+      ],
+      "answerLetter": "A,D",
+      "explanation": "Kebijakan password yang kuat dan rotasi access key secara berkala adalah best practice IAM. Berbagi kredensial melanggar prinsip akun individual, access key dipakai untuk akses programatik (bukan login Console), dan IAM role justru sebaiknya digunakan untuk mendelegasikan izin.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF346",
+      "number": 346,
+      "question": "Which AWS feature or service can be used to capture information about incoming and outgoing traffic in an AWS VPC infrastructure?",
+      "options": [
+        "AWS Config",
+        "VPC Flow Logs",
+        "AWS Trusted Advisor",
+        "AWS CloudTrail"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "VPC Flow Logs menangkap informasi lalu lintas IP yang masuk dan keluar dari network interface di VPC. AWS Config mencatat konfigurasi resource, Trusted Advisor memberi rekomendasi best practice, dan CloudTrail mencatat panggilan API, bukan traffic jaringan.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF347",
+      "number": 347,
+      "question": "A company wants to use an AWS service to monitor the health of application endpoints, with the ability to route traffic to healthy regional endpoints to improve application availability. Which service will support these requirements?",
+      "options": [
+        "Amazon Inspector",
+        "Amazon CloudWatch",
+        "AWS Global Accelerator",
+        "Amazon CloudFront"
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "AWS Global Accelerator memantau kesehatan endpoint dan mengarahkan traffic ke endpoint regional yang sehat melalui jaringan global AWS. Amazon Inspector adalah penilaian kerentanan, CloudWatch untuk monitoring metrik, dan CloudFront adalah CDN untuk caching konten.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF348",
+      "number": 348,
+      "question": "According to the AWS Well-Architected Framework, what change management steps should be taken to achieve reliability in the AWS Cloud? (Choose two.)",
+      "options": [
+        "Use AWS Config to generate an inventory of AWS resources",
+        "Use service limits to prevent users from creating or making changes to AWS resources",
+        "Use AWS CloudTrail to record AWS API calls into an auditable log file",
+        "Use AWS Certificate Manager to whitelist approved AWS resources and services",
+        "Use Amazon GuardDuty to validate configuration changes made to AWS resources"
+      ],
+      "answer": [
+        0,
+        2
+      ],
+      "answerLetter": "A,C",
+      "explanation": "AWS Config (inventaris dan riwayat konfigurasi resource) dan AWS CloudTrail (log audit panggilan API) mendukung change management untuk reliability. Service limits tidak dimaksudkan untuk memblokir perubahan, ACM mengelola sertifikat (bukan whitelist), dan GuardDuty mendeteksi ancaman, bukan memvalidasi perubahan konfigurasi.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF349",
+      "number": 349,
+      "question": "Which service can be used to monitor and receive alerts for AWS account root user AWS Management Console sign-in events?",
+      "options": [
+        "Amazon CloudWatch",
+        "AWS Config",
+        "AWS Trusted Advisor",
+        "AWS IAM"
+      ],
+      "answer": 0,
+      "answerLetter": "A",
+      "explanation": "Amazon CloudWatch (bersama EventBridge) dapat memantau event sign-in root user di Console dan mengirim alarm/notifikasi. AWS Config melacak konfigurasi, Trusted Advisor memberi rekomendasi, dan IAM mengelola identitas tetapi bukan layanan alert untuk event tersebut.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF350",
+      "number": 350,
+      "question": "Which design principle should be considered when architecting in the AWS Cloud?",
+      "options": [
+        "Think of servers as non-disposable resources",
+        "Use synchronous integration of services",
+        "Design loosely coupled components",
+        "Implement the least permissive rules for security groups"
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "Merancang komponen yang loosely coupled membuat kegagalan satu komponen tidak menjalar ke yang lain, sesuai prinsip arsitektur cloud. Server seharusnya dianggap disposable, integrasi sebaiknya asynchronous, dan 'least permissive' bukan prinsip yang tepat (yang benar adalah least privilege).",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF351",
+      "number": 351,
+      "question": "Which AWS services can be used to move data from on-premises data centers to AWS? (Choose two.)",
+      "options": [
+        "AWS Snowball",
+        "AWS Lambda",
+        "Amazon ElastiCache",
+        "AWS Database Migration Service (AWS DMS)",
+        "Amazon API Gateway"
+      ],
+      "answer": [
+        0,
+        3
+      ],
+      "answerLetter": "A,D",
+      "explanation": "AWS Snowball memindahkan data dalam jumlah besar secara fisik, dan AWS DMS memigrasikan database ke AWS. Lambda adalah komputasi serverless, ElastiCache adalah layanan cache in-memory, dan API Gateway untuk membuat API; bukan alat pemindah data on-premises.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF352",
+      "number": 352,
+      "question": "A batch workload takes 5 hours to finish on an Amazon EC2 instance. The amount of data to be processed doubles monthly and the processing time is proportional. What is the best cloud architecture to address this consistently growing demand?",
+      "options": [
+        "Run the application on a bigger EC2 instance size.",
+        "Switch to an EC2 instance family that better matches batch requirements.",
+        "Distribute the application across multiple EC2 instances and run the workload in parallel.",
+        "Run the application on a bare metal EC2 instance."
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "Data yang terus bertambah paling baik ditangani dengan scale out: mendistribusikan beban ke banyak instance EC2 dan memprosesnya secara paralel. Instance lebih besar, keluarga lain, atau bare metal tetap memiliki batas kapasitas sehingga tidak scalable untuk pertumbuhan terus-menerus.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF353",
+      "number": 353,
+      "question": "Each department within a company has its own independent AWS account and its own payment method. New company leadership wants to centralize departmental governance and consolidate payments. How can this be achieved using AWS services or features?",
+      "options": [
+        "Forward monthly invoices for each account. Then create IAM roles to allow cross-account access.",
+        "Create a new AWS account. Then configure AWS Organizations and invite all existing accounts to join.",
+        "Configure AWS Organizations in each of the existing accounts. Then link all accounts together.",
+        "Use Cost Explorer to combine costs from all accounts. Then replicate IAM policies across    210 accounts."
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "Buat akun baru, konfigurasikan AWS Organizations, lalu undang semua akun yang ada untuk mendapatkan governance terpusat dan consolidated billing. Meneruskan invoice dan IAM role tidak menyatukan pembayaran, Organizations tidak dikonfigurasi di tiap akun secara terpisah, dan Cost Explorer hanya untuk analisis biaya.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF354",
+      "number": 354,
+      "question": "The ability to horizontally scale Amazon EC2 instances based on demand is an example of which concept in the AWS Cloud value proposition?",
+      "options": [
+        "Economy of scale",
+        "Elasticity",
+        "High availability",
+        "Agility"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "Kemampuan menambah atau mengurangi EC2 secara horizontal sesuai permintaan adalah elasticity. Economies of scale terkait harga yang turun, high availability terkait ketahanan terhadap kegagalan, dan agility terkait kecepatan menyediakan resource.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF355",
+      "number": 355,
+      "question": "An ecommerce company anticipates a huge increase in web traffic for two very popular upcoming shopping holidays. Which AWS service or feature can be configured to dynamically adjust resources to meet this change in demand?",
+      "options": [
+        "AWS CloudTrail",
+        "Amazon EC2 Auto Scaling",
+        "Amazon Forecast",
+        "AWS Config"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "Amazon EC2 Auto Scaling menyesuaikan jumlah instance secara dinamis sesuai permintaan. CloudTrail mencatat API, Amazon Forecast hanya memprediksi data time-series, dan AWS Config melacak konfigurasi; tidak ada yang menyesuaikan resource.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF356",
+      "number": 356,
+      "question": "Which AWS service enables users to securely connect to AWS resources over the public internet?",
+      "options": [
+        "Amazon VPC peering",
+        "AWS Direct Connect",
+        "AWS VPN",
+        "Amazon Pinpoint"
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "AWS VPN membuat koneksi terenkripsi yang aman melalui internet publik ke AWS. VPC peering menghubungkan antar-VPC, Direct Connect memakai koneksi privat khusus (bukan internet publik), dan Amazon Pinpoint adalah layanan pemasaran/engagement.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF357",
+      "number": 357,
+      "question": "Which tool is used to forecast AWS spending?",
+      "options": [
+        "AWS Trusted Advisor",
+        "AWS Organizations",
+        "Cost Explorer",
+        "Amazon Inspector"
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "Cost Explorer dapat memvisualisasikan biaya dan memperkirakan (forecast) pengeluaran AWS ke depan. Trusted Advisor memberi rekomendasi, Organizations mengelola akun, dan Inspector menilai kerentanan keamanan.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF358",
+      "number": 358,
+      "question": "A company is running an ecommerce application hosted in Europe. To decrease latency for users who access the website from other parts of the world, the company would like to cache frequently accessed static content closer to the users. Which AWS service will support these requirements?",
+      "options": [
+        "Amazon ElastiCache",
+        "Amazon CloudFront",
+        "Amazon Elastic File System (Amazon EFS)",
+        "Amazon Elastic Block Store (Amazon EBS)"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "Amazon CloudFront meng-cache konten statis di edge location dekat pengguna sehingga latensi turun. ElastiCache adalah cache in-memory untuk database/aplikasi, sedangkan EFS dan EBS adalah penyimpanan file/blok, bukan distribusi konten global.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF359",
+      "number": 359,
+      "question": "Which of the following is a component of the AWS Global Infrastructure?",
+      "options": [
+        "Amazon Alexa",
+        "AWS Regions",
+        "Amazon Lightsail",
+        "AWS Organizations"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "AWS Regions adalah komponen inti AWS Global Infrastructure. Amazon Alexa adalah asisten suara, Lightsail adalah layanan VPS sederhana, dan AWS Organizations adalah layanan manajemen akun.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF360",
+      "number": 360,
+      "question": "Which AWS service will help users determine if an application running on an Amazon EC2 instance has sufficient CPU capacity?",
+      "options": [
+        "Amazon CloudWatch",
+        "AWS Config",
+        "AWS CloudTrail",
+        "Amazon Inspector"
+      ],
+      "answer": 0,
+      "answerLetter": "A",
+      "explanation": "Amazon CloudWatch mengumpulkan metrik seperti CPU utilization pada instance EC2 sehingga kecukupan kapasitas dapat dievaluasi. AWS Config melacak konfigurasi, CloudTrail mencatat API call, dan Inspector memindai kerentanan.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF361",
+      "number": 361,
+      "question": "Why is it beneficial to use Elastic Load Balancers with applications?",
+      "options": [
+        "They allow for the conversion from Application Load Balancers to Classic Load Balancers.",
+        "They are capable of handling constant changes in network traffic patterns.",
+        "They automatically adjust capacity.",
+        "They are provided at no charge to users."
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "Elastic Load Balancing mampu menangani perubahan pola traffic jaringan yang konstan dengan mendistribusikannya ke banyak target. Opsi lain salah: tidak ada konversi ke Classic Load Balancer sebagai manfaat, ELB sendiri tidak menyesuaikan kapasitas EC2 (itu tugas Auto Scaling), dan ELB berbayar.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF362",
+      "number": 362,
+      "question": "Which tasks are the customer's responsibility in the AWS shared responsibility model? (Choose two.)",
+      "options": [
+        "Infrastructure facilities access management",
+        "Cloud infrastructure hardware lifecycle management",
+        "Configuration management of user's applications",
+        "Networking infrastructure protection",
+        "Security groups configuration"
+      ],
+      "answer": [
+        2,
+        4
+      ],
+      "answerLetter": "C,E",
+      "explanation": "Pelanggan bertanggung jawab atas konfigurasi aplikasinya dan konfigurasi security group (security IN the cloud). Akses fasilitas, siklus hidup hardware, dan proteksi infrastruktur jaringan adalah tanggung jawab AWS.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF363",
+      "number": 363,
+      "question": "IT systems should be designed to reduce interdependencies, so that a change or failure in one component does not cascade to other components. This is an example of which principle of cloud architecture design?",
+      "options": [
+        "Scalability",
+        "Loose coupling",
+        "Automation",
+        "Automatic scaling"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "Mengurangi ketergantungan antar-komponen agar perubahan atau kegagalan tidak menjalar adalah prinsip loose coupling. Scalability dan automatic scaling terkait kapasitas, sedangkan automation terkait otomatisasi proses.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF364",
+      "number": 364,
+      "question": "Which AWS service or feature can enhance network security by blocking requests from a particular network for a web application on AWS? (Choose two.)",
+      "options": [
+        "AWS WAF",
+        "AWS Trusted Advisor",
+        "AWS Direct Connect",
+        "AWS Organizations",
+        "Network ACLs"
+      ],
+      "answer": [
+        0,
+        4
+      ],
+      "answerLetter": "A,E",
+      "explanation": "AWS WAF dapat memblokir request berdasarkan IP/pola, dan Network ACLs dapat menolak traffic dari jaringan tertentu. Trusted Advisor hanya memberi rekomendasi, Direct Connect adalah koneksi privat, dan Organizations mengelola akun.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF365",
+      "number": 365,
+      "question": "An application runs on multiple Amazon EC2 instances that access a shared file system simultaneously. Which AWS storage service should be used?",
+      "options": [
+        "Amazon EBS",
+        "Amazon EFS",
+        "Amazon S3",
+        "AWS Artifact"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "Amazon EFS adalah file system terkelola yang dapat di-mount oleh banyak instance EC2 secara bersamaan. EBS umumnya terpasang ke satu instance, S3 adalah object storage (bukan file system), dan AWS Artifact adalah portal dokumen compliance.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF366",
+      "number": 366,
+      "question": "A web application is hosted on AWS using an Elastic Load Balancer, multiple Amazon EC2 instances, and Amazon RDS. Which security measures fall under the responsibility of AWS? (Choose two.)",
+      "options": [
+        "Running a virus scan on EC2 instances",
+        "Protecting against IP spoofing and packet sniffing",
+        "Installing the latest security patches on the RDS instance",
+        "Encrypting communication between the EC2 instances and the Elastic Load Balancer",
+        "Configuring a security group and a network access control list (NACL) for EC2 instances"
+      ],
+      "answer": [
+        1,
+        2
+      ],
+      "answerLetter": "B,C",
+      "explanation": "AWS bertanggung jawab atas keamanan infrastruktur (misalnya proteksi IP spoofing/packet sniffing) dan patching pada layanan terkelola seperti RDS. Virus scan EC2, enkripsi komunikasi, serta konfigurasi security group/NACL adalah tanggung jawab pelanggan.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF367",
+      "number": 367,
+      "question": "What is the benefit of elasticity in the AWS Cloud?",
+      "options": [
+        "Ensure web traffic is automatically spread across multiple AWS Regions.",
+        "Minimize storage costs by automatically archiving log data.",
+        "Enable AWS to automatically select the most cost-effective services.",
+        "Automatically adjust the required compute capacity to maintain consistent performance."
+      ],
+      "answer": 3,
+      "answerLetter": "D",
+      "explanation": "Elasticity berarti kapasitas komputasi disesuaikan otomatis dengan kebutuhan agar performa tetap konsisten. Opsi lain menggambarkan hal berbeda: distribusi traffic multi-Region, archiving data, dan pemilihan layanan otomatis bukan definisi elasticity.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF368",
+      "number": 368,
+      "question": "The continual reduction of AWS Cloud pricing is due to:",
+      "options": [
+        "pay-as-you go pricing",
+        "the AWS global infrastructure",
+        "economies of scale",
+        "reserved storage pricing"
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "Penurunan harga AWS yang terus berlanjut berasal dari economies of scale, karena skala besar menurunkan biaya per unit. Pay-as-you-go dan reserved pricing adalah model harga, dan infrastruktur global bukan penyebab langsung penurunan harga.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF369",
+      "number": 369,
+      "question": "A company needs an Amazon S3 bucket that cannot have any public objects due to compliance requirements. How can this be accomplished?",
+      "options": [
+        "Enable S3 Block Public Access from the AWS Management Console.",
+        "Hold a team meeting to discuss the importance if only uploading private S3 objects.",
+        "Require all S3 objects to be manually approved before uploading.",
+        "Create a service to monitor all S3 uploads and remove any public uploads."
+      ],
+      "answer": 0,
+      "answerLetter": "A",
+      "explanation": "S3 Block Public Access mencegah objek menjadi publik pada level bucket/akun secara otomatis. Rapat tim, persetujuan manual, atau membuat layanan pemantau tidak menjamin dan tidak efisien.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF370",
+      "number": 370,
+      "question": "A Cloud Practitioner identifies a billing issue after examining the AWS Cost and Usage report in the AWS Management Console. Which action can be taken to resolve this?",
+      "options": [
+        "Open a detailed case related to billing and submit it to AWS Support for help.",
+        "Upload data describing the issue to a new object in a private Amazon S3 bucket.",
+        "Create a pricing application and deploy it to a right-sized Amazon EC2 instance for more information.",
+        "Proceed with creating a new dashboard in Amazon QuickSight."
+      ],
+      "answer": 0,
+      "answerLetter": "A",
+      "explanation": "Masalah penagihan diselesaikan dengan membuka case billing ke AWS Support. Mengunggah data ke S3, membuat aplikasi harga di EC2, atau dashboard Amazon QuickSight tidak menyelesaikan masalah penagihan tersebut.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF371",
+      "number": 371,
+      "question": "What does the AWS Simple Monthly Calculator do?",
+      "options": [
+        "Compares on-premises costs to colocation environments",
+        "Estimates monthly billing based on projected usage",
+        "Estimates power consumption at existing data centers",
+        "Estimates CPU utilization"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "AWS Simple Monthly Calculator memperkirakan tagihan bulanan berdasarkan proyeksi penggunaan (kini digantikan AWS Pricing Calculator). Ia tidak membandingkan biaya colocation, menghitung konsumsi daya, atau memperkirakan utilisasi CPU.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF372",
+      "number": 372,
+      "question": "Who is responsible for patching the guest operating system for Amazon RDS?",
+      "options": [
+        "The AWS Product team",
+        "The customer Database Administrator",
+        "Managed partners",
+        "AWS Support"
+      ],
+      "answer": 0,
+      "answerLetter": "A",
+      "explanation": "Pada Amazon RDS (layanan terkelola), patching sistem operasi adalah tanggung jawab AWS (tim produk AWS). Database Administrator pelanggan, managed partner, atau AWS Support tidak melakukan patching OS RDS.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF373",
+      "number": 373,
+      "question": "Which AWS services may be scaled using AWS Auto Scaling? (Choose two.)",
+      "options": [
+        "Amazon EC2",
+        "Amazon DynamoDB",
+        "Amazon S3",
+        "Amazon Route 53",
+        "Amazon Redshift"
+      ],
+      "answer": [
+        0,
+        1
+      ],
+      "answerLetter": "A,B",
+      "explanation": "AWS Auto Scaling dapat menskalakan Amazon EC2 dan Amazon DynamoDB (kapasitas throughput). Amazon S3 sudah skala otomatis, Route 53 adalah DNS, dan Redshift tidak diskalakan melalui AWS Auto Scaling dalam konteks ini.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF374",
+      "number": 374,
+      "question": "Which of the following are benefits of AWS Global Accelerator? (Choose two.)",
+      "options": [
+        "Reduced cost to run services on AWS",
+        "Improved availability of applications deployed on AWS",
+        "Higher durability of data stored on AWS",
+        "Decreased latency to reach applications deployed on AWS",
+        "Higher security of data stored on AWS"
+      ],
+      "answer": [
+        1,
+        3
+      ],
+      "answerLetter": "B,D",
+      "explanation": "AWS Global Accelerator meningkatkan availability dengan mengarahkan ke endpoint sehat dan mengurangi latensi lewat jaringan global AWS. Ia tidak menurunkan biaya, tidak meningkatkan durability data, dan tidak langsung meningkatkan keamanan data.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF375",
+      "number": 375,
+      "question": "A user who wants to get help with billing and reactivate a suspended account should submit an account and billing request to:",
+      "options": [
+        "the AWS Support forum",
+        "AWS Abuse",
+        "an AWS Solutions Architect",
+        "AWS Support"
+      ],
+      "answer": 3,
+      "answerLetter": "D",
+      "explanation": "Permintaan bantuan billing dan reaktivasi akun yang ditangguhkan diajukan ke AWS Support. Forum bersifat komunitas, AWS Abuse untuk laporan penyalahgunaan, dan Solutions Architect untuk panduan arsitektur.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF376",
+      "number": 376,
+      "question": "Which AWS Cloud best practice uses the elasticity and agility of cloud computing?",
+      "options": [
+        "Provision capacity based on past usage and theoretical peaks",
+        "Dynamically and predictively scale to meet usage demands",
+        "Build the application and infrastructure in a data center that grants physical access",
+        "Break apart the application into loosely coupled components"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "Menskalakan secara dinamis dan prediktif sesuai permintaan memanfaatkan elasticity dan agility cloud. Provisioning berdasarkan puncak teoretis adalah cara lama, data center fisik bukan praktik cloud, dan loose coupling adalah prinsip desain, bukan pemanfaatan elasticity.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF377",
+      "number": 377,
+      "question": "Which method helps to optimize costs of users moving to the AWS Cloud?",
+      "options": [
+        "Paying only for what is used",
+        "Purchasing hardware before it is needed",
+        "Manually provisioning cloud resources",
+        "Purchasing for the maximum possible load"
+      ],
+      "answer": 0,
+      "answerLetter": "A",
+      "explanation": "Membayar hanya untuk yang digunakan (pay-as-you-go) mengoptimalkan biaya. Membeli hardware di muka, provisioning manual, atau menyediakan kapasitas untuk beban maksimum menyebabkan pemborosan.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF378",
+      "number": 378,
+      "question": "Under the AWS shared responsibility model, which of the following is a customer responsibility?",
+      "options": [
+        "Installing security patches for the Xen and KVM hypervisors",
+        "Installing operating system patches for Amazon DynamoDB",
+        "Installing operating system security patches for Amazon EC2 database instances",
+        "Installing operating system security patches for Amazon RDS database instances"
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "Patching OS pada database yang dijalankan di instance EC2 adalah tanggung jawab pelanggan. Hypervisor, DynamoDB, dan RDS adalah layanan/infrastruktur yang dikelola AWS.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF379",
+      "number": 379,
+      "question": "The AWS Cost Management tools give users the ability to do which of the following? (Choose two.)",
+      "options": [
+        "Terminate all AWS resources automatically if budget thresholds are exceeded.",
+        "Break down AWS costs by day, service, and linked AWS account.",
+        "Create budgets and receive notifications if current of forecasted usage exceeds the budgets.",
+        "Switch automatically to Reserved Instances or Spot Instances, whichever is most cost-effective.",
+        "Move data stored in Amazon S3 to a more cost-effective storage class."
+      ],
+      "answer": [
+        1,
+        2
+      ],
+      "answerLetter": "B,C",
+      "explanation": "Cost Explorer memecah biaya per hari, layanan, dan akun; AWS Budgets membuat anggaran dan notifikasi bila aktual/prakiraan melebihi batas. Tools ini tidak menghentikan resource otomatis, tidak beralih ke Reserved/Spot Instances otomatis, dan tidak memindahkan kelas penyimpanan S3.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF380",
+      "number": 380,
+      "question": "Under the AWS shared responsibility model, the security and patching of the guest operating system is the responsibility of:",
+      "options": [
+        "AWS Support",
+        "the customer",
+        "AWS Systems Manager",
+        "AWS Config"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "Keamanan dan patching guest operating system (mis. di EC2) adalah tanggung jawab pelanggan. AWS Support, AWS Systems Manager, dan AWS Config bukan pihak yang bertanggung jawab; Systems Manager hanya alat bantu.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF381",
+      "number": 381,
+      "question": "Which AWS service makes it easy to create and manage AWS users and groups, and provide them with secure access to AWS resources at no charge?",
+      "options": [
+        "AWS Direct Connect",
+        "Amazon Connect",
+        "AWS Identity and Access Management (IAM)",
+        "AWS Firewall Manager"
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "AWS IAM membuat dan mengelola user, group, dan akses aman ke resource AWS tanpa biaya. AWS Direct Connect adalah koneksi jaringan, Amazon Connect adalah contact center, dan AWS Firewall Manager mengelola aturan firewall.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF382",
+      "number": 382,
+      "question": "Which AWS service provides on-demand of AWS security and compliance documentation?",
+      "options": [
+        "AWS Directory Service",
+        "AWS Artifact",
+        "AWS Trusted Advisor",
+        "Amazon Inspector"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "AWS Artifact menyediakan dokumen keamanan dan compliance AWS secara on-demand. AWS Directory Service untuk direktori, Trusted Advisor untuk rekomendasi, dan Amazon Inspector untuk penilaian kerentanan.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF383",
+      "number": 383,
+      "question": "Which AWS service can be used to turn text into life-like speech?",
+      "options": [
+        "Amazon Polly",
+        "Amazon Transcribe",
+        "Amazon Rekognition",
+        "Amazon Lex"
+      ],
+      "answer": 0,
+      "answerLetter": "A",
+      "explanation": "Amazon Polly mengubah teks menjadi ucapan yang menyerupai suara manusia. Amazon Transcribe mengubah suara menjadi teks, Rekognition menganalisis gambar/video, dan Lex membangun chatbot.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF384",
+      "number": 384,
+      "question": "What is one of the core principles to follow when designing a highly available application in the AWS Cloud?",
+      "options": [
+        "Design using a serverless architecture",
+        "Assume that all components within an application can fail",
+        "Design AWS Auto Scaling into every application",
+        "Design all components using open-source code"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "Prinsip utama high availability adalah mengasumsikan semua komponen bisa gagal (design for failure). Serverless, Auto Scaling, dan open-source bukan prinsip inti yang wajib.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF385",
+      "number": 385,
+      "question": "A user needs to generate a report that outlines the status of key security checks in an AWS account. The report must include: The status of Amazon S3 bucket permissions. Whether multi-factor authentication is enabled for the AWS account root user. If any security groups are configured to allow unrestricted access. Where can all this information be found in one location?",
+      "options": [
+        "Amazon QuickSight dashboard",
+        "AWS CloudTrail trails",
+        "AWS Trusted Advisor report",
+        "IAM credential report"
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "AWS Trusted Advisor menyediakan pemeriksaan keamanan seperti izin bucket S3, MFA root, dan security group terbuka dalam satu laporan. QuickSight untuk visualisasi, CloudTrail mencatat API, dan IAM credential report hanya menampilkan status kredensial user.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF386",
+      "number": 386,
+      "question": "Which Amazon EC2 pricing model should be used to comply with per-core software license requirements?",
+      "options": [
+        "Dedicated Hosts",
+        "On-Demand Instances",
+        "Spot Instances",
+        "Reserved Instances"
+      ],
+      "answer": 0,
+      "answerLetter": "A",
+      "explanation": "Dedicated Hosts memberi visibilitas socket/core fisik sehingga memenuhi lisensi software per-core. On-Demand, Spot, dan Reserved Instances berjalan pada hardware bersama tanpa kontrol tersebut.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF387",
+      "number": 387,
+      "question": "Which of the AWS global infrastructure is used to cache copies of content for faster delivery to users across the globe?",
+      "options": [
+        "AWS Regions",
+        "Availability Zones",
+        "Edge locations",
+        "Data centers"
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "Edge locations digunakan CloudFront untuk men-cache salinan konten dekat pengguna. Regions dan Availability Zones menjalankan workload, dan data center adalah bagian dari AZ, bukan titik cache global.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF388",
+      "number": 388,
+      "question": "Using AWS Config to record, audit, and evaluate changes to AWS resources to enable traceability    229 is an example of which AWS Well-Architected Framework pillar?",
+      "options": [
+        "Security",
+        "Operational excellence",
+        "Performance efficiency",
+        "Cost optimization"
+      ],
+      "answer": 0,
+      "answerLetter": "A",
+      "explanation": "Merekam, mengaudit, dan mengevaluasi perubahan dengan AWS Config untuk traceability termasuk pilar Security. Operational excellence, performance efficiency, dan cost optimization berfokus pada hal lain.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF389",
+      "number": 389,
+      "question": "A user needs to quickly deploy a non-relational database on AWS. The user does not want to manage the underlying hardware or the database software. Which AWS service can be used to accomplish this?",
+      "options": [
+        "Amazon RDS",
+        "Amazon DynamoDB",
+        "Amazon Aurora",
+        "Amazon Redshift"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "Amazon DynamoDB adalah database NoSQL terkelola penuh tanpa perlu mengelola hardware atau software database. Amazon RDS dan Aurora adalah database relasional, sedangkan Redshift adalah data warehouse.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF390",
+      "number": 390,
+      "question": "A Cloud Practitioner is developing a disaster recovery plan and intends to replicate data between multiple geographic areas. Which of the following meets these requirements?",
+      "options": [
+        "AWS Accounts",
+        "AWS Regions",
+        "Availability Zones",
+        "Edge locations"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "Replikasi data antar area geografis untuk disaster recovery dilakukan lintas AWS Regions. Availability Zones berada dalam satu Region, edge locations untuk caching konten, dan akun AWS bukan area geografis.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF391",
+      "number": 391,
+      "question": "Which features and benefits does the AWS Organizations service provide? (Choose two.)",
+      "options": [
+        "Establishing real-time communications between members of an internal team",
+        "Facilitating the use of NoSQL databases",
+        "Providing automated security checks",
+        "Implementing consolidated billing",
+        "Enforcing the governance of AWS accounts"
+      ],
+      "answer": [
+        3,
+        4
+      ],
+      "answerLetter": "D,E",
+      "explanation": "AWS Organizations menyediakan consolidated billing dan penegakan governance akun (mis. lewat SCP). Komunikasi real-time, NoSQL database, dan pemeriksaan keamanan otomatis bukan fungsinya.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF392",
+      "number": 392,
+      "question": "Which AWS service is used to automate configuration management using Chef and Puppet?",
+      "options": [
+        "AWS Config",
+        "AWS OpsWorks",
+        "AWS CloudFormation",
+        "AWS Systems Manager"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "AWS OpsWorks menyediakan Chef dan Puppet terkelola untuk otomatisasi konfigurasi. AWS Config melacak konfigurasi, CloudFormation adalah infrastructure as code, dan Systems Manager mengelola operasi tetapi bukan layanan Chef/Puppet.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF393",
+      "number": 393,
+      "question": "Which tool is best suited for combining the billing of AWS accounts that were previously independent from one another?",
+      "options": [
+        "Detailed billing report",
+        "Consolidated billing",
+        "AWS Cost and Usage report",
+        "Cost allocation report"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "Consolidated billing (AWS Organizations) menggabungkan tagihan beberapa akun AWS menjadi satu tagihan. Detailed billing report, AWS Cost and Usage report, dan Cost allocation report hanya berupa laporan biaya, bukan alat untuk menggabungkan tagihan akun.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF394",
+      "number": 394,
+      "question": "The AWS Total Cost of Ownership (TCO) Calculator is used to:",
+      "options": [
+        "receive reports that break down AWS Cloud compute costs by duration, resource, or tags",
+        "estimate savings when comparing the AWS Cloud to an on-premises environment",
+        "estimate a monthly bill for the AWS Cloud resources that will be used",
+        "enable billing alerts to monitor actual AWS costs compared to estimated costs"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "AWS TCO Calculator digunakan untuk memperkirakan penghematan biaya saat membandingkan AWS Cloud dengan lingkungan on-premises. Laporan biaya per resource/tag berasal dari Cost and Usage report, estimasi tagihan bulanan dari AWS Pricing Calculator, dan alert tagihan dari AWS Budgets/CloudWatch.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF395",
+      "number": 395,
+      "question": "Which AWS services can be used to provide network connectivity between an on-premises network and a VPC? (Choose two.)",
+      "options": [
+        "Amazon Route 53",
+        "AWS Direct Connect",
+        "AWS Data Pipeline",
+        "AWS VPN",
+        "Amazon Connect"
+      ],
+      "answer": [
+        1,
+        3
+      ],
+      "answerLetter": "B,D",
+      "explanation": "AWS Direct Connect (koneksi fisik khusus) dan AWS VPN (koneksi terenkripsi lewat internet) sama-sama menghubungkan jaringan on-premises ke VPC. Amazon Route 53 adalah layanan DNS, AWS Data Pipeline untuk alur pemrosesan data, dan Amazon Connect adalah contact center.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF396",
+      "number": 396,
+      "question": "Under the AWS shared responsibility model, which of the following are customer responsibilities? (Choose two.)",
+      "options": [
+        "Setting up server-side encryption on an Amazon S3 bucket",
+        "Amazon RDS instance patching",
+        "Network and firewall configurations",
+        "Physical security of data center facilities",
+        "Compute capacity availability"
+      ],
+      "answer": [
+        0,
+        2
+      ],
+      "answerLetter": "A,C",
+      "explanation": "Pelanggan bertanggung jawab atas keamanan di dalam cloud, termasuk mengaktifkan enkripsi server-side pada bucket Amazon S3 serta konfigurasi jaringan dan firewall (security group, NACL). Patching RDS, keamanan fisik data center, dan ketersediaan kapasitas compute adalah tanggung jawab AWS.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF397",
+      "number": 397,
+      "question": "What is the MINIMUM AWS Support plan level that will provide users with access to the AWS Support API?",
+      "options": [
+        "Developer",
+        "Enterprise",
+        "Business",
+        "Basic"
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "Akses ke AWS Support API tersedia mulai dari paket Business (juga Enterprise). Paket Basic dan Developer tidak menyediakan akses Support API.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF398",
+      "number": 398,
+      "question": "A company has deployed several relational databases on Amazon EC2 instances. Every month, the database software vendor releases new security patches that need to be applied to the databases. What is the MOST efficient way to apply the security patches?",
+      "options": [
+        "Connect to each database instance on a monthly basis, and download and apply the necessary security patches from the vendor.",
+        "Enable automatic patching for the instances using the Amazon RDS console.",
+        "In AWS Config, configure a rule for the instances and the required patch level.",
+        "Use AWS Systems Manager to automate database patching according to a schedule."
+      ],
+      "answer": 3,
+      "answerLetter": "D",
+      "explanation": "AWS Systems Manager (Patch Manager) dapat mengotomatiskan patching pada instans EC2 sesuai jadwal sehingga paling efisien. Cara manual memakan waktu, fitur patching otomatis RDS tidak berlaku untuk database di EC2, dan AWS Config hanya menilai kepatuhan konfigurasi, bukan menerapkan patch.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF399",
+      "number": 399,
+      "question": "A company wants to use Amazon Elastic Compute Cloud (Amazon EC2) to deploy a global commercial application. The deployment solution should be built with the highest redundancy and fault tolerance. Based on this situation, the Amazon EC2 instances should be deployed:",
+      "options": [
+        "in a single Availability Zone in one AWS Region",
+        "with multiple Elastic Network Interfaces belonging to different subnets",
+        "across multiple Availability Zones in one AWS Region",
+        "across multiple Availability Zones in two AWS Regions"
+      ],
+      "answer": 3,
+      "answerLetter": "D",
+      "explanation": "Menyebar instans EC2 ke beberapa Availability Zone di dua AWS Region memberikan redundansi dan fault tolerance tertinggi, bahkan jika satu Region gagal. Satu AZ atau satu Region saja memiliki risiko lebih besar, dan multiple ENI di subnet berbeda tidak memberi ketahanan terhadap kegagalan AZ/Region.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF400",
+      "number": 400,
+      "question": "A company has an application with users in both Australia and Brazil. All the company infrastructure is currently provisioned in the Asia Pacific (Sydney) Region in Australia, and Brazilian users are experiencing high latency. What should the company do to reduce latency?",
+      "options": [
+        "Implement AWS Direct Connect for users in Brazil",
+        "Provision resources in the South America (Sπo Paulo) Region in Brazil",
+        "Use AWS Transit Gateway to quickly route users from Brazil to the application",
+        "Launch additional Amazon EC2 instances in Sydney to handle the demand    236"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "Menyediakan resource di Region South America (São Paulo) mendekatkan aplikasi ke pengguna Brasil sehingga latensi turun. Direct Connect dan Transit Gateway tidak memperpendek jarak ke pengguna, dan menambah EC2 di Sydney tidak mengurangi latensi jaringan.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF401",
+      "number": 401,
+      "question": "An Amazon EC2 instance runs only when needed yet must remain active for the duration of the process. What is the most appropriate purchasing option?",
+      "options": [
+        "Dedicated Instances",
+        "Spot Instances",
+        "On-Demand Instances",
+        "Reserved Instances"
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "On-Demand Instances cocok untuk beban kerja yang berjalan hanya saat dibutuhkan dan tidak boleh terhenti selama proses, tanpa komitmen jangka panjang. Spot bisa diinterupsi, sedangkan Reserved dan Dedicated memerlukan komitmen atau biaya lebih tinggi.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF402",
+      "number": 402,
+      "question": "Which AWS dashboard displays relevant and timely information to help users manage events in progress, and provides proactive notifications to help plan for scheduled activities?",
+      "options": [
+        "AWS Service Health Dashboard",
+        "AWS Personal Health Dashboard",
+        "AWS Trusted Advisor dashboard",
+        "Amazon CloudWatch dashboard"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "AWS Personal Health Dashboard memberikan informasi dan notifikasi proaktif yang dipersonalisasi tentang event yang memengaruhi resource Anda. Service Health Dashboard hanya status umum layanan, Trusted Advisor memberi rekomendasi best practice, dan CloudWatch dashboard memantau metrik.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF403",
+      "number": 403,
+      "question": "Which AWS hybrid storage service enables a user's on-premises applications to seamlessly use AWS Cloud storage?",
+      "options": [
+        "AWS Backup",
+        "Amazon Connect",
+        "AWS Direct Connect",
+        "AWS Storage Gateway"
+      ],
+      "answer": 3,
+      "answerLetter": "D",
+      "explanation": "AWS Storage Gateway adalah layanan penyimpanan hybrid yang membuat aplikasi on-premises dapat memakai penyimpanan AWS Cloud secara mulus. AWS Backup untuk pencadangan terpusat, Amazon Connect adalah contact center, dan Direct Connect hanya koneksi jaringan.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF404",
+      "number": 404,
+      "question": "Which of the following acts as a virtual firewall at the Amazon EC2 instance level to control traffic for one or more instances?",
+      "options": [
+        "Access keys",
+        "Virtual private gateways",
+        "Security groups",
+        "Access Control Lists (ACL)"
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "Security groups bertindak sebagai firewall virtual di level instans EC2 untuk mengontrol traffic masuk dan keluar. Access keys adalah kredensial, virtual private gateway adalah sisi VPN, dan NACL bekerja di level subnet.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF405",
+      "number": 405,
+      "question": "What is the most efficient way to establish network connectivity from on-premises to multiple VPCs in different AWS Regions?",
+      "options": [
+        "Use AWS Direct Connect",
+        "Use AWS VPN",
+        "Use AWS Client VPN",
+        "Use an AWS Transit Gateway"
+      ],
+      "answer": 3,
+      "answerLetter": "D",
+      "explanation": "AWS Transit Gateway berfungsi sebagai hub pusat yang menghubungkan jaringan on-premises ke banyak VPC, termasuk lintas Region, secara efisien. Direct Connect, VPN, dan Client VPN saja tidak menyederhanakan konektivitas ke banyak VPC.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF406",
+      "number": 406,
+      "question": "Which AWS Support plan provides access to architectural and operational reviews, as well as 24/7 access to Senior Cloud Support Engineers through email, online chat, and phone?",
+      "options": [
+        "Basic",
+        "Business",
+        "Developer",
+        "Enterprise"
+      ],
+      "answer": 3,
+      "answerLetter": "D",
+      "explanation": "Paket Enterprise Support menyediakan architectural dan operational reviews serta akses 24/7 ke Senior Cloud Support Engineers lewat email, chat, dan telepon. Paket Basic, Developer, dan Business tidak mencakup seluruh fitur tersebut.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF407",
+      "number": 407,
+      "question": "Which AWS service or feature helps restrict the AWS services, resources, and individual API actions the users and roles in each member account can access?",
+      "options": [
+        "Amazon Cognito",
+        "AWS Organizations",
+        "AWS Shield",
+        "AWS Firewall Manager"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "AWS Organizations dengan Service Control Policies (SCP) membatasi layanan, resource, dan API action yang dapat diakses user dan role di akun anggota. Cognito untuk autentikasi aplikasi, Shield untuk DDoS, dan Firewall Manager untuk mengelola aturan firewall.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF408",
+      "number": 408,
+      "question": "What is the best resource for a user to find compliance-related information and reports about AWS?",
+      "options": [
+        "AWS Artifact",
+        "AWS Marketplace",
+        "Amazon Inspector",
+        "AWS Support"
+      ],
+      "answer": 0,
+      "answerLetter": "A",
+      "explanation": "AWS Artifact adalah portal self-service untuk mengunduh laporan kepatuhan dan perjanjian AWS. Marketplace menjual software, Inspector memindai kerentanan, dan AWS Support menangani bantuan teknis.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF409",
+      "number": 409,
+      "question": "Which Amazon S3 storage class is optimized to provide access to data with lower resiliency requirements, but rapid access when needed such as duplicate backups?",
+      "options": [
+        "Amazon S3 Standard",
+        "Amazon S3 Glacier Deep Archive",
+        "Amazon S3 One Zone-Infrequent Access",
+        "Amazon S3 Glacier"
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "Amazon S3 One Zone-Infrequent Access menyimpan data di satu AZ (resiliensi lebih rendah, lebih murah) dengan akses cepat saat dibutuhkan, cocok untuk salinan cadangan. S3 Standard lebih mahal, sedangkan kelas Glacier memerlukan waktu pengambilan lebih lama.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF410",
+      "number": 410,
+      "question": "What is an Availability Zone in AWS?",
+      "options": [
+        "One or more physical data centers",
+        "A completely isolated geographic location",
+        "One or more edge locations based around the world",
+        "A data center location with a single source of power and networking"
+      ],
+      "answer": 0,
+      "answerLetter": "A",
+      "explanation": "Availability Zone terdiri dari satu atau lebih data center fisik yang terisolasi dalam sebuah Region. Lokasi geografis terisolasi adalah Region, edge location terkait CloudFront, dan AZ memiliki daya serta jaringan yang redundan, bukan sumber tunggal.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF411",
+      "number": 411,
+      "question": "Which AWS services can be used as infrastructure automation tools? (Choose two.)",
+      "options": [
+        "AWS CloudFormation",
+        "Amazon CloudFront",
+        "AWS Batch",
+        "AWS OpsWorks",
+        "Amazon QuickSight"
+      ],
+      "answer": [
+        0,
+        3
+      ],
+      "answerLetter": "A,D",
+      "explanation": "AWS CloudFormation (infrastructure as code) dan AWS OpsWorks (otomasi konfigurasi dengan Chef/Puppet) adalah alat otomasi infrastruktur. CloudFront adalah CDN, AWS Batch untuk batch computing, dan QuickSight untuk business intelligence.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF412",
+      "number": 412,
+      "question": "Which AWS service enables users to create copies of resources across AWS Regions?",
+      "options": [
+        "Amazon ElastiCache",
+        "AWS CloudFormation",
+        "AWS CloudTrail",
+        "AWS Systems Manager"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "AWS CloudFormation memungkinkan pembuatan salinan resource yang sama di berbagai Region melalui template. ElastiCache adalah cache, CloudTrail mencatat log API, dan Systems Manager untuk operasional/manajemen instans.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF413",
+      "number": 413,
+      "question": "A user would like to encrypt data that is received, stored, and managed by AWS CloudTrail. Which AWS service will provide this capability?",
+      "options": [
+        "AWS Secrets Manager",
+        "AWS Systems Manager",
+        "AWS Key Management Service (AWS KMS)",
+        "AWS Certificate Manager"
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "AWS KMS menyediakan pengelolaan kunci enkripsi yang dapat digunakan CloudTrail untuk mengenkripsi log. Secrets Manager menyimpan rahasia, Systems Manager untuk operasional, dan Certificate Manager untuk sertifikat SSL/TLS.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF414",
+      "number": 414,
+      "question": "Which AWS Cloud benefit eliminates the need for users to try estimating future infrastructure usage?",
+      "options": [
+        "Easy and fast deployment of applications in multiple Regions around the world",
+        "Security of the AWS Cloud",
+        "Elasticity of the AWS Cloud",
+        "Lower variable costs due to massive economies of scale"
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "Elasticity memungkinkan resource ditambah atau dikurangi sesuai kebutuhan sehingga pengguna tidak perlu memperkirakan kapasitas masa depan. Opsi lain (deployment global, keamanan, ekonomi skala) tidak berkaitan langsung dengan menghilangkan tebakan kapasitas.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF415",
+      "number": 415,
+      "question": "What credential components are required to gain programmatic access to an AWS account? (Choose two.)",
+      "options": [
+        "An access key ID",
+        "A primary key",
+        "A secret access key",
+        "A user ID",
+        "A secondary key"
+      ],
+      "answer": [
+        0,
+        2
+      ],
+      "answerLetter": "A,C",
+      "explanation": "Akses programatik (CLI/SDK/API) membutuhkan access key ID dan secret access key. Primary key, user ID, dan secondary key bukan komponen kredensial AWS.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF416",
+      "number": 416,
+      "question": "Which of the following are AWS compute services? (Select two.)",
+      "options": [
+        "Amazon Lightsail",
+        "AWS Systems Manager",
+        "AWS CloudFormation",
+        "AWS Batch",
+        "Amazon Inspector"
+      ],
+      "answer": [
+        0,
+        3
+      ],
+      "answerLetter": "A,D",
+      "explanation": "Amazon Lightsail (server virtual sederhana) dan AWS Batch (batch computing) adalah layanan compute. Systems Manager adalah manajemen operasional, CloudFormation adalah IaC, dan Inspector adalah layanan keamanan.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF417",
+      "number": 417,
+      "question": "How can a company separate costs for network traffic, Amazon EC2, Amazon S3, and other AWS services by department?",
+      "options": [
+        "Add department-specific tags to each resource",
+        "Create a separate VPC for each department",
+        "Create a separate AWS account for each department",
+        "Use AWS Organizations"
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "Membuat akun AWS terpisah untuk tiap departemen memisahkan biaya semua layanan (jaringan, EC2, S3, dll.) secara jelas per departemen. VPC terpisah tidak memisahkan biaya semua layanan, dan Organizations saja hanyalah alat pengelolaan akun.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF418",
+      "number": 418,
+      "question": "What is a benefit of consolidated billing for AWS accounts?",
+      "options": [
+        "Access to AWS Personal Health Dashboard",
+        "Combined usage volume discounts",
+        "Improved account security",
+        "Centralized AWS IAM"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "Consolidated billing menggabungkan penggunaan semua akun sehingga bisa mendapat diskon volume gabungan. Personal Health Dashboard, keamanan akun, dan IAM terpusat bukan manfaat consolidated billing.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF419",
+      "number": 419,
+      "question": "Which AWS service will allow a user to set custom cost and usage limits, and will alert when the thresholds are exceeded?",
+      "options": [
+        "AWS Organizations",
+        "AWS Budgets",
+        "Cost Explorer",
+        "AWS Trusted Advisor"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "AWS Budgets memungkinkan pengaturan batas biaya dan penggunaan kustom serta mengirim alert saat ambang terlewati. Organizations mengelola akun, Cost Explorer untuk analisis biaya, dan Trusted Advisor memberi rekomendasi.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF420",
+      "number": 420,
+      "question": "Which AWS service provides the ability to detect inadvertent data leaks of personally identifiable information (PII) and user credential data?",
+      "options": [
+        "Amazon GuardDuty",
+        "Amazon Inspector",
+        "Amazon Macie",
+        "AWS Shield"
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "Amazon Macie menggunakan machine learning untuk menemukan dan melindungi data sensitif seperti PII dan kredensial di Amazon S3. GuardDuty mendeteksi ancaman, Inspector memindai kerentanan, dan Shield melindungi dari DDoS.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF421",
+      "number": 421,
+      "question": "Which tool can be used to monitor AWS service limits?",
+      "options": [
+        "AWS Total Cost of Ownership (TCO) Calculator",
+        "AWS Trusted Advisor",
+        "AWS Personal Health Dashboard",
+        "AWS Cost and Usage report"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "AWS Trusted Advisor memeriksa dan memantau service limits akun Anda. TCO Calculator untuk estimasi penghematan, Personal Health Dashboard untuk event layanan, dan Cost and Usage report untuk detail biaya.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF422",
+      "number": 422,
+      "question": "A company has distributed its workload on both the AWS Cloud and some on-premises servers. What type of architecture is this?",
+      "options": [
+        "Virtual private network",
+        "Virtual private cloud",
+        "Hybrid cloud",
+        "Private cloud"
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "Arsitektur yang membagi beban kerja antara AWS Cloud dan server on-premises disebut hybrid cloud. VPN adalah koneksi, VPC adalah jaringan virtual di AWS, dan private cloud hanya berjalan di lingkungan privat.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF423",
+      "number": 423,
+      "question": "Which of the following describes a security best practice that can be implemented using AWS IAM?",
+      "options": [
+        "Disable AWS Management Console access for all users",
+        "Generate secret keys for every IAM user",
+        "Grant permissions to users who are required to perform a given task only",
+        "Store AWS credentials within Amazon EC2 instances"
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "Prinsip least privilege, yaitu memberi izin hanya yang diperlukan untuk tugas tertentu, adalah best practice IAM. Menonaktifkan akses console untuk semua, membuat secret key untuk setiap user, dan menyimpan kredensial di EC2 justru tidak disarankan.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF424",
+      "number": 424,
+      "question": "What can be used to automate and manage secure, well-architected, multi-account AWS environments?",
+      "options": [
+        "AWS shared responsibility model",
+        "AWS Control Tower",
+        "AWS Security Hub",
+        "AWS Well-Architected Tool"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "AWS Control Tower mengotomatiskan penyiapan dan pengelolaan lingkungan multi-akun yang aman dan well-architected. Shared responsibility model adalah konsep, Security Hub mengagregasi temuan keamanan, dan Well-Architected Tool meninjau beban kerja.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF425",
+      "number": 425,
+      "question": "Which AWS service or feature allows a user to easily scale connectivity among thousands of VPCs?",
+      "options": [
+        "VPC peering",
+        "AWS Transit Gateway",
+        "AWS Direct Connect",
+        "AWS Global Accelerator"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "AWS Transit Gateway memudahkan skala konektivitas antara ribuan VPC dan jaringan on-premises lewat hub pusat. VPC peering sulit diskalakan (point-to-point), Direct Connect untuk koneksi on-premises, dan Global Accelerator untuk performa traffic global.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF426",
+      "number": 426,
+      "question": "A company needs protection from expanded distributed denial of service (DDoS) attacks on its website and assistance from AWS experts during such events. Which AWS managed service will meet these requirements?",
+      "options": [
+        "AWS Shield Advanced",
+        "AWS Firewall Manager",
+        "AWS WAF",
+        "Amazon GuardDuty"
+      ],
+      "answer": 0,
+      "answerLetter": "A",
+      "explanation": "AWS Shield Advanced memberi perlindungan DDoS yang diperluas dan akses ke tim AWS DDoS Response Team (DRT). Firewall Manager dan WAF mengelola aturan firewall web, sedangkan GuardDuty mendeteksi ancaman.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF427",
+      "number": 427,
+      "question": "A company's application has flexible start and end times. Which Amazon EC2 pricing model will be the MOST cost-effective?",
+      "options": [
+        "On-Demand Instances",
+        "Spot Instances",
+        "Reserved Instances",
+        "Dedicated Hosts"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "Spot Instances paling hemat biaya untuk aplikasi dengan waktu mulai dan selesai fleksibel karena memakai kapasitas cadangan dengan diskon besar. On-Demand, Reserved, dan Dedicated Hosts lebih mahal atau butuh komitmen.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF428",
+      "number": 428,
+      "question": "Under the AWS shared responsibility model, what are the customer's responsibilities? (Choose two.)",
+      "options": [
+        "Physical and environmental security",
+        "Physical network devices including firewalls",
+        "Storage device decommissioning",
+        "Security of data in transit",
+        "Data integrity authentication"
+      ],
+      "answer": [
+        3,
+        4
+      ],
+      "answerLetter": "D,E",
+      "explanation": "Pelanggan bertanggung jawab atas keamanan data in transit (enkripsi) dan integritas/autentikasi data. Keamanan fisik, perangkat jaringan fisik, dan decommissioning perangkat penyimpanan adalah tanggung jawab AWS.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF429",
+      "number": 429,
+      "question": "A cloud practitioner has a data analysis workload that is infrequently executed and can be interrupted without harm. To optimize for cost, which Amazon EC2 purchasing option should be used?",
+      "options": [
+        "On-Demand Instances",
+        "Reserved Instances",
+        "Spot Instances",
+        "Dedicated Hosts"
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "Spot Instances paling murah dan cocok untuk beban kerja yang jarang dijalankan dan boleh terinterupsi. On-Demand lebih mahal, sedangkan Reserved Instances dan Dedicated Hosts cocok untuk beban kerja stabil dan berkelanjutan.\nReference: https://aws.amazon.com/ec2/pricing/",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF430",
+      "number": 430,
+      "question": "Which AWS container service will help a user install, operate, and scale the cluster management infrastructure?",
+      "options": [
+        "Amazon Elastic Container Registry (Amazon ECR)",
+        "AWS Elastic Beanstalk",
+        "Amazon Elastic Container Service (Amazon ECS)",
+        "Amazon Elastic Block Store (Amazon EBS)"
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "Amazon ECS adalah layanan orkestrasi container yang membantu menjalankan dan menskalakan cluster container. ECR hanya registry image, Elastic Beanstalk untuk deployment aplikasi, dan EBS adalah penyimpanan blok.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF431",
+      "number": 431,
+      "question": "Which of the following allows an application running on an Amazon EC2 instance to securely write data to an Amazon S3 bucket without using long term credentials?",
+      "options": [
+        "Amazon Cognito",
+        "AWS Shield",
+        "AWS IAM role",
+        "AWS IAM user access key"
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "IAM role yang dilampirkan ke instans EC2 memberi kredensial sementara untuk menulis ke S3 tanpa kredensial jangka panjang. IAM user access key bersifat jangka panjang, Cognito untuk identitas pengguna aplikasi, dan Shield untuk DDoS.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF432",
+      "number": 432,
+      "question": "A company with a Developer-level AWS Support plan provisioned an Amazon RDS database and cannot connect to it. Who should the developer contact for this level of support?",
+      "options": [
+        "AWS Support using a support case",
+        "AWS Professional Services",
+        "AWS technical account manager",
+        "AWS consulting partners"
+      ],
+      "answer": 0,
+      "answerLetter": "A",
+      "explanation": "Dengan paket Developer, masalah teknis seperti tidak bisa terhubung ke RDS ditangani lewat support case ke AWS Support. Professional Services, TAM (hanya Enterprise), dan consulting partners bukan jalur dukungan standar untuk kasus ini.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF433",
+      "number": 433,
+      "question": "What is the purpose of having an internet gateway within a VPC?",
+      "options": [
+        "To create a VPN connection to the VPC",
+        "To allow communication between the VPC and the Internet",
+        "To impose bandwidth constraints on internet traffic",
+        "To load balance traffic from the Internet across Amazon EC2 instances"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "Internet gateway memungkinkan komunikasi antara resource di VPC dan internet. VPN memakai virtual private gateway, pembatasan bandwidth bukan fungsinya, dan load balancing dilakukan oleh Elastic Load Balancing.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF434",
+      "number": 434,
+      "question": "A company must ensure that its endpoint for a database instance remains the same after a single Availability Zone service interruption. The application needs to resume database operations without the need for manual administrative intervention. How can these requirements be met?",
+      "options": [
+        "Use multiple Amazon Route 53 routes to the standby database instance endpoint hosted on AWS Storage Gateway.",
+        "Configure Amazon RDS Multi-Availability Zone deployments with automatic failover to the standby.",
+        "Add multiple Application Load Balancers and deploy the database instance with AWS Elastic Beanstalk.",
+        "Deploy a single Network Load Balancer to distribute incoming traffic across multiple Amazon CloudFront origins."
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "Amazon RDS Multi-AZ menyediakan standby di AZ lain dengan failover otomatis dan endpoint DNS yang tetap sama, tanpa intervensi manual. Opsi lain (Route 53 dengan Storage Gateway, ALB dengan Elastic Beanstalk, NLB dengan CloudFront) tidak relevan untuk failover database.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF435",
+      "number": 435,
+      "question": "Which AWS managed service can be used to distribute traffic between one or more Amazon EC2 instances?",
+      "options": [
+        "NAT gateway",
+        "Elastic Load Balancing",
+        "Amazon Athena",
+        "AWS PrivateLink"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "Elastic Load Balancing adalah layanan terkelola yang mendistribusikan traffic ke beberapa instans EC2. NAT gateway untuk akses internet keluar, Athena untuk query data, dan PrivateLink untuk konektivitas privat ke layanan.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF436",
+      "number": 436,
+      "question": "AWS Trusted Advisor provides recommendations on which of the following? (Choose two.)",
+      "options": [
+        "Cost optimization",
+        "Auditing",
+        "Serverless architecture",
+        "Performance",
+        "Scalability"
+      ],
+      "answer": [
+        0,
+        3
+      ],
+      "answerLetter": "A,D",
+      "explanation": "AWS Trusted Advisor memberi rekomendasi pada kategori seperti cost optimization, performance, security, fault tolerance, dan service limits. Auditing, serverless architecture, dan scalability bukan kategori check-nya.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF437",
+      "number": 437,
+      "question": "Which of the following tasks can only be performed after signing in with AWS account root user credentials? (Choose two.)",
+      "options": [
+        "Closing an AWS account",
+        "Creating a new IAM policy",
+        "Changing AWS Support plans",
+        "Attaching a role to an Amazon EC2 instance",
+        "Generating access keys for IAM users"
+      ],
+      "answer": [
+        0,
+        2
+      ],
+      "answerLetter": "A,C",
+      "explanation": "Menutup akun AWS dan mengubah paket AWS Support hanya dapat dilakukan dengan kredensial root user. Membuat IAM policy, melampirkan role ke EC2, dan membuat access key untuk IAM user bisa dilakukan oleh user IAM dengan izin yang sesuai.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF438",
+      "number": 438,
+      "question": "Fault tolerance refers to:",
+      "options": [
+        "the ability of an application to accommodate growth without changing design",
+        "how well and how quickly an application's environment can have lost data restored",
+        "how secure your application is",
+        "the built-in redundancy of an application's components"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "Sesuai kunci jawaban soal ini, jawabannya adalah seberapa baik dan cepat lingkungan aplikasi dapat memulihkan data yang hilang. Opsi lain lebih menggambarkan skalabilitas (akomodasi pertumbuhan), keamanan, atau redundansi bawaan komponen.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF439",
+      "number": 439,
+      "question": "A company operating in the AWS Cloud requires separate invoices for specific environments, such as development, testing, and production. How can this be achieved?",
+      "options": [
+        "Use multiple AWS accounts",
+        "Use resource tagging",
+        "Use multiple VPCs",
+        "Use Cost Explorer"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "Resource tagging (cost allocation tags) memungkinkan biaya dipisahkan per lingkungan seperti development, testing, dan production pada laporan tagihan. Multiple VPC tidak memisahkan biaya, dan Cost Explorer hanya untuk analisis, bukan memisahkan invoice.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF440",
+      "number": 440,
+      "question": "Which AWS service can be used in the application deployment process?",
+      "options": [
+        "AWS AppSync",
+        "AWS Batch",
+        "AWS CodePipeline",
+        "AWS DataSync"
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "AWS CodePipeline adalah layanan continuous delivery yang mengotomatiskan proses deployment aplikasi. AppSync untuk GraphQL API, Batch untuk batch computing, dan DataSync untuk transfer data.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF441",
+      "number": 441,
+      "question": "What can be used to reduce the cost of running Amazon EC2 instances? (Choose two.)",
+      "options": [
+        "Spot Instances for stateless and flexible workloads",
+        "Memory optimized instances for high-compute workloads",
+        "On-Demand Instances for high-cost and sustained workloads",
+        "Reserved Instances for sustained workloads",
+        "Spend limits set using AWS Budgets"
+      ],
+      "answer": [
+        0,
+        3
+      ],
+      "answerLetter": "A,D",
+      "explanation": "Spot Instances untuk beban kerja stateless dan fleksibel serta Reserved Instances untuk beban kerja berkelanjutan sama-sama menurunkan biaya EC2. Memory optimized tidak untuk beban compute-intensive, On-Demand untuk beban berkelanjutan lebih mahal, dan AWS Budgets hanya memantau biaya, bukan menguranginya.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF442",
+      "number": 442,
+      "question": "A company is launching an e-commerce site that will store and process credit card data. The company requires information about AWS compliance reports and AWS agreements. Which AWS service provides on-demand access to these items?",
+      "options": [
+        "AWS Certificate Manager",
+        "AWS Config",
+        "AWS Artifact",
+        "AWS CloudTrail"
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "AWS Artifact menyediakan akses on-demand ke laporan kepatuhan AWS (mis. PCI, SOC) dan perjanjian seperti BAA. AWS Certificate Manager mengelola sertifikat SSL/TLS, AWS Config melacak konfigurasi resource, dan AWS CloudTrail mencatat panggilan API, sehingga bukan sumber laporan kepatuhan.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF443",
+      "number": 443,
+      "question": "Which AWS service or feature allows the user to manager cross-region application traffic?",
+      "options": [
+        "Amazon AppStream 2.0",
+        "Amazon VPC",
+        "Elastic Load Balancer",
+        "Amazon Route 53"
+      ],
+      "answer": 0,
+      "answerLetter": "A",
+      "explanation": "Sesuai kunci jawaban, Amazon AppStream 2.0 dipilih. Opsi lain umumnya tidak dipakai untuk ini: Amazon VPC adalah jaringan virtual dan Elastic Load Balancer bekerja dalam satu Region. Catatan: secara teknis Amazon Route 53 biasanya dikenal untuk mengatur traffic lintas Region.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF444",
+      "number": 444,
+      "question": "Which AWS service can be used to track unauthorized API calls?",
+      "options": [
+        "AWS Config",
+        "AWS CloudTrail",
+        "AWS Trusted Advisor",
+        "Amazon Inspector"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "AWS CloudTrail merekam semua panggilan API di akun AWS, termasuk yang tidak sah, beserta siapa, kapan, dan dari mana. AWS Config menilai konfigurasi resource, Trusted Advisor memberi rekomendasi best practice, dan Amazon Inspector memindai kerentanan, bukan melacak panggilan API.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF445",
+      "number": 445,
+      "question": "A user needs to regularly audit and evaluate the setup of all AWS resources, identify non- compliant accounts, and be notified when a resource changes. Which AWS service can be used to meet these requirements?",
+      "options": [
+        "AWS Trusted Advisor",
+        "AWS Config",
+        "AWS Resource Access Manager",
+        "AWS Systems Manager"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "AWS Config terus mengaudit dan mengevaluasi konfigurasi resource terhadap aturan, mengidentifikasi resource yang tidak patuh, dan dapat mengirim notifikasi saat ada perubahan. Trusted Advisor hanya memberi rekomendasi, Resource Access Manager untuk berbagi resource, dan Systems Manager untuk operasional/manajemen instance.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF446",
+      "number": 446,
+      "question": "A user is planning to launch two additional Amazon EC2 instances to increase availability. Which action should the user take?",
+      "options": [
+        "Launch the instances across multiple Availability Zones in a single AWS Region.",
+        "Launch the instances as EC2 Reserved Instances in the same AWS Region and the same Availability Zone.",
+        "Launch the instances in multiple AWS Regions, but in the same Availability Zone.",
+        "Launch the instances as EC2 Spot Instances in the same AWS Region, but in different Availability Zones."
+      ],
+      "answer": 0,
+      "answerLetter": "A",
+      "explanation": "Meluncurkan instance di beberapa Availability Zone dalam satu Region meningkatkan ketersediaan karena kegagalan satu AZ tidak mematikan semuanya. Opsi lain salah karena satu AZ yang sama tetap single point of failure, model harga (Reserved/Spot) tidak berkaitan dengan ketersediaan, dan AZ berada di dalam satu Region sehingga 'multi-Region tapi AZ sama' tidak masuk akal.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF447",
+      "number": 447,
+      "question": "A company must store critical business data in Amazon S3 with a backup to another AWS Region. How can this be achieved?",
+      "options": [
+        "Use an Amazon CloudFront Content Delivery Network (CDN) to cache data globally",
+        "Set up Amazon S3 cross-region replication to another AWS Region",
+        "Configure the AWS Backup service to back up to the data to another AWS Region",
+        "Take Amazon S3 bucket snapshots and copy that data to another AWS Region"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "Amazon S3 Cross-Region Replication (CRR) menyalin objek secara otomatis dan asinkron ke bucket di Region lain. CloudFront hanya melakukan caching untuk distribusi konten, bukan backup, dan S3 tidak memiliki 'bucket snapshot'. AWS Backup bukan mekanisme yang diharapkan dalam pilihan ini.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF448",
+      "number": 448,
+      "question": "Which AWS Cloud service can send alerts to customers if custom spending thresholds are exceeded?",
+      "options": [
+        "AWS Budgets",
+        "AWS Cost Explorer",
+        "AWS Cost Allocation Tags",
+        "AWS Organizations"
+      ],
+      "answer": 0,
+      "answerLetter": "A",
+      "explanation": "AWS Budgets memungkinkan Anda menetapkan ambang batas biaya/penggunaan kustom dan mengirim alert saat terlampaui. Cost Explorer untuk visualisasi dan analisis biaya, Cost Allocation Tags untuk mengelompokkan biaya, dan AWS Organizations untuk manajemen multi-akun.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF449",
+      "number": 449,
+      "question": "What is the recommended method to request penetration testing on AWS resources?",
+      "options": [
+        "Open a support case",
+        "Fill out the Penetration Testing Request Form",
+        "Request a penetration test from your technical account manager    262",
+        "Contact your AWS sales representative"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "AWS merekomendasikan pengajuan permintaan penetration testing melalui Penetration Testing Request Form. Membuka support case, meminta ke technical account manager, atau menghubungi sales representative bukan metode resmi yang direkomendasikan.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF450",
+      "number": 450,
+      "question": "A user needs to automatically discover, classify, and protect sensitive data stored in Amazon S3. Which AWS service can meet these requirements?",
+      "options": [
+        "Amazon Inspector",
+        "Amazon Macie",
+        "Amazon GuardDuty",
+        "AWS Secrets Manager"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "Amazon Macie menggunakan machine learning untuk menemukan, mengklasifikasikan, dan melindungi data sensitif di Amazon S3. Amazon Inspector memindai kerentanan, GuardDuty mendeteksi ancaman, dan Secrets Manager menyimpan kredensial/rahasia.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF451",
+      "number": 451,
+      "question": "Which components are required to build a successful site-to-site VPN connection on AWS? (Choose two.)",
+      "options": [
+        "Internet gateway",
+        "NAT gateway",
+        "263 Customer gateway",
+        "Transit gateway",
+        "Virtual private gateway"
+      ],
+      "answer": [
+        2,
+        3
+      ],
+      "answerLetter": "C,D",
+      "explanation": "Site-to-site VPN membutuhkan customer gateway (sisi on-premises) dan virtual private gateway (sisi AWS) sebagai ujung koneksi. Internet gateway dan NAT gateway untuk akses internet VPC, sedangkan transit gateway untuk menghubungkan banyak VPC/jaringan dan tidak wajib.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF452",
+      "number": 452,
+      "question": "Which Amazon EC2 pricing option is best suited for applications with short-term, spiky, or unpredictable workloads that cannot be interrupted?",
+      "options": [
+        "Spot Instances",
+        "Dedicated Hosts",
+        "On-Demand Instances",
+        "Reserved Instances"
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "On-Demand Instances cocok untuk beban kerja jangka pendek, tidak terduga, dan tidak boleh terinterupsi, tanpa komitmen jangka panjang. Spot Instances bisa diinterupsi, sedangkan Reserved Instances dan Dedicated Hosts memerlukan komitmen dan kurang fleksibel untuk beban singkat.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF453",
+      "number": 453,
+      "question": "Which AWS cloud architecture principle states that systems should reduce interdependencies?",
+      "options": [
+        "Scalability",
+        "Services, not servers",
+        "Removing single points of failure",
+        "Loose coupling"
+      ],
+      "answer": 3,
+      "answerLetter": "D",
+      "explanation": "Loose coupling berarti mengurangi ketergantungan antar komponen sehingga kegagalan atau perubahan satu komponen tidak memengaruhi yang lain. Scalability, 'services not servers', dan menghilangkan single point of failure adalah prinsip lain yang tidak secara khusus tentang mengurangi interdependensi.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF454",
+      "number": 454,
+      "question": "What is the MOST effective resource for staying up to date on AWS security announcements?",
+      "options": [
+        "AWS Personal Health Dashboard",
+        "AWS Secrets Manager",
+        "AWS Security Bulletins",
+        "Amazon Inspector"
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "AWS Security Bulletins adalah sumber resmi pengumuman dan advisori keamanan AWS. Personal Health Dashboard menampilkan kondisi layanan untuk akun Anda, Secrets Manager menyimpan rahasia, dan Amazon Inspector memindai kerentanan.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF455",
+      "number": 455,
+      "question": "Which AWS service offers persistent storage for a file system?",
+      "options": [
+        "Amazon S3",
+        "Amazon EC2 instance store",
+        "Amazon Elastic Block Store (Amazon EBS)",
+        "Amazon ElastiCache"
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "Amazon EBS menyediakan block storage persisten yang dapat dipakai sebagai file system untuk instance EC2. Instance store bersifat sementara, S3 adalah object storage (bukan file system), dan ElastiCache adalah layanan caching in-memory.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF456",
+      "number": 456,
+      "question": "Which of the following allows AWS users to manage cost allocations for billing?",
+      "options": [
+        "Tagging resources",
+        "Limiting who can create resources",
+        "Adding a secondary payment method",
+        "Running all operations on a single AWS account"
+      ],
+      "answer": 0,
+      "answerLetter": "A",
+      "explanation": "Memberi tag pada resource memungkinkan alokasi dan pelacakan biaya per proyek/departemen di laporan billing. Membatasi pembuat resource, metode pembayaran kedua, atau satu akun saja tidak membantu mengelola alokasi biaya.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF457",
+      "number": 457,
+      "question": "Which AWS service allows users to download security and compliance reports about the AWS infrastructure on demand?",
+      "options": [
+        "Amazon GuardDuty",
+        "AWS Security Hub",
+        "AWS Artifact",
+        "AWS Shield"
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "AWS Artifact menyediakan unduhan laporan keamanan dan kepatuhan AWS secara on-demand. GuardDuty mendeteksi ancaman, Security Hub mengagregasi temuan keamanan, dan AWS Shield melindungi dari DDoS.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF458",
+      "number": 458,
+      "question": "Which of the following AWS services are serverless? (Choose two.)",
+      "options": [
+        "AWS Lambda",
+        "Amazon Elasticsearch Service",
+        "AWS Elastic Beanstalk",
+        "Amazon DynamoDB",
+        "Amazon Redshift"
+      ],
+      "answer": [
+        0,
+        3
+      ],
+      "answerLetter": "A,D",
+      "explanation": "AWS Lambda dan Amazon DynamoDB bersifat serverless: tidak perlu mengelola server dan skala otomatis. Amazon Elasticsearch Service, Elastic Beanstalk, dan Amazon Redshift menggunakan instance/cluster yang perlu disediakan dan dikelola.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF459",
+      "number": 459,
+      "question": "Which AWS managed services can be used to extend an on-premises data center to the AWS network? (Choose two.)",
+      "options": [
+        "AWS VPN",
+        "NAT gateway",
+        "AWS Direct Connect",
+        "Amazon Connect",
+        "Amazon Route 53"
+      ],
+      "answer": [
+        0,
+        2
+      ],
+      "answerLetter": "A,C",
+      "explanation": "AWS VPN dan AWS Direct Connect menghubungkan data center on-premises ke jaringan AWS (lewat internet terenkripsi dan koneksi dedicated). NAT gateway untuk akses keluar subnet privat, Amazon Connect adalah contact center, dan Route 53 adalah layanan DNS.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF460",
+      "number": 460,
+      "question": "Which requirement must be met for a member account to be unlinked from an AWS Organizations account?",
+      "options": [
+        "The linked account must be actively compliant with AWS System and Organization Controls (SOC).",
+        "The payer and the linked account must both create AWS Support cases to request that the member account be unlinked from the organization.",
+        "The member account must meet the requirements of a standalone account.",
+        "The payer account must be used to remove the linked account from the organization."
+      ],
+      "answer": 3,
+      "answerLetter": "D",
+      "explanation": "Sesuai kunci jawaban, akun payer (management account) harus digunakan untuk mengeluarkan akun anggota dari organisasi. Opsi lain seperti kepatuhan SOC atau support case dari kedua akun bukan persyaratan yang benar.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF461",
+      "number": 461,
+      "question": "What AWS benefit refers to a customer's ability to deploy applications that scale up and down the meet variable demand?",
+      "options": [
+        "Elasticity",
+        "Agility",
+        "Security",
+        "Scalability"
+      ],
+      "answer": 3,
+      "answerLetter": "D",
+      "explanation": "Sesuai kunci jawaban, jawabannya adalah scalability, yaitu kemampuan sistem menangani peningkatan beban. Agility berkaitan dengan kecepatan menyediakan resource, dan Security tidak terkait; catatan: elasticity juga sering dikaitkan dengan scale up/down otomatis.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF462",
+      "number": 462,
+      "question": "During a compliance review, one of the auditors requires a copy of the AWS SOC 2 report. Which service should be used to submit this request?",
+      "options": [
+        "AWS Personal Health Dashboard",
+        "AWS Trusted Advisor",
+        "AWS Artifact",
+        "Amazon S3"
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "AWS Artifact adalah portal self-service untuk mengunduh laporan kepatuhan AWS seperti SOC 2. Personal Health Dashboard, Trusted Advisor, dan Amazon S3 tidak menyediakan laporan audit AWS.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF463",
+      "number": 463,
+      "question": "A company wants to set up a highly available workload in AWS with a disaster recovery plan that will allow the company to recover in case of a regional service interruption. Which configuration will meet these requirements?",
+      "options": [
+        "Run on two Availability Zones in one AWS Region, using the additional Availability Zones in the AWS Region for the disaster recovery site.",
+        "Run on two Availability Zones in one AWS Region, using another AWS Region for the disaster recovery site.",
+        "Run on two Availability Zones in one AWS Region, using a local AWS Region for the disaster recovery site.",
+        "Run across two AWS Regions, using a third AWS Region for the disaster recovery site."
+      ],
+      "answer": 0,
+      "answerLetter": "A",
+      "explanation": "Sesuai kunci jawaban, opsi A dipilih. Catatan: untuk pemulihan dari gangguan regional, praktik umumnya memakai Region lain sebagai lokasi disaster recovery.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF464",
+      "number": 464,
+      "question": "A company has a 500 TB image repository that needs to be transported to AWS for processing. Which AWS service can import this data MOST cost-effectively?",
+      "options": [
+        "AWS Snowball",
+        "AWS Direct Connect",
+        "AWS VPN",
+        "Amazon S3"
+      ],
+      "answer": 3,
+      "answerLetter": "D",
+      "explanation": "Sesuai kunci jawaban, Amazon S3 dipilih sebagai tujuan impor data. Catatan: untuk 500 TB, AWS Snowball biasanya dianggap paling praktis; Direct Connect dan VPN bergantung pada bandwidth jaringan.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF465",
+      "number": 465,
+      "question": "Which AWS service can run a managed PostgreSQL database that provides online transaction processing (OLTP)?",
+      "options": [
+        "Amazon DynamoDB",
+        "Amazon Athena",
+        "Amazon RDS",
+        "Amazon EMR"
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "Amazon RDS adalah layanan database relasional terkelola yang mendukung PostgreSQL dan cocok untuk OLTP. DynamoDB adalah NoSQL, Athena untuk query data di S3, dan EMR untuk pemrosesan big data.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF466",
+      "number": 466,
+      "question": "Which of the following assist in identifying costs by department? (Choose two.)",
+      "options": [
+        "Using tags on resources",
+        "Using multiple AWS accounts",
+        "Using an account manager",
+        "Using AWS Trusted Advisor",
+        "Using Consolidated Billing"
+      ],
+      "answer": [
+        1,
+        4
+      ],
+      "answerLetter": "B,E",
+      "explanation": "Sesuai kunci jawaban, menggunakan beberapa akun AWS dan Consolidated Billing memisahkan dan melacak biaya per departemen. Account manager dan Trusted Advisor tidak berfungsi untuk mengidentifikasi biaya per departemen.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF467",
+      "number": 467,
+      "question": "A company wants to allow full access to an Amazon S3 bucket for a particular user. Which element in the S3 bucket policy holds the user details that describe who needs access to the S3 bucket?",
+      "options": [
+        "Principal",
+        "Action",
+        "Resource",
+        "Statement"
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "Sesuai kunci jawaban, elemen yang dipilih adalah Resource. Catatan: secara umum elemen Principal-lah yang menentukan siapa yang mendapat akses, sedangkan Action menentukan operasi dan Statement adalah wadah aturan.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF468",
+      "number": 468,
+      "question": "Which AWS service allows for effective cost management of multiple AWS accounts?",
+      "options": [
+        "AWS Organizations",
+        "AWS Trusted Advisor",
+        "AWS Direct Connect",
+        "Amazon Connect"
+      ],
+      "answer": 0,
+      "answerLetter": "A",
+      "explanation": "AWS Organizations memungkinkan pengelolaan banyak akun secara terpusat, termasuk consolidated billing dan diskon volume. Trusted Advisor memberi rekomendasi, Direct Connect adalah koneksi jaringan, dan Amazon Connect adalah contact center.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF469",
+      "number": 469,
+      "question": "A company is piloting a new customer-facing application on Amazon Elastic Compute Cloud (Amazon EC2) for one month. What pricing model is appropriate?",
+      "options": [
+        "Reserved Instances",
+        "Spot Instances",
+        "On-Demand Instances",
+        "Dedicated Hosts"
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "On-Demand Instances cocok untuk pilot selama satu bulan karena bayar per penggunaan tanpa komitmen. Reserved Instances dan Dedicated Hosts memerlukan komitmen jangka panjang, dan Spot Instances bisa terinterupsi untuk aplikasi pelanggan.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF470",
+      "number": 470,
+      "question": "Which AWS tools automatically forecast future AWS costs?",
+      "options": [
+        "AWS Support Center",
+        "AWS Total Cost of Ownership (TCO) Calculator",
+        "AWS Simple Monthly Calculator",
+        "Cost Explorer"
+      ],
+      "answer": 3,
+      "answerLetter": "D",
+      "explanation": "Cost Explorer dapat memperkirakan (forecast) biaya AWS di masa depan berdasarkan penggunaan historis. Support Center untuk bantuan teknis, sedangkan TCO Calculator dan Simple Monthly Calculator untuk estimasi/perbandingan, bukan forecast otomatis dari penggunaan aktual.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF471",
+      "number": 471,
+      "question": "Under the AWS shared responsibility model, which of the following is a responsibility of AWS?",
+      "options": [
+        "Enabling server-side encryption for objects stored in S3",
+        "Applying AWS IAM security policies",
+        "Patching the operating system on an Amazon EC2 instance",
+        "Applying updates to the hypervisor"
+      ],
+      "answer": 3,
+      "answerLetter": "D",
+      "explanation": "Dalam shared responsibility model, AWS bertanggung jawab atas keamanan 'of the cloud' termasuk update hypervisor. Enkripsi server-side S3, kebijakan IAM, dan patching OS pada EC2 adalah tanggung jawab pelanggan.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF472",
+      "number": 472,
+      "question": "A user is able to set up a master payer account to view consolidated billing reports through:",
+      "options": [
+        "AWS Budgets.",
+        "Amazon Macie.",
+        "Amazon QuickSight.",
+        "AWS Organizations."
+      ],
+      "answer": 3,
+      "answerLetter": "D",
+      "explanation": "AWS Organizations memungkinkan pembuatan akun pembayar (management/master) untuk melihat consolidated billing semua akun anggota. AWS Budgets, Amazon Macie, dan QuickSight tidak digunakan untuk menyiapkan akun payer.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF473",
+      "number": 473,
+      "question": "Performing operations as code is a design principle that supports which pillar of the AWS Well- Architected Framework?",
+      "options": [
+        "Performance efficiency",
+        "Operational excellence",
+        "Reliability",
+        "Security"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "Melakukan operasi sebagai kode (operations as code) adalah prinsip desain pilar Operational Excellence. Pilar lain (performance efficiency, reliability, security) memiliki prinsip berbeda.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF474",
+      "number": 474,
+      "question": "Which design principle is achieved by following the reliability pillar of the AWS Well-Architected Framework?",
+      "options": [
+        "Vertical scaling",
+        "Manual failure recovery",
+        "Testing recovery procedures",
+        "Changing infrastructure manually"
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "Pilar reliability menganjurkan pengujian prosedur pemulihan agar sistem siap menghadapi kegagalan. Vertical scaling, pemulihan manual, dan perubahan infrastruktur manual bertentangan dengan prinsip otomatisasi dan horizontal scaling.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF475",
+      "number": 475,
+      "question": "What is a characteristic of Convertible Reserved Instances (RIs)?",
+      "options": [
+        "Users can exchange Convertible RIs for other Convertible RIs from a different instance family.",
+        "Users can exchange Convertible RIs for other Convertible RIs in different AWS Regions.",
+        "Users can sell and buy Convertible RIs on the AWS Marketplace.",
+        "Users can shorten the term of their Convertible RIs by merging them with other Convertible RIs."
+      ],
+      "answer": 0,
+      "answerLetter": "A",
+      "explanation": "Convertible RIs dapat ditukar dengan Convertible RIs lain, termasuk dengan instance family yang berbeda. Penukaran lintas Region, menjual di Marketplace (itu untuk Standard RI), atau memperpendek term dengan menggabungkan tidak dimungkinkan.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF476",
+      "number": 476,
+      "question": "The user is fully responsible for which action when running workloads on AWS?",
+      "options": [
+        "Patching the infrastructure components",
+        "Implementing controls to route application traffic",
+        "Maintaining physical and environmental controls",
+        "Maintaining the underlying infrastructure components"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "Pelanggan sepenuhnya bertanggung jawab atas pengaturan kontrol lalu lintas aplikasi (security group, NACL, routing). Patching infrastruktur, kontrol fisik/lingkungan, dan pemeliharaan infrastruktur dasar adalah tanggung jawab AWS.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF477",
+      "number": 477,
+      "question": "An architecture design includes Amazon EC2, an Elastic Load Balancer, and Amazon RDS. What is the BEST way to get a monthly cost estimation for this architecture?",
+      "options": [
+        "Open an AWS Support case, provide the architecture proposal, and ask for a monthly cost estimation.",
+        "Collect the published prices of the AWS services and calculate the monthly estimate.",
+        "Use the AWS Simple Monthly Calculator to estimate the monthly cost.",
+        "Use the AWS Total Cost of Ownership (TCO) Calculator to estimate the monthly cost."
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "AWS Simple Monthly Calculator (kini AWS Pricing Calculator) dipakai untuk memperkirakan biaya bulanan arsitektur seperti EC2, ELB, dan RDS. TCO Calculator membandingkan biaya on-premises dengan AWS, sedangkan support case atau hitung manual kurang efisien.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF478",
+      "number": 478,
+      "question": "Which are benefits of using Amazon RDS over Amazon EC2 when running relational databases on AWS? (Choose two.)",
+      "options": [
+        "Automated backups",
+        "Schema management",
+        "Indexing of tables",
+        "Software patching",
+        "Extract, transform, and load (ETL) management"
+      ],
+      "answer": [
+        0,
+        3
+      ],
+      "answerLetter": "A,D",
+      "explanation": "Amazon RDS menawarkan backup otomatis dan software patching terkelola, sehingga mengurangi beban operasional dibanding database di EC2. Schema management, indexing tabel, dan ETL tetap menjadi tanggung jawab pengguna di kedua opsi.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF479",
+      "number": 479,
+      "question": "What does the Amazon S3 Intelligent-Tiering storage class offer?",
+      "options": [
+        "Payment flexibility by reserving storage capacity",
+        "Long-term retention of data by copying the data to an encrypted Amazon Elastic Block Store (Amazon EBS) volume",
+        "Automatic cost savings by moving objects between tiers based on access pattern changes",
+        "Secure, durable, and lowest cost storage for data archival"
+      ],
+      "answer": 2,
+      "answerLetter": "C",
+      "explanation": "S3 Intelligent-Tiering secara otomatis memindahkan objek antar tier akses berdasarkan perubahan pola akses sehingga menghemat biaya. Ia bukan reservasi kapasitas, bukan penyalinan ke EBS, dan bukan storage arsip termurah (itu Glacier).",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF480",
+      "number": 480,
+      "question": "A company has multiple data sources across the organization and wants to consolidate data into one data warehouse. Which AWS service can be used to meet this requirement?",
+      "options": [
+        "Amazon DynamoDB",
+        "Amazon Redshift",
+        "Amazon Athena",
+        "Amazon QuickSight"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "Amazon Redshift adalah data warehouse terkelola untuk mengonsolidasikan data dari banyak sumber. DynamoDB adalah database NoSQL, Athena adalah query engine untuk S3, dan QuickSight adalah alat visualisasi BI.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF481",
+      "number": 481,
+      "question": "Which AWS service can be used to track resource changes and establish compliance?",
+      "options": [
+        "Amazon CloudWatch",
+        "AWS Config",
+        "AWS CloudTrail",
+        "AWS Trusted Advisor"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "AWS Config melacak perubahan konfigurasi resource dan mengevaluasi kepatuhan terhadap aturan. CloudWatch untuk monitoring metrik/log, CloudTrail mencatat panggilan API, dan Trusted Advisor memberi rekomendasi best practice.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF482",
+      "number": 482,
+      "question": "A user has underutilized on-premises resources. Which AWS Cloud concept can BEST address this issue?",
+      "options": [
+        "High availability",
+        "Elasticity",
+        "Security",
+        "Loose coupling"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "Elasticity memungkinkan resource disesuaikan (naik/turun) sesuai kebutuhan sehingga tidak ada kapasitas yang menganggur seperti di on-premises. High availability, security, dan loose coupling tidak menjawab masalah utilisasi rendah.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF483",
+      "number": 483,
+      "question": "A user has a stateful workload that will run on Amazon EC2 for the next 3 years. What is the MOST cost-effective pricing model for this workload?",
+      "options": [
+        "On-Demand Instances",
+        "Reserved Instances",
+        "Dedicated Instances",
+        "Spot Instances"
+      ],
+      "answer": 0,
+      "answerLetter": "A",
+      "explanation": "Sesuai kunci jawaban, On-Demand dipilih. Catatan: untuk beban stabil 3 tahun, Reserved Instances biasanya paling hemat; Dedicated Instances lebih mahal dan Spot Instances dapat terinterupsi.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF484",
+      "number": 484,
+      "question": "A cloud practitioner needs an Amazon EC2 instance to launch and run for 7 hours without interruptions. What is the most suitable and cost-effective option for this task?",
+      "options": [
+        "On-Demand Instance",
+        "Reserved Instance",
+        "Dedicated Host",
+        "Spot Instance"
+      ],
+      "answer": 3,
+      "answerLetter": "D",
+      "explanation": "Sesuai kunci jawaban, Spot Instance dipilih karena harganya paling murah untuk beban kerja singkat. Catatan: Spot dapat diinterupsi, sedangkan On-Demand menjamin tanpa interupsi; Reserved dan Dedicated Host memerlukan komitmen atau biaya lebih besar.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF485",
+      "number": 485,
+      "question": "Which of the following are benefits of using AWS Trusted Advisor? (Choose two.)",
+      "options": [
+        "Providing high-performance container orchestration",
+        "Creating and rotating encryption keys",
+        "Detecting underutilized resources to save costs",
+        "Improving security by proactively monitoring the AWS environment",
+        "Implementing enforced tagging across AWS resources"
+      ],
+      "answer": [
+        3,
+        4
+      ],
+      "answerLetter": "D,E",
+      "explanation": "Sesuai kunci jawaban, Trusted Advisor dikaitkan dengan peningkatan keamanan melalui pemantauan proaktif dan penerapan tagging. Pembuatan/rotasi kunci enkripsi adalah fungsi KMS, dan orkestrasi container adalah ECS/EKS; catatan: deteksi resource kurang dimanfaatkan juga fitur Trusted Advisor.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF486",
+      "number": 486,
+      "question": "A developer has been hired by a large company and needs AWS credentials. Which are security best practices that should be followed? (Choose two.)",
+      "options": [
+        "Grant the developer access to only the AWS resources needed to perform the job.",
+        "Share the AWS account root user credentials with the developer.",
+        "Add the developer to the administrator's group in AWS IAM.",
+        "Configure a password policy that ensures the developer's password cannot be changed.",
+        "Ensure the account password policy requires a minimum length."
+      ],
+      "answer": [
+        0,
+        4
+      ],
+      "answerLetter": "A,E",
+      "explanation": "Praktik terbaik adalah least privilege (hanya akses yang diperlukan) dan password policy dengan panjang minimum. Membagikan kredensial root, menjadikan developer administrator, atau melarang perubahan password melanggar prinsip keamanan.",
+      "isMultiSelect": true
+    },
+    {
+      "id": "CLF487",
+      "number": 487,
+      "question": "Which AWS storage service is designed to transfer petabytes of data in and out of the cloud?",
+      "options": [
+        "AWS Storage Gateway",
+        "Amazon S3 Glacier Deep Archive",
+        "Amazon Lightsail",
+        "AWS Snowball"
+      ],
+      "answer": 3,
+      "answerLetter": "D",
+      "explanation": "AWS Snowball dirancang untuk memindahkan data berukuran terabyte hingga petabyte masuk dan keluar AWS secara fisik. Storage Gateway untuk hybrid storage, Glacier Deep Archive untuk arsip, dan Lightsail adalah layanan VPS sederhana.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF488",
+      "number": 488,
+      "question": "Which service provides a user the ability to warehouse data in the AWS Cloud?",
+      "options": [
+        "Amazon EFS",
+        "Amazon Redshift",
+        "Amazon RDS",
+        "Amazon VPC"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "Amazon Redshift adalah layanan data warehouse di AWS Cloud. EFS adalah file system, RDS adalah database relasional transaksional, dan VPC adalah jaringan virtual.",
+      "isMultiSelect": false
+    },
+    {
+      "id": "CLF489",
+      "number": 489,
+      "question": "A user is planning to migrate an application workload to the AWS Cloud. Which control becomes the responsibility of AWS once the migration is complete?",
+      "options": [
+        "Patching the guest operating system",
+        "Maintaining physical and environmental controls",
+        "Protecting communications and maintaining zone security",
+        "Patching specific applications"
+      ],
+      "answer": 1,
+      "answerLetter": "B",
+      "explanation": "AWS bertanggung jawab atas kontrol fisik dan lingkungan data center (security 'of the cloud'). Patching guest OS, patching aplikasi, dan konfigurasi keamanan komunikasi/zona adalah tanggung jawab pelanggan.",
       "isMultiSelect": false
     }
   ]
